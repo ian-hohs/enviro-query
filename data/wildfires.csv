@@ -1,0 +1,601 @@
+date_started,county,acres_burned,duration_days,cause,structures_threatened,structures_destroyed,year,month
+2020-01-01,San Francisco,77.4,1,Unknown,1,0,2020,1
+2020-01-02,Riverside,329.6,2,Human,19,2,2020,1
+2020-01-04,Sacramento,481.8,6,Lightning,0,5,2020,1
+2020-01-11,Fresno,215.7,6,Lightning,1,2,2020,1
+2020-01-12,San Diego,293.5,3,Lightning,29,2,2020,1
+2020-01-14,Shasta,403.0,6,Arson,12,1,2020,1
+2020-01-14,Marin,485.5,2,Arson,48,5,2020,1
+2020-01-18,Los Angeles,460.2,2,Equipment Use,5,5,2020,1
+2020-01-19,Santa Clara,149.1,3,Equipment Use,11,2,2020,1
+2020-01-24,Alameda,286.5,4,Equipment Use,6,5,2020,1
+2020-01-30,Sacramento,72.3,1,Human,2,1,2020,1
+2020-02-03,Alameda,283.3,1,Unknown,27,2,2020,2
+2020-02-04,Napa,100.1,5,Equipment Use,8,2,2020,2
+2020-02-07,San Diego,354.8,2,Lightning,18,7,2020,2
+2020-02-10,Riverside,485.2,7,Unknown,22,5,2020,2
+2020-02-12,San Diego,428.9,5,Debris Burning,26,8,2020,2
+2020-02-15,Santa Clara,92.8,5,Equipment Use,1,1,2020,2
+2020-02-17,Sonoma,151.8,3,Human,3,2,2020,2
+2020-02-22,Napa,166.5,3,Lightning,4,3,2020,2
+2020-02-22,Monterey,108.8,1,Lightning,10,1,2020,2
+2020-02-23,San Francisco,267.2,1,Human,17,2,2020,2
+2020-02-26,Napa,171.1,4,Debris Burning,13,0,2020,2
+2020-03-01,Los Angeles,426.2,3,Human,6,1,2020,3
+2020-03-04,Shasta,104.3,3,Debris Burning,3,2,2020,3
+2020-03-10,Marin,417.1,2,Arson,10,1,2020,3
+2020-03-13,Monterey,282.3,1,Lightning,20,3,2020,3
+2020-03-14,Kern,380.9,2,Unknown,18,0,2020,3
+2020-03-23,Sacramento,489.7,4,Unknown,17,1,2020,3
+2020-03-27,Santa Clara,301.2,5,Arson,30,0,2020,3
+2020-04-02,Sonoma,37.8,2,Debris Burning,3,1,2020,4
+2020-04-03,Kern,495.5,2,Arson,15,0,2020,4
+2020-04-07,Napa,162.9,5,Arson,8,1,2020,4
+2020-04-08,Sonoma,267.6,1,Equipment Use,12,1,2020,4
+2020-04-10,Monterey,259.8,3,Unknown,6,1,2020,4
+2020-04-10,Fresno,479.6,5,Equipment Use,24,8,2020,4
+2020-04-15,San Diego,301.1,3,Lightning,7,6,2020,4
+2020-04-16,Riverside,194.2,3,Arson,4,3,2020,4
+2020-04-24,Napa,223.9,5,Human,7,2,2020,4
+2020-04-26,San Francisco,64.2,1,Equipment Use,0,1,2020,4
+2020-04-26,Alameda,56.6,1,Debris Burning,4,0,2020,4
+2020-04-27,Monterey,485.6,2,Arson,30,9,2020,4
+2020-04-29,Santa Clara,290.2,1,Equipment Use,28,4,2020,4
+2020-05-04,Kern,491.0,2,Arson,23,1,2020,5
+2020-05-05,Monterey,33.4,4,Human,2,0,2020,5
+2020-05-08,San Bernardino,88.1,1,Equipment Use,5,1,2020,5
+2020-05-13,Marin,217.6,6,Equipment Use,7,0,2020,5
+2020-05-14,San Bernardino,169.8,2,Human,7,3,2020,5
+2020-05-17,Napa,220.0,6,Debris Burning,2,4,2020,5
+2020-05-17,Santa Clara,245.9,5,Human,22,1,2020,5
+2020-05-17,San Bernardino,136.5,4,Arson,8,0,2020,5
+2020-05-19,Santa Clara,458.2,7,Debris Burning,24,7,2020,5
+2020-05-26,San Bernardino,174.1,5,Arson,0,1,2020,5
+2020-05-29,Napa,383.8,4,Equipment Use,29,7,2020,5
+2020-06-02,Fresno,267.7,2,Unknown,19,4,2020,6
+2020-06-03,Sonoma,283.1,5,Lightning,17,1,2020,6
+2020-06-05,San Francisco,37.9,5,Arson,3,0,2020,6
+2020-06-05,Los Angeles,164.0,1,Human,3,3,2020,6
+2020-06-07,Sonoma,188.5,1,Human,16,0,2020,6
+2020-06-09,San Bernardino,441.8,3,Human,40,4,2020,6
+2020-06-13,San Bernardino,300.2,6,Debris Burning,30,0,2020,6
+2020-06-14,Shasta,146.1,1,Debris Burning,14,1,2020,6
+2020-06-21,Sacramento,268.0,2,Arson,4,5,2020,6
+2020-06-26,Fresno,432.4,4,Arson,42,1,2020,6
+2020-07-07,San Diego,4709.4,24,Debris Burning,382,68,2020,7
+2020-07-10,San Diego,725.2,7,Arson,51,13,2020,7
+2020-07-13,Kern,940.7,5,Equipment Use,74,13,2020,7
+2020-07-15,Shasta,3101.2,17,Human,204,49,2020,7
+2020-07-17,Fresno,2640.9,18,Lightning,234,45,2020,7
+2020-07-20,Shasta,3067.4,20,Debris Burning,214,26,2020,7
+2020-07-23,Alameda,3766.9,23,Debris Burning,357,27,2020,7
+2020-07-24,Sacramento,120.5,1,Lightning,6,0,2020,7
+2020-07-26,Los Angeles,5705.1,31,Human,506,28,2020,7
+2020-07-30,San Bernardino,709.5,8,Unknown,46,3,2020,7
+2020-07-31,San Diego,3790.5,22,Debris Burning,200,7,2020,7
+2020-07-31,Napa,306.5,1,Unknown,28,5,2020,7
+2020-07-31,Shasta,5474.8,27,Debris Burning,3,72,2020,7
+2020-08-02,Sonoma,5036.1,25,Human,215,60,2020,8
+2020-08-03,Monterey,6921.5,36,Arson,282,64,2020,8
+2020-08-04,Monterey,5314.2,31,Arson,325,64,2020,8
+2020-08-11,Napa,4426.8,27,Arson,147,68,2020,8
+2020-08-11,Alameda,620.8,6,Lightning,32,1,2020,8
+2020-08-12,Shasta,5730.3,28,Debris Burning,442,63,2020,8
+2020-08-12,Shasta,6292.7,31,Debris Burning,208,39,2020,8
+2020-08-13,Fresno,7755.8,41,Arson,150,119,2020,8
+2020-08-16,Kern,2858.6,14,Unknown,202,15,2020,8
+2020-08-16,Riverside,7817.9,40,Debris Burning,6,81,2020,8
+2020-08-16,Los Angeles,1519.1,9,Unknown,143,9,2020,8
+2020-08-22,Monterey,923.1,7,Lightning,23,17,2020,8
+2020-08-24,Sonoma,5544.9,30,Arson,419,46,2020,8
+2020-08-24,Los Angeles,4136.7,25,Human,243,17,2020,8
+2020-08-29,Alameda,2732.3,17,Arson,44,36,2020,8
+2020-09-02,Kern,6197.2,30,Unknown,65,67,2020,9
+2020-09-03,Monterey,4463.7,25,Arson,178,22,2020,9
+2020-09-06,Shasta,2400.1,15,Human,209,15,2020,9
+2020-09-09,Kern,3459.4,22,Lightning,94,18,2020,9
+2020-09-11,Napa,829.9,6,Unknown,14,5,2020,9
+2020-09-17,San Francisco,6259.3,33,Lightning,120,63,2020,9
+2020-09-17,San Diego,4146.3,20,Debris Burning,245,13,2020,9
+2020-09-22,Riverside,2164.8,10,Lightning,9,31,2020,9
+2020-09-22,San Bernardino,6443.8,33,Human,84,24,2020,9
+2020-09-26,Napa,2624.2,15,Arson,74,37,2020,9
+2020-09-29,Santa Clara,7911.0,43,Unknown,204,50,2020,9
+2020-10-04,Fresno,3331.1,17,Equipment Use,156,10,2020,10
+2020-10-07,San Diego,6731.6,37,Human,312,53,2020,10
+2020-10-08,Los Angeles,7021.2,38,Lightning,384,6,2020,10
+2020-10-15,Los Angeles,6779.5,34,Unknown,9,32,2020,10
+2020-10-19,Sonoma,6719.2,37,Debris Burning,501,64,2020,10
+2020-10-21,Alameda,6477.6,32,Lightning,574,43,2020,10
+2020-10-22,San Diego,2295.6,16,Human,99,16,2020,10
+2020-10-25,Fresno,5727.4,32,Equipment Use,406,17,2020,10
+2020-11-03,Monterey,262.1,3,Unknown,17,5,2020,11
+2020-11-03,Sacramento,235.8,1,Equipment Use,22,1,2020,11
+2020-11-04,Marin,19.2,5,Unknown,1,0,2020,11
+2020-11-04,Santa Clara,130.2,1,Unknown,10,1,2020,11
+2020-11-06,Napa,281.9,5,Unknown,1,4,2020,11
+2020-11-11,San Diego,342.7,3,Lightning,30,1,2020,11
+2020-11-14,San Bernardino,71.0,3,Lightning,0,0,2020,11
+2020-11-15,Los Angeles,312.8,2,Unknown,22,4,2020,11
+2020-11-20,Los Angeles,179.5,4,Human,11,3,2020,11
+2020-11-20,Sonoma,284.3,3,Debris Burning,22,3,2020,11
+2020-11-21,Marin,383.7,6,Debris Burning,35,6,2020,11
+2020-11-24,San Diego,163.4,3,Arson,15,0,2020,11
+2020-11-24,Shasta,184.7,1,Debris Burning,9,1,2020,11
+2020-11-26,Marin,229.4,6,Human,5,3,2020,11
+2020-11-30,Fresno,212.7,3,Human,6,2,2020,11
+2020-12-03,Sacramento,238.3,1,Equipment Use,2,0,2020,12
+2020-12-05,Fresno,60.2,2,Debris Burning,3,0,2020,12
+2020-12-08,Alameda,471.8,4,Arson,45,6,2020,12
+2020-12-10,San Diego,2.3,1,Human,0,0,2020,12
+2020-12-10,Kern,438.2,7,Debris Burning,18,3,2020,12
+2020-12-12,Shasta,145.0,2,Unknown,12,0,2020,12
+2020-12-24,San Francisco,253.8,5,Arson,16,0,2020,12
+2020-12-24,Sonoma,145.6,1,Unknown,2,0,2020,12
+2020-12-27,Riverside,254.8,5,Equipment Use,24,0,2020,12
+2020-12-29,Alameda,353.9,3,Debris Burning,5,2,2020,12
+2021-01-03,Shasta,438.3,2,Human,7,6,2021,1
+2021-01-04,Santa Clara,471.7,2,Arson,13,6,2021,1
+2021-01-13,San Francisco,118.9,1,Debris Burning,1,2,2021,1
+2021-01-13,Fresno,365.3,3,Equipment Use,29,4,2021,1
+2021-01-16,Monterey,378.5,2,Equipment Use,31,5,2021,1
+2021-01-21,Sacramento,318.6,4,Human,13,2,2021,1
+2021-01-24,Sonoma,366.9,1,Human,33,4,2021,1
+2021-01-30,Riverside,302.1,5,Equipment Use,30,3,2021,1
+2021-02-07,Monterey,178.9,3,Unknown,0,1,2021,2
+2021-02-08,Sacramento,219.4,1,Lightning,13,3,2021,2
+2021-02-10,Sacramento,317.8,1,Unknown,13,0,2021,2
+2021-02-18,Sonoma,182.4,1,Debris Burning,3,2,2021,2
+2021-02-21,San Diego,163.6,2,Arson,13,0,2021,2
+2021-02-23,Sonoma,258.6,5,Arson,15,1,2021,2
+2021-02-25,San Bernardino,248.0,6,Equipment Use,7,3,2021,2
+2021-03-01,Los Angeles,114.6,4,Unknown,7,1,2021,3
+2021-03-09,Kern,404.2,6,Arson,32,5,2021,3
+2021-03-16,Napa,309.2,4,Equipment Use,3,0,2021,3
+2021-03-16,Santa Clara,331.2,3,Unknown,19,2,2021,3
+2021-03-21,Los Angeles,142.2,4,Lightning,0,1,2021,3
+2021-03-27,Marin,330.0,2,Equipment Use,31,0,2021,3
+2021-03-29,Sacramento,356.5,1,Arson,13,7,2021,3
+2021-04-04,Los Angeles,103.7,1,Arson,6,2,2021,4
+2021-04-05,Alameda,221.8,1,Human,17,1,2021,4
+2021-04-06,San Bernardino,325.5,4,Debris Burning,19,6,2021,4
+2021-04-07,Shasta,173.1,1,Human,8,2,2021,4
+2021-04-07,Shasta,220.7,2,Human,0,2,2021,4
+2021-04-11,Sonoma,31.3,5,Equipment Use,2,0,2021,4
+2021-04-12,Marin,263.1,2,Human,24,0,2021,4
+2021-04-13,San Francisco,20.0,3,Human,0,0,2021,4
+2021-04-16,Kern,225.0,4,Human,18,1,2021,4
+2021-04-19,Shasta,333.6,2,Lightning,13,4,2021,4
+2021-04-20,Napa,224.1,4,Unknown,3,2,2021,4
+2021-05-13,Marin,127.0,2,Unknown,5,1,2021,5
+2021-05-14,Shasta,165.0,2,Human,14,2,2021,5
+2021-05-18,Los Angeles,69.3,3,Human,5,0,2021,5
+2021-05-18,Riverside,434.1,3,Debris Burning,20,8,2021,5
+2021-05-27,Kern,58.1,5,Lightning,3,1,2021,5
+2021-05-28,Monterey,391.4,5,Lightning,7,4,2021,5
+2021-05-29,Kern,236.6,2,Equipment Use,23,1,2021,5
+2021-05-29,San Francisco,354.5,6,Equipment Use,13,1,2021,5
+2021-06-03,Shasta,251.9,1,Unknown,8,0,2021,6
+2021-06-06,Riverside,254.9,4,Lightning,0,3,2021,6
+2021-06-10,Shasta,65.0,5,Unknown,2,0,2021,6
+2021-06-11,San Bernardino,332.0,3,Equipment Use,29,0,2021,6
+2021-06-19,Shasta,460.2,6,Equipment Use,11,9,2021,6
+2021-06-22,Shasta,236.5,3,Equipment Use,4,2,2021,6
+2021-06-22,Kern,273.4,1,Arson,8,5,2021,6
+2021-06-27,Sacramento,455.3,4,Equipment Use,25,9,2021,6
+2021-07-01,San Bernardino,2551.6,16,Unknown,53,3,2021,7
+2021-07-05,Riverside,4594.5,22,Debris Burning,316,56,2021,7
+2021-07-07,Los Angeles,6639.3,38,Lightning,341,24,2021,7
+2021-07-14,Monterey,211.8,2,Arson,7,1,2021,7
+2021-07-17,Monterey,3130.1,20,Lightning,237,26,2021,7
+2021-07-17,Monterey,5133.8,28,Lightning,259,35,2021,7
+2021-07-19,Santa Clara,2475.3,12,Unknown,133,44,2021,7
+2021-07-22,San Bernardino,7867.2,40,Arson,628,4,2021,7
+2021-07-23,Fresno,4706.3,25,Lightning,30,35,2021,7
+2021-07-23,San Bernardino,4601.5,27,Equipment Use,50,44,2021,7
+2021-07-25,Sacramento,1124.3,7,Debris Burning,28,6,2021,7
+2021-07-29,Sonoma,5520.0,28,Lightning,150,56,2021,7
+2021-08-02,Alameda,6558.5,37,Debris Burning,611,100,2021,8
+2021-08-16,Riverside,2316.3,11,Unknown,126,23,2021,8
+2021-08-18,Marin,4524.0,27,Equipment Use,442,7,2021,8
+2021-08-18,Los Angeles,2144.1,11,Debris Burning,15,35,2021,8
+2021-08-19,Marin,5516.9,28,Lightning,321,109,2021,8
+2021-08-20,Sacramento,4045.3,21,Human,321,24,2021,8
+2021-08-21,San Francisco,7365.4,36,Arson,467,64,2021,8
+2021-08-26,Monterey,1236.4,11,Human,18,19,2021,8
+2021-08-31,San Diego,3946.9,19,Unknown,265,67,2021,8
+2021-09-04,Kern,4593.1,26,Lightning,224,31,2021,9
+2021-09-11,Sonoma,7531.5,41,Equipment Use,669,62,2021,9
+2021-09-13,Sacramento,3895.1,19,Equipment Use,7,58,2021,9
+2021-09-14,Alameda,2335.3,13,Debris Burning,172,29,2021,9
+2021-09-15,San Francisco,6431.3,34,Debris Burning,502,89,2021,9
+2021-09-15,Monterey,757.4,6,Equipment Use,68,5,2021,9
+2021-09-19,Santa Clara,222.2,5,Unknown,11,0,2021,9
+2021-09-25,San Diego,1652.2,9,Equipment Use,155,7,2021,9
+2021-09-29,San Bernardino,4194.4,25,Unknown,241,29,2021,9
+2021-10-03,Sonoma,4031.0,25,Arson,183,59,2021,10
+2021-10-04,San Bernardino,839.4,8,Human,44,7,2021,10
+2021-10-05,San Bernardino,7626.4,41,Human,264,70,2021,10
+2021-10-10,Sonoma,3321.6,17,Lightning,259,46,2021,10
+2021-10-15,Riverside,5285.2,28,Arson,407,90,2021,10
+2021-10-18,Fresno,1084.7,6,Equipment Use,80,13,2021,10
+2021-10-23,Napa,2093.6,12,Debris Burning,100,28,2021,10
+2021-11-01,San Francisco,435.4,3,Arson,13,3,2021,11
+2021-11-08,Riverside,393.9,6,Equipment Use,36,4,2021,11
+2021-11-17,Sonoma,422.2,4,Lightning,11,6,2021,11
+2021-11-20,Alameda,324.3,1,Human,22,2,2021,11
+2021-11-22,San Diego,276.3,2,Arson,12,4,2021,11
+2021-11-26,San Diego,318.5,1,Equipment Use,28,3,2021,11
+2021-11-29,San Diego,138.4,4,Unknown,4,2,2021,11
+2021-12-12,Marin,154.2,3,Unknown,2,1,2021,12
+2021-12-14,Napa,390.7,2,Debris Burning,5,5,2021,12
+2021-12-15,San Francisco,341.8,5,Unknown,10,0,2021,12
+2021-12-18,Sacramento,439.5,6,Arson,35,2,2021,12
+2021-12-18,Marin,36.2,2,Human,3,0,2021,12
+2021-12-21,San Francisco,280.7,1,Equipment Use,20,3,2021,12
+2021-12-23,Marin,151.3,2,Unknown,15,0,2021,12
+2021-12-25,Santa Clara,323.3,2,Debris Burning,17,0,2021,12
+2021-12-27,Shasta,481.4,5,Arson,29,4,2021,12
+2021-12-31,Fresno,209.1,4,Equipment Use,9,0,2021,12
+2021-12-31,Shasta,102.3,1,Human,4,0,2021,12
+2022-01-01,San Bernardino,39.4,5,Human,2,0,2022,1
+2022-01-20,Sonoma,258.7,6,Debris Burning,13,5,2022,1
+2022-01-23,Shasta,176.5,2,Debris Burning,1,1,2022,1
+2022-01-24,Sacramento,23.3,1,Unknown,0,0,2022,1
+2022-01-26,San Bernardino,219.6,3,Lightning,15,1,2022,1
+2022-01-28,San Francisco,12.3,4,Arson,1,0,2022,1
+2022-01-29,San Bernardino,340.9,1,Human,6,3,2022,1
+2022-02-01,San Francisco,362.7,2,Lightning,15,7,2022,2
+2022-02-03,Marin,12.8,3,Debris Burning,1,0,2022,2
+2022-02-04,Shasta,166.4,1,Unknown,7,0,2022,2
+2022-02-06,Monterey,230.7,6,Human,9,1,2022,2
+2022-02-07,San Diego,460.7,3,Debris Burning,38,1,2022,2
+2022-02-12,San Diego,319.7,3,Arson,28,4,2022,2
+2022-02-12,Napa,328.0,2,Arson,17,6,2022,2
+2022-02-14,San Diego,415.5,2,Arson,9,6,2022,2
+2022-02-15,Napa,46.0,5,Equipment Use,2,0,2022,2
+2022-02-22,San Diego,9.6,3,Arson,0,1,2022,2
+2022-02-25,Alameda,327.4,4,Human,18,2,2022,2
+2022-02-27,Shasta,52.7,5,Equipment Use,4,0,2022,2
+2022-02-28,Napa,353.4,3,Equipment Use,33,5,2022,2
+2022-03-09,Monterey,128.6,1,Arson,9,0,2022,3
+2022-03-09,Sacramento,413.5,4,Debris Burning,2,2,2022,3
+2022-03-15,San Diego,71.5,1,Unknown,7,1,2022,3
+2022-03-17,Marin,359.4,1,Equipment Use,28,7,2022,3
+2022-03-21,San Francisco,109.9,1,Unknown,4,0,2022,3
+2022-03-22,Santa Clara,403.2,2,Unknown,3,8,2022,3
+2022-03-26,Sacramento,341.5,1,Debris Burning,5,2,2022,3
+2022-03-27,Santa Clara,131.1,1,Equipment Use,7,2,2022,3
+2022-03-28,Fresno,309.7,5,Arson,28,0,2022,3
+2022-04-01,Monterey,150.8,1,Unknown,3,3,2022,4
+2022-04-02,Fresno,101.1,2,Arson,10,0,2022,4
+2022-04-05,Napa,467.2,6,Unknown,41,3,2022,4
+2022-04-06,San Francisco,287.4,6,Debris Burning,25,3,2022,4
+2022-04-07,Sonoma,141.9,4,Lightning,3,0,2022,4
+2022-04-13,Los Angeles,104.4,3,Arson,2,1,2022,4
+2022-04-15,Napa,284.6,1,Equipment Use,5,5,2022,4
+2022-04-15,Alameda,448.8,4,Debris Burning,18,0,2022,4
+2022-04-16,San Francisco,211.1,2,Unknown,15,1,2022,4
+2022-04-21,Alameda,353.0,5,Debris Burning,17,1,2022,4
+2022-04-25,Alameda,328.6,2,Human,30,1,2022,4
+2022-04-30,Santa Clara,497.9,2,Equipment Use,35,7,2022,4
+2022-04-30,Sacramento,60.1,4,Debris Burning,1,1,2022,4
+2022-05-02,San Francisco,299.5,5,Lightning,28,4,2022,5
+2022-05-06,Los Angeles,344.3,5,Debris Burning,15,5,2022,5
+2022-05-08,Sacramento,87.0,4,Human,2,1,2022,5
+2022-05-10,Napa,200.8,1,Equipment Use,11,2,2022,5
+2022-05-11,Kern,317.8,3,Unknown,24,3,2022,5
+2022-05-13,Alameda,131.2,2,Lightning,2,0,2022,5
+2022-05-18,Riverside,286.7,5,Unknown,8,1,2022,5
+2022-05-20,Marin,74.9,2,Debris Burning,1,1,2022,5
+2022-05-21,Fresno,169.4,2,Lightning,8,1,2022,5
+2022-05-23,Monterey,438.1,3,Lightning,20,5,2022,5
+2022-05-23,Kern,366.3,5,Human,29,4,2022,5
+2022-05-23,Alameda,321.5,5,Human,6,1,2022,5
+2022-05-24,Sonoma,275.2,1,Debris Burning,3,4,2022,5
+2022-05-25,Alameda,233.8,4,Debris Burning,0,4,2022,5
+2022-05-30,Kern,430.7,2,Arson,28,3,2022,5
+2022-06-01,Riverside,446.5,4,Debris Burning,44,3,2022,6
+2022-06-07,Kern,333.1,1,Arson,31,4,2022,6
+2022-06-10,Santa Clara,189.2,3,Lightning,15,0,2022,6
+2022-06-11,San Diego,308.0,4,Arson,4,3,2022,6
+2022-06-16,Monterey,150.1,1,Unknown,14,1,2022,6
+2022-06-17,Riverside,200.2,2,Debris Burning,18,0,2022,6
+2022-06-19,Los Angeles,5.4,1,Equipment Use,0,0,2022,6
+2022-06-27,Los Angeles,319.1,1,Equipment Use,6,6,2022,6
+2022-06-27,Sacramento,23.2,4,Human,2,1,2022,6
+2022-06-27,Kern,494.9,3,Debris Burning,32,1,2022,6
+2022-07-04,Santa Clara,2603.9,18,Debris Burning,59,11,2022,7
+2022-07-09,Marin,1256.6,7,Debris Burning,36,0,2022,7
+2022-07-14,Alameda,6014.8,34,Equipment Use,20,112,2022,7
+2022-07-15,Sonoma,3551.7,20,Debris Burning,186,43,2022,7
+2022-07-19,Monterey,3922.9,22,Arson,331,69,2022,7
+2022-07-20,Monterey,3833.6,20,Debris Burning,274,46,2022,7
+2022-07-26,San Bernardino,5229.2,27,Unknown,363,91,2022,7
+2022-07-30,Los Angeles,3283.6,20,Human,205,16,2022,7
+2022-08-01,San Diego,2898.3,15,Arson,132,16,2022,8
+2022-08-04,Sacramento,6835.0,37,Human,545,43,2022,8
+2022-08-04,Alameda,1606.0,13,Lightning,100,24,2022,8
+2022-08-05,Fresno,4793.0,28,Equipment Use,49,28,2022,8
+2022-08-06,Shasta,706.2,3,Human,11,2,2022,8
+2022-08-06,Shasta,4386.1,24,Equipment Use,329,39,2022,8
+2022-08-14,Sacramento,4374.7,21,Debris Burning,414,78,2022,8
+2022-08-15,Santa Clara,5965.3,30,Human,15,35,2022,8
+2022-08-17,Kern,4756.0,23,Equipment Use,325,71,2022,8
+2022-08-20,Fresno,1212.3,7,Arson,63,9,2022,8
+2022-08-22,Kern,7495.5,39,Arson,30,8,2022,8
+2022-08-25,Shasta,5347.8,29,Arson,248,97,2022,8
+2022-08-28,Marin,4007.3,22,Unknown,286,17,2022,8
+2022-08-28,San Bernardino,5228.3,29,Arson,275,29,2022,8
+2022-09-01,San Francisco,3716.0,21,Unknown,225,17,2022,9
+2022-09-02,Santa Clara,3744.6,19,Arson,153,0,2022,9
+2022-09-06,San Diego,932.1,4,Debris Burning,25,3,2022,9
+2022-09-07,Santa Clara,5261.0,31,Lightning,78,32,2022,9
+2022-09-12,San Bernardino,2364.0,12,Lightning,225,18,2022,9
+2022-09-18,Alameda,4244.2,22,Equipment Use,118,37,2022,9
+2022-09-18,Sacramento,7177.2,35,Arson,66,87,2022,9
+2022-09-20,Monterey,3922.3,24,Debris Burning,306,45,2022,9
+2022-09-20,Napa,339.2,3,Equipment Use,1,1,2022,9
+2022-09-23,Monterey,4491.0,24,Lightning,106,67,2022,9
+2022-09-27,Los Angeles,6660.2,33,Equipment Use,208,72,2022,9
+2022-09-30,San Francisco,2841.9,16,Equipment Use,267,28,2022,9
+2022-10-02,Fresno,3500.7,19,Human,103,20,2022,10
+2022-10-06,Riverside,5990.0,33,Human,128,28,2022,10
+2022-10-20,Sacramento,1504.6,8,Equipment Use,111,2,2022,10
+2022-10-21,Fresno,6080.3,31,Unknown,402,48,2022,10
+2022-11-03,Monterey,430.4,6,Equipment Use,2,8,2022,11
+2022-11-04,Sacramento,168.3,3,Arson,16,0,2022,11
+2022-11-06,Kern,422.2,5,Equipment Use,20,6,2022,11
+2022-11-06,Monterey,165.1,5,Equipment Use,11,0,2022,11
+2022-11-07,Marin,377.7,1,Unknown,2,3,2022,11
+2022-11-07,Sonoma,373.0,5,Debris Burning,30,2,2022,11
+2022-11-09,Shasta,235.8,2,Human,2,3,2022,11
+2022-11-13,Sacramento,403.8,5,Arson,30,5,2022,11
+2022-11-14,Kern,187.2,4,Unknown,18,2,2022,11
+2022-11-14,Sacramento,84.0,2,Unknown,8,0,2022,11
+2022-11-17,San Francisco,386.9,3,Human,29,4,2022,11
+2022-11-17,Napa,423.3,2,Unknown,29,3,2022,11
+2022-11-19,Riverside,142.6,5,Equipment Use,4,2,2022,11
+2022-11-19,Napa,462.0,4,Human,16,5,2022,11
+2022-11-20,Sacramento,433.6,5,Debris Burning,22,2,2022,11
+2022-12-01,San Bernardino,221.1,3,Human,18,2,2022,12
+2022-12-06,Fresno,161.9,2,Unknown,5,1,2022,12
+2022-12-07,Fresno,342.8,5,Arson,23,4,2022,12
+2022-12-09,Sacramento,357.8,4,Lightning,20,6,2022,12
+2022-12-26,San Bernardino,196.7,3,Debris Burning,14,2,2022,12
+2023-01-02,Marin,198.4,5,Human,9,1,2023,1
+2023-01-03,Fresno,143.9,4,Equipment Use,1,0,2023,1
+2023-01-04,San Francisco,440.9,2,Equipment Use,40,1,2023,1
+2023-01-06,Shasta,123.2,3,Arson,9,2,2023,1
+2023-01-06,Alameda,27.2,5,Debris Burning,2,0,2023,1
+2023-01-07,Napa,289.9,1,Unknown,22,3,2023,1
+2023-01-08,Napa,246.5,5,Equipment Use,20,0,2023,1
+2023-01-09,Los Angeles,189.1,4,Arson,16,1,2023,1
+2023-01-09,Alameda,116.0,4,Human,5,0,2023,1
+2023-01-24,Napa,357.6,4,Human,1,6,2023,1
+2023-02-16,Shasta,7.3,2,Equipment Use,0,1,2023,2
+2023-02-17,San Diego,385.6,5,Arson,20,6,2023,2
+2023-02-20,Napa,269.6,4,Unknown,22,0,2023,2
+2023-02-22,Santa Clara,140.0,2,Arson,8,2,2023,2
+2023-02-23,Alameda,242.6,4,Equipment Use,15,2,2023,2
+2023-02-27,Santa Clara,197.4,3,Lightning,12,0,2023,2
+2023-02-28,Fresno,52.1,4,Unknown,5,1,2023,2
+2023-03-06,Fresno,463.6,5,Unknown,11,6,2023,3
+2023-03-09,San Bernardino,96.9,1,Unknown,9,1,2023,3
+2023-03-10,San Bernardino,106.1,5,Debris Burning,5,2,2023,3
+2023-03-10,Los Angeles,8.1,1,Equipment Use,0,0,2023,3
+2023-03-13,San Diego,399.4,5,Debris Burning,9,5,2023,3
+2023-03-15,Alameda,197.9,4,Equipment Use,11,2,2023,3
+2023-03-15,San Diego,336.3,3,Human,12,6,2023,3
+2023-03-15,San Diego,320.6,1,Lightning,24,1,2023,3
+2023-03-16,Shasta,322.8,3,Arson,24,3,2023,3
+2023-03-18,San Diego,437.9,6,Human,40,1,2023,3
+2023-03-18,Alameda,273.7,6,Equipment Use,17,4,2023,3
+2023-03-22,Sacramento,254.0,6,Debris Burning,0,3,2023,3
+2023-03-23,Kern,351.4,5,Debris Burning,34,3,2023,3
+2023-03-23,Santa Clara,391.1,2,Human,26,5,2023,3
+2023-03-24,Alameda,386.2,5,Unknown,17,7,2023,3
+2023-03-24,Monterey,444.4,5,Arson,16,5,2023,3
+2023-03-26,Monterey,236.2,3,Debris Burning,2,1,2023,3
+2023-03-27,Marin,77.1,1,Human,4,0,2023,3
+2023-03-28,San Diego,370.8,4,Equipment Use,13,1,2023,3
+2023-04-03,Los Angeles,152.1,5,Arson,14,0,2023,4
+2023-04-09,San Diego,152.2,4,Lightning,8,2,2023,4
+2023-04-15,Kern,188.1,1,Lightning,10,2,2023,4
+2023-04-16,Riverside,162.2,4,Debris Burning,1,2,2023,4
+2023-04-18,Fresno,374.2,5,Unknown,11,5,2023,4
+2023-04-22,San Bernardino,108.3,3,Equipment Use,9,0,2023,4
+2023-04-25,Alameda,313.7,1,Human,0,1,2023,4
+2023-04-25,Riverside,218.7,2,Lightning,17,3,2023,4
+2023-04-28,San Francisco,77.1,5,Human,4,0,2023,4
+2023-04-29,Kern,185.6,5,Debris Burning,12,2,2023,4
+2023-04-30,Riverside,288.4,4,Arson,12,3,2023,4
+2023-05-11,Sacramento,123.8,5,Equipment Use,6,2,2023,5
+2023-05-16,Santa Clara,136.1,5,Human,5,2,2023,5
+2023-05-17,San Diego,264.7,5,Human,4,4,2023,5
+2023-05-18,Alameda,327.9,2,Equipment Use,8,4,2023,5
+2023-05-20,Marin,404.9,2,Equipment Use,30,7,2023,5
+2023-05-22,Napa,419.1,3,Human,29,1,2023,5
+2023-05-23,Los Angeles,199.9,1,Arson,9,2,2023,5
+2023-05-25,Sacramento,130.9,2,Equipment Use,5,0,2023,5
+2023-05-30,San Bernardino,430.3,7,Arson,1,8,2023,5
+2023-05-31,Shasta,377.5,3,Equipment Use,37,3,2023,5
+2023-05-31,Shasta,89.9,1,Equipment Use,5,1,2023,5
+2023-06-02,Marin,192.6,1,Debris Burning,12,3,2023,6
+2023-06-02,Alameda,125.7,4,Arson,7,2,2023,6
+2023-06-04,Kern,165.5,4,Unknown,0,0,2023,6
+2023-06-16,Santa Clara,419.2,6,Arson,36,3,2023,6
+2023-06-16,Alameda,269.6,2,Equipment Use,26,2,2023,6
+2023-06-17,San Diego,280.3,2,Debris Burning,11,1,2023,6
+2023-06-19,Marin,328.3,2,Lightning,2,1,2023,6
+2023-06-28,Los Angeles,20.3,4,Lightning,1,1,2023,6
+2023-06-30,Alameda,454.7,6,Debris Burning,30,5,2023,6
+2023-07-01,Los Angeles,6626.0,33,Lightning,230,82,2023,7
+2023-07-04,Santa Clara,2986.1,16,Unknown,164,1,2023,7
+2023-07-06,Sacramento,6425.4,35,Human,560,107,2023,7
+2023-07-07,Marin,2824.2,17,Debris Burning,213,29,2023,7
+2023-07-10,Sonoma,7007.5,40,Lightning,66,21,2023,7
+2023-07-14,Kern,4386.3,24,Unknown,375,15,2023,7
+2023-07-16,Kern,6725.6,34,Equipment Use,110,115,2023,7
+2023-07-16,Marin,5496.6,28,Lightning,394,19,2023,7
+2023-07-22,Sonoma,928.6,7,Unknown,47,15,2023,7
+2023-07-25,Sacramento,5974.9,29,Equipment Use,280,71,2023,7
+2023-07-27,San Diego,233.3,2,Human,19,4,2023,7
+2023-08-11,Alameda,1247.9,10,Equipment Use,66,11,2023,8
+2023-08-11,Monterey,6481.5,35,Lightning,281,82,2023,8
+2023-08-19,Sacramento,4602.2,26,Unknown,399,88,2023,8
+2023-08-22,Napa,628.5,3,Human,36,8,2023,8
+2023-08-22,Los Angeles,7430.7,42,Lightning,339,22,2023,8
+2023-08-24,San Bernardino,461.3,4,Debris Burning,45,2,2023,8
+2023-08-28,Alameda,1886.7,12,Arson,123,32,2023,8
+2023-09-09,Alameda,5769.7,28,Debris Burning,71,107,2023,9
+2023-09-10,Shasta,4384.3,24,Debris Burning,59,85,2023,9
+2023-09-11,Kern,1443.8,12,Unknown,134,8,2023,9
+2023-09-12,Napa,3121.1,20,Debris Burning,127,17,2023,9
+2023-09-14,Los Angeles,2441.9,16,Equipment Use,239,1,2023,9
+2023-09-15,Kern,2568.6,14,Human,227,29,2023,9
+2023-09-24,Alameda,3191.7,20,Unknown,105,31,2023,9
+2023-09-28,Kern,1379.6,11,Arson,39,20,2023,9
+2023-10-01,Monterey,770.6,3,Human,0,11,2023,10
+2023-10-04,Monterey,3214.2,16,Equipment Use,217,33,2023,10
+2023-10-08,Sacramento,2204.5,13,Lightning,163,7,2023,10
+2023-10-14,Santa Clara,6570.4,32,Equipment Use,431,45,2023,10
+2023-10-15,San Diego,5117.7,26,Equipment Use,318,92,2023,10
+2023-10-22,Santa Clara,7007.6,39,Human,699,51,2023,10
+2023-10-23,Riverside,3811.8,20,Arson,121,13,2023,10
+2023-10-25,San Francisco,1325.9,11,Unknown,57,26,2023,10
+2023-10-28,Napa,6370.4,32,Equipment Use,515,68,2023,10
+2023-10-28,San Francisco,2835.9,19,Equipment Use,129,46,2023,10
+2023-10-29,Napa,7607.8,38,Human,555,75,2023,10
+2023-11-01,Napa,349.8,5,Lightning,12,0,2023,11
+2023-11-05,Fresno,260.1,6,Lightning,4,3,2023,11
+2023-11-09,Sonoma,158.1,1,Debris Burning,3,2,2023,11
+2023-11-12,Shasta,59.0,2,Lightning,1,1,2023,11
+2023-11-14,Fresno,105.4,4,Debris Burning,8,1,2023,11
+2023-11-14,Santa Clara,6.1,3,Debris Burning,0,0,2023,11
+2023-11-22,San Diego,47.8,3,Equipment Use,0,0,2023,11
+2023-11-26,Los Angeles,383.8,2,Arson,14,1,2023,11
+2023-11-27,Santa Clara,237.7,3,Human,3,2,2023,11
+2023-11-28,Santa Clara,278.9,6,Equipment Use,3,2,2023,11
+2023-11-30,Sacramento,162.7,4,Equipment Use,12,0,2023,11
+2023-12-13,Marin,101.9,5,Arson,4,1,2023,12
+2023-12-16,Sacramento,368.4,2,Lightning,26,1,2023,12
+2023-12-20,Alameda,295.5,2,Unknown,26,4,2023,12
+2023-12-25,Kern,432.0,7,Equipment Use,13,4,2023,12
+2023-12-30,Shasta,460.8,4,Human,18,1,2023,12
+2023-12-30,San Diego,96.3,1,Arson,9,1,2023,12
+2023-12-31,San Francisco,136.1,5,Human,6,2,2023,12
+2024-01-01,Los Angeles,299.3,4,Arson,24,1,2024,1
+2024-01-07,Santa Clara,463.8,7,Arson,28,6,2024,1
+2024-01-15,Kern,85.8,2,Equipment Use,0,0,2024,1
+2024-01-18,San Francisco,46.1,3,Equipment Use,4,1,2024,1
+2024-01-25,San Bernardino,40.3,5,Arson,2,1,2024,1
+2024-01-28,Alameda,177.6,5,Equipment Use,14,2,2024,1
+2024-01-31,Sonoma,321.5,4,Human,13,4,2024,1
+2024-02-04,Santa Clara,81.4,1,Human,2,0,2024,2
+2024-02-09,Monterey,51.6,3,Lightning,1,1,2024,2
+2024-02-23,Napa,92.2,5,Human,3,1,2024,2
+2024-02-23,Sonoma,293.4,6,Human,6,3,2024,2
+2024-02-24,Marin,330.8,3,Unknown,26,6,2024,2
+2024-02-25,San Francisco,292.7,5,Arson,22,0,2024,2
+2024-02-29,Los Angeles,415.3,6,Human,6,6,2024,2
+2024-03-04,Marin,329.1,2,Unknown,12,3,2024,3
+2024-03-09,Fresno,344.7,2,Equipment Use,32,5,2024,3
+2024-03-11,Shasta,497.7,3,Debris Burning,23,8,2024,3
+2024-03-11,Kern,466.4,3,Lightning,41,6,2024,3
+2024-03-12,Shasta,119.6,3,Unknown,4,1,2024,3
+2024-03-13,Los Angeles,17.1,5,Debris Burning,1,1,2024,3
+2024-03-15,Shasta,37.9,5,Debris Burning,1,0,2024,3
+2024-03-18,Alameda,109.7,4,Equipment Use,5,1,2024,3
+2024-03-18,Shasta,358.3,5,Unknown,27,3,2024,3
+2024-03-19,Kern,70.6,5,Equipment Use,0,0,2024,3
+2024-03-21,Riverside,123.1,2,Equipment Use,4,2,2024,3
+2024-03-26,Los Angeles,422.7,3,Debris Burning,42,0,2024,3
+2024-03-26,Los Angeles,205.8,2,Debris Burning,5,1,2024,3
+2024-03-27,Sonoma,369.3,3,Lightning,24,4,2024,3
+2024-03-27,San Francisco,20.6,3,Debris Burning,1,1,2024,3
+2024-03-29,Sacramento,105.6,3,Arson,9,1,2024,3
+2024-03-30,Alameda,90.0,1,Lightning,3,1,2024,3
+2024-04-04,San Bernardino,192.4,5,Lightning,4,0,2024,4
+2024-04-14,Monterey,227.4,1,Lightning,15,0,2024,4
+2024-04-16,Fresno,277.7,4,Arson,3,1,2024,4
+2024-04-17,Sonoma,295.2,5,Lightning,4,0,2024,4
+2024-04-18,Alameda,265.7,1,Arson,9,4,2024,4
+2024-04-19,Los Angeles,211.0,2,Unknown,9,1,2024,4
+2024-04-20,Los Angeles,247.2,4,Equipment Use,23,2,2024,4
+2024-04-20,Sacramento,11.0,5,Equipment Use,1,0,2024,4
+2024-04-24,Kern,21.5,4,Human,0,1,2024,4
+2024-04-30,Monterey,344.3,1,Equipment Use,7,6,2024,4
+2024-05-01,Alameda,223.5,2,Human,10,3,2024,5
+2024-05-03,Sacramento,441.2,5,Unknown,26,3,2024,5
+2024-05-04,Santa Clara,135.4,4,Debris Burning,9,0,2024,5
+2024-05-09,Sonoma,303.9,5,Arson,0,3,2024,5
+2024-05-13,San Diego,55.2,1,Human,2,1,2024,5
+2024-05-14,Marin,244.6,5,Lightning,20,3,2024,5
+2024-05-22,San Francisco,209.1,3,Arson,17,0,2024,5
+2024-05-28,Santa Clara,86.7,1,Unknown,2,1,2024,5
+2024-05-29,Santa Clara,80.6,3,Debris Burning,3,0,2024,5
+2024-06-11,Fresno,383.1,3,Debris Burning,25,2,2024,6
+2024-06-13,San Francisco,96.6,2,Equipment Use,9,0,2024,6
+2024-06-14,San Diego,202.7,3,Lightning,15,4,2024,6
+2024-06-24,Sonoma,25.4,4,Debris Burning,0,1,2024,6
+2024-06-29,Napa,132.5,2,Equipment Use,3,1,2024,6
+2024-07-03,Alameda,633.5,4,Arson,9,5,2024,7
+2024-07-07,San Francisco,7584.0,41,Arson,36,88,2024,7
+2024-07-08,Kern,5079.8,28,Lightning,128,96,2024,7
+2024-07-08,Alameda,3502.7,19,Human,86,41,2024,7
+2024-07-11,Riverside,6104.2,34,Debris Burning,55,10,2024,7
+2024-07-20,San Diego,5428.3,30,Debris Burning,408,12,2024,7
+2024-07-24,Santa Clara,4228.7,22,Lightning,298,3,2024,7
+2024-07-24,Los Angeles,3100.8,19,Lightning,114,48,2024,7
+2024-07-30,San Bernardino,5871.2,34,Lightning,241,63,2024,7
+2024-07-31,Marin,7766.3,41,Debris Burning,219,116,2024,7
+2024-08-03,Alameda,5464.4,29,Human,283,57,2024,8
+2024-08-06,Sonoma,7588.1,37,Debris Burning,588,75,2024,8
+2024-08-06,Santa Clara,7530.1,41,Human,145,56,2024,8
+2024-08-12,San Bernardino,13.7,4,Debris Burning,0,0,2024,8
+2024-08-12,Santa Clara,7084.9,36,Lightning,568,127,2024,8
+2024-08-16,Shasta,7186.9,39,Unknown,631,27,2024,8
+2024-08-17,Shasta,7228.7,41,Unknown,582,117,2024,8
+2024-08-22,Riverside,5808.5,31,Debris Burning,40,46,2024,8
+2024-08-23,Fresno,2011.8,15,Equipment Use,17,10,2024,8
+2024-08-26,San Bernardino,2673.1,16,Arson,88,43,2024,8
+2024-08-26,Riverside,890.0,8,Arson,37,4,2024,8
+2024-08-29,San Diego,4845.9,26,Equipment Use,217,65,2024,8
+2024-09-01,Shasta,7645.9,42,Debris Burning,52,51,2024,9
+2024-09-04,Alameda,4899.3,27,Debris Burning,290,44,2024,9
+2024-09-05,Sonoma,3486.1,20,Arson,68,23,2024,9
+2024-09-10,Alameda,5376.3,28,Arson,173,75,2024,9
+2024-09-11,Kern,4525.4,26,Unknown,445,85,2024,9
+2024-09-12,Santa Clara,7129.0,35,Arson,477,109,2024,9
+2024-09-19,San Diego,4465.8,27,Lightning,324,80,2024,9
+2024-09-26,Monterey,6860.1,36,Unknown,45,60,2024,9
+2024-09-27,Los Angeles,161.2,4,Lightning,16,3,2024,9
+2024-10-02,Marin,4374.2,25,Arson,224,84,2024,10
+2024-10-02,San Francisco,4159.2,25,Arson,164,67,2024,10
+2024-10-06,Marin,5319.6,31,Debris Burning,431,7,2024,10
+2024-10-08,Sonoma,274.8,4,Arson,1,1,2024,10
+2024-10-19,Monterey,2739.7,17,Equipment Use,32,50,2024,10
+2024-10-24,Sonoma,6293.8,33,Arson,310,118,2024,10
+2024-10-24,San Bernardino,5917.7,34,Lightning,107,54,2024,10
+2024-10-25,Fresno,3074.4,20,Human,14,54,2024,10
+2024-11-03,Kern,261.9,4,Arson,23,3,2024,11
+2024-11-06,San Diego,471.1,6,Human,5,2,2024,11
+2024-11-07,Santa Clara,463.1,7,Human,33,7,2024,11
+2024-11-08,Los Angeles,183.5,3,Arson,11,3,2024,11
+2024-11-11,Riverside,372.2,6,Human,24,0,2024,11
+2024-11-12,Marin,213.7,6,Equipment Use,11,4,2024,11
+2024-11-12,San Francisco,245.3,3,Lightning,19,2,2024,11
+2024-11-14,Fresno,248.0,2,Arson,5,1,2024,11
+2024-11-20,Napa,244.2,5,Debris Burning,21,0,2024,11
+2024-11-21,Sonoma,228.0,1,Debris Burning,9,0,2024,11
+2024-11-21,San Francisco,341.9,2,Unknown,23,4,2024,11
+2024-11-28,Napa,417.1,2,Human,33,7,2024,11
+2024-11-29,Marin,485.8,2,Lightning,1,3,2024,11
+2024-12-04,Marin,264.4,1,Unknown,15,5,2024,12
+2024-12-07,San Diego,186.1,2,Arson,9,2,2024,12
+2024-12-07,San Francisco,489.5,7,Equipment Use,17,0,2024,12
+2024-12-08,Shasta,87.8,3,Debris Burning,1,0,2024,12
+2024-12-08,Shasta,497.2,3,Arson,21,1,2024,12
+2024-12-14,Fresno,100.4,2,Equipment Use,7,1,2024,12
+2024-12-30,Sacramento,220.9,2,Unknown,4,3,2024,12
