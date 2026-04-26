@@ -1,0 +1,801 @@
+date,county,water_source_type,ph,turbidity_ntu,dissolved_oxygen_mgl,nitrate_mgl,meets_epa_standard,year,month
+2020-01-01,Shasta,Groundwater,6.69,3.06,11.43,4.89,True,2020,1
+2020-01-01,Marin,Stream,6.25,8.84,5.44,6.05,False,2020,1
+2020-01-03,Riverside,Reservoir,7.25,2.37,6.77,2.01,True,2020,1
+2020-01-05,Los Angeles,Lake,6.66,1.69,11.89,5.56,True,2020,1
+2020-01-06,Los Angeles,Lake,7.48,4.59,10.94,2.44,True,2020,1
+2020-01-07,San Bernardino,River,8.69,4.0,9.83,8.35,False,2020,1
+2020-01-09,Kern,Reservoir,8.52,0.61,10.67,6.15,False,2020,1
+2020-01-11,Santa Clara,Stream,8.48,6.96,10.11,12.64,False,2020,1
+2020-01-12,San Diego,Stream,7.65,5.03,6.77,0.31,False,2020,1
+2020-01-15,Monterey,Groundwater,7.82,0.8,10.17,13.29,False,2020,1
+2020-01-17,Alameda,River,6.62,4.24,5.08,7.45,True,2020,1
+2020-01-22,Los Angeles,River,6.74,0.42,10.67,8.83,True,2020,1
+2020-01-23,Santa Clara,Groundwater,6.36,9.48,5.79,10.02,False,2020,1
+2020-01-25,Fresno,Reservoir,8.43,10.37,10.51,11.13,False,2020,1
+2020-01-27,Sonoma,River,6.29,2.57,5.35,14.06,False,2020,1
+2020-02-03,Santa Clara,Stream,8.46,8.82,10.37,11.84,False,2020,2
+2020-02-03,Marin,River,6.53,11.03,10.96,12.0,False,2020,2
+2020-02-04,San Francisco,Stream,7.14,10.87,11.7,8.51,False,2020,2
+2020-02-07,Sonoma,Stream,8.29,9.54,5.6,1.05,False,2020,2
+2020-02-11,Santa Clara,Lake,7.33,5.4,7.97,6.62,False,2020,2
+2020-02-12,Marin,Stream,7.51,0.78,5.94,0.82,True,2020,2
+2020-02-16,Sonoma,Lake,8.24,7.1,10.03,6.49,False,2020,2
+2020-02-16,San Francisco,River,7.87,2.09,11.49,14.13,False,2020,2
+2020-02-17,Sonoma,Stream,7.43,4.84,5.82,11.48,False,2020,2
+2020-02-19,San Francisco,River,6.42,2.32,6.38,9.93,False,2020,2
+2020-02-20,Shasta,Stream,6.53,10.9,5.8,12.04,False,2020,2
+2020-02-29,Shasta,Groundwater,6.67,1.95,11.69,13.65,False,2020,2
+2020-02-29,Shasta,Stream,7.37,11.44,10.38,14.47,False,2020,2
+2020-03-02,Santa Clara,Reservoir,7.49,9.98,7.89,14.6,False,2020,3
+2020-03-03,Shasta,Lake,6.65,2.67,8.93,14.92,False,2020,3
+2020-03-05,Monterey,River,8.01,3.36,10.51,6.3,True,2020,3
+2020-03-05,Sacramento,River,7.31,6.13,9.89,11.43,False,2020,3
+2020-03-08,San Diego,Lake,7.78,9.53,6.61,10.82,False,2020,3
+2020-03-10,Monterey,Groundwater,6.61,2.38,5.46,0.57,True,2020,3
+2020-03-13,San Francisco,Groundwater,7.06,1.93,10.42,9.99,True,2020,3
+2020-03-15,Los Angeles,Lake,6.69,6.89,5.12,10.0,False,2020,3
+2020-03-17,Fresno,Reservoir,8.15,3.23,6.65,11.55,False,2020,3
+2020-03-18,Sacramento,Reservoir,6.89,6.7,9.25,14.1,False,2020,3
+2020-03-20,San Francisco,Stream,6.41,0.57,5.0,13.85,False,2020,3
+2020-03-22,San Diego,Stream,6.36,1.43,11.84,10.82,False,2020,3
+2020-03-27,Napa,Reservoir,8.76,1.72,7.01,7.98,False,2020,3
+2020-03-29,San Bernardino,Reservoir,7.32,3.49,5.37,6.83,True,2020,3
+2020-03-30,Marin,River,7.41,6.47,10.17,1.63,False,2020,3
+2020-03-31,Kern,Reservoir,8.69,10.53,9.97,10.81,False,2020,3
+2020-04-02,Sonoma,River,6.71,2.59,5.93,6.97,True,2020,4
+2020-04-07,Santa Clara,Reservoir,8.29,3.36,10.7,8.24,True,2020,4
+2020-04-08,Alameda,River,6.43,11.0,5.65,10.46,False,2020,4
+2020-04-09,Santa Clara,River,8.1,1.48,6.1,13.01,False,2020,4
+2020-04-10,Kern,River,8.45,3.94,5.99,5.99,True,2020,4
+2020-04-19,San Francisco,Reservoir,7.93,5.47,9.86,9.12,False,2020,4
+2020-04-19,San Diego,Reservoir,8.01,8.14,6.12,2.88,False,2020,4
+2020-04-19,Sacramento,River,7.57,2.82,10.32,7.23,True,2020,4
+2020-04-20,San Diego,Lake,8.05,4.05,11.78,12.21,False,2020,4
+2020-04-22,San Francisco,Groundwater,7.93,11.98,9.87,12.25,False,2020,4
+2020-04-23,Marin,Stream,8.5,4.4,7.78,9.15,True,2020,4
+2020-04-24,San Bernardino,River,7.49,11.13,5.98,1.62,False,2020,4
+2020-04-29,Santa Clara,Groundwater,8.45,7.04,7.91,11.34,False,2020,4
+2020-05-01,Los Angeles,Lake,8.71,6.88,9.04,9.7,False,2020,5
+2020-05-04,Shasta,Reservoir,6.73,3.41,7.11,13.85,False,2020,5
+2020-05-09,Marin,Lake,8.16,5.86,11.38,11.24,False,2020,5
+2020-05-12,Sacramento,Reservoir,6.36,4.2,10.13,9.34,False,2020,5
+2020-05-14,Monterey,Stream,6.88,10.09,8.16,11.16,False,2020,5
+2020-05-14,Marin,Reservoir,6.23,4.77,11.7,9.37,False,2020,5
+2020-05-15,Napa,River,7.42,11.78,11.47,7.45,False,2020,5
+2020-05-19,San Bernardino,Stream,8.17,10.31,9.42,4.12,False,2020,5
+2020-05-21,San Bernardino,Lake,7.35,6.11,8.6,1.1,False,2020,5
+2020-05-25,Napa,Reservoir,7.89,11.89,5.63,10.27,False,2020,5
+2020-05-27,San Francisco,Stream,6.98,7.4,5.66,3.4,False,2020,5
+2020-05-28,Kern,Groundwater,6.28,9.65,8.0,5.51,False,2020,5
+2020-05-28,Santa Clara,Lake,8.65,6.55,11.52,11.61,False,2020,5
+2020-05-29,Marin,Lake,7.12,0.25,8.8,12.04,False,2020,5
+2020-06-01,San Diego,River,7.17,1.93,10.61,11.71,False,2020,6
+2020-06-03,Marin,Reservoir,8.08,8.86,7.39,13.64,False,2020,6
+2020-06-05,Napa,River,6.66,9.18,8.51,11.85,False,2020,6
+2020-06-07,Marin,Stream,7.38,4.59,9.85,3.63,True,2020,6
+2020-06-09,San Francisco,Stream,6.62,4.62,6.53,6.39,True,2020,6
+2020-06-11,Shasta,Lake,6.23,10.21,11.29,2.55,False,2020,6
+2020-06-12,Marin,Stream,8.63,10.46,8.82,13.6,False,2020,6
+2020-06-13,Fresno,Groundwater,7.84,0.97,10.16,0.91,True,2020,6
+2020-06-15,Shasta,River,6.44,11.42,5.03,11.89,False,2020,6
+2020-06-16,Monterey,Stream,8.42,6.93,5.77,1.09,False,2020,6
+2020-06-18,Riverside,River,7.99,6.05,9.26,1.82,False,2020,6
+2020-06-19,Sonoma,River,8.8,10.73,9.67,2.82,False,2020,6
+2020-06-20,Napa,River,7.16,8.45,9.31,7.74,False,2020,6
+2020-06-20,San Bernardino,Groundwater,6.69,4.67,5.65,1.02,True,2020,6
+2020-06-22,San Bernardino,River,8.21,0.58,6.94,4.28,True,2020,6
+2020-06-26,Monterey,Stream,7.69,3.82,9.98,10.52,False,2020,6
+2020-06-27,Los Angeles,River,7.32,8.45,11.92,6.87,False,2020,6
+2020-06-29,Monterey,Groundwater,7.73,11.0,7.53,10.25,False,2020,6
+2020-07-01,San Francisco,Lake,6.34,1.98,9.66,0.51,False,2020,7
+2020-07-03,San Francisco,Groundwater,6.26,6.74,7.76,7.92,False,2020,7
+2020-07-06,Los Angeles,Reservoir,7.69,11.7,9.27,12.67,False,2020,7
+2020-07-07,Fresno,Stream,8.05,4.89,5.96,4.07,True,2020,7
+2020-07-09,Santa Clara,Groundwater,6.9,0.72,5.48,14.24,False,2020,7
+2020-07-10,San Diego,Groundwater,8.6,7.38,5.65,3.83,False,2020,7
+2020-07-12,San Bernardino,Lake,7.06,9.98,5.15,2.57,False,2020,7
+2020-07-18,Sonoma,Stream,6.26,3.38,6.2,2.44,False,2020,7
+2020-07-21,Sacramento,Stream,8.09,2.13,7.47,13.66,False,2020,7
+2020-07-22,Los Angeles,River,8.62,8.8,6.18,4.46,False,2020,7
+2020-07-23,San Diego,River,8.2,3.12,7.38,0.88,True,2020,7
+2020-07-24,San Diego,Reservoir,7.26,5.39,6.05,13.33,False,2020,7
+2020-07-26,Los Angeles,River,8.14,6.78,5.42,7.69,False,2020,7
+2020-07-31,Los Angeles,Reservoir,6.66,8.54,5.7,5.65,False,2020,7
+2020-08-02,Los Angeles,Lake,8.21,11.63,6.41,2.3,False,2020,8
+2020-08-05,San Bernardino,Stream,8.05,4.49,5.18,9.72,True,2020,8
+2020-08-07,Shasta,River,8.54,3.1,6.71,14.37,False,2020,8
+2020-08-14,Los Angeles,Reservoir,7.8,8.7,9.76,0.97,False,2020,8
+2020-08-15,Sacramento,River,8.7,3.92,9.98,14.24,False,2020,8
+2020-08-18,Sonoma,River,7.47,10.76,7.29,8.74,False,2020,8
+2020-08-24,Kern,River,8.54,2.83,9.9,14.25,False,2020,8
+2020-08-25,Santa Clara,Stream,6.3,2.51,7.1,11.22,False,2020,8
+2020-08-25,Napa,River,8.61,4.73,10.08,2.74,False,2020,8
+2020-08-25,Marin,Groundwater,8.46,0.92,5.04,5.16,True,2020,8
+2020-08-26,Shasta,Reservoir,7.2,5.38,10.56,9.28,False,2020,8
+2020-08-31,Monterey,Lake,7.44,0.83,11.03,7.5,True,2020,8
+2020-09-03,Kern,Groundwater,8.11,8.85,6.36,12.0,False,2020,9
+2020-09-03,San Diego,Reservoir,8.49,11.19,6.22,1.78,False,2020,9
+2020-09-03,San Diego,Stream,6.21,2.47,9.7,13.1,False,2020,9
+2020-09-04,Los Angeles,Stream,8.08,5.41,10.06,9.96,False,2020,9
+2020-09-08,Sacramento,Groundwater,8.18,11.93,5.29,1.15,False,2020,9
+2020-09-11,Napa,Stream,7.69,5.92,5.03,5.55,False,2020,9
+2020-09-15,San Bernardino,Reservoir,8.4,1.78,10.91,5.57,True,2020,9
+2020-09-17,Shasta,Reservoir,6.83,8.64,5.29,11.68,False,2020,9
+2020-09-20,Santa Clara,Reservoir,8.38,7.14,9.9,5.56,False,2020,9
+2020-09-22,Alameda,River,8.4,6.37,11.0,5.29,False,2020,9
+2020-09-30,Riverside,Reservoir,8.23,7.78,7.69,14.8,False,2020,9
+2020-09-30,Sonoma,River,8.37,1.6,9.25,13.19,False,2020,9
+2020-10-01,San Francisco,Reservoir,7.75,6.78,5.82,2.12,False,2020,10
+2020-10-08,Marin,Stream,7.03,4.71,9.44,6.0,True,2020,10
+2020-10-12,Napa,Groundwater,6.69,8.26,9.99,8.34,False,2020,10
+2020-10-12,Kern,Lake,6.71,9.8,6.1,3.31,False,2020,10
+2020-10-15,Sacramento,Stream,8.65,4.08,9.11,6.79,False,2020,10
+2020-10-18,Alameda,Stream,6.43,9.82,10.98,11.15,False,2020,10
+2020-10-20,Sonoma,Groundwater,8.4,0.8,6.73,9.53,True,2020,10
+2020-10-21,Fresno,Stream,7.7,2.35,5.87,11.45,False,2020,10
+2020-10-22,Riverside,Reservoir,8.01,3.75,10.29,4.61,True,2020,10
+2020-10-24,San Bernardino,Reservoir,6.91,5.37,7.9,12.73,False,2020,10
+2020-10-25,Shasta,River,8.3,3.83,7.36,13.87,False,2020,10
+2020-10-29,Napa,Lake,7.83,6.71,9.16,11.4,False,2020,10
+2020-10-29,Marin,Stream,7.94,6.53,7.01,7.88,False,2020,10
+2020-11-01,Sonoma,River,8.42,1.65,8.07,5.45,True,2020,11
+2020-11-02,Marin,Reservoir,6.94,9.26,5.61,11.67,False,2020,11
+2020-11-04,San Bernardino,Lake,8.09,4.77,11.6,10.09,False,2020,11
+2020-11-05,Sacramento,Stream,8.66,2.68,5.11,7.14,False,2020,11
+2020-11-05,San Francisco,Reservoir,8.76,7.95,8.5,5.94,False,2020,11
+2020-11-06,Marin,Lake,7.58,4.93,6.91,8.23,True,2020,11
+2020-11-07,Sacramento,Groundwater,6.67,9.17,8.16,14.47,False,2020,11
+2020-11-09,Los Angeles,Stream,7.08,4.69,6.12,14.01,False,2020,11
+2020-11-11,Santa Clara,Lake,7.43,0.46,11.56,1.86,True,2020,11
+2020-11-15,San Francisco,Stream,7.83,10.47,8.23,13.11,False,2020,11
+2020-11-17,Marin,Stream,6.75,2.15,11.07,13.87,False,2020,11
+2020-11-18,Fresno,Stream,6.45,7.32,9.82,0.58,False,2020,11
+2020-11-20,Riverside,Reservoir,8.23,10.02,10.24,7.91,False,2020,11
+2020-11-20,Fresno,Reservoir,6.83,5.1,10.02,5.59,False,2020,11
+2020-11-22,Kern,Reservoir,6.34,2.66,6.34,6.41,False,2020,11
+2020-11-22,Santa Clara,River,7.67,8.78,5.07,0.61,False,2020,11
+2020-11-23,Marin,Lake,8.72,0.81,11.73,1.1,False,2020,11
+2020-11-25,Sacramento,Reservoir,7.37,10.57,7.49,7.75,False,2020,11
+2020-11-27,Marin,River,8.06,6.65,6.27,6.53,False,2020,11
+2020-12-07,Shasta,Groundwater,7.9,8.46,6.71,8.71,False,2020,12
+2020-12-08,Riverside,Reservoir,7.19,6.25,9.96,11.28,False,2020,12
+2020-12-10,Santa Clara,Lake,6.74,3.84,7.84,3.81,True,2020,12
+2020-12-13,Riverside,Reservoir,6.7,10.01,8.77,10.31,False,2020,12
+2020-12-14,Napa,Lake,8.34,5.94,6.87,4.44,False,2020,12
+2020-12-19,San Bernardino,Reservoir,8.31,3.19,5.33,7.17,True,2020,12
+2020-12-24,San Bernardino,Groundwater,6.53,8.09,9.86,3.57,False,2020,12
+2020-12-26,Sonoma,Groundwater,7.62,11.31,11.26,3.62,False,2020,12
+2021-01-07,Kern,Reservoir,8.06,5.49,6.79,12.13,False,2021,1
+2021-01-11,Fresno,Stream,6.36,2.32,11.63,10.57,False,2021,1
+2021-01-13,Kern,Reservoir,6.45,8.11,10.84,8.32,False,2021,1
+2021-01-14,Sacramento,Stream,8.02,1.34,10.69,7.11,True,2021,1
+2021-01-14,Los Angeles,River,6.66,0.13,5.44,7.88,True,2021,1
+2021-01-15,San Diego,Reservoir,6.37,5.49,5.83,14.18,False,2021,1
+2021-01-17,San Bernardino,River,8.25,3.97,6.2,4.16,True,2021,1
+2021-01-17,Alameda,Stream,8.18,8.7,11.53,2.75,False,2021,1
+2021-01-18,San Diego,Groundwater,8.17,2.81,7.76,12.56,False,2021,1
+2021-01-24,Shasta,Reservoir,6.68,9.39,10.74,4.49,False,2021,1
+2021-01-24,San Francisco,River,7.36,10.71,8.82,4.68,False,2021,1
+2021-01-29,San Bernardino,Reservoir,7.79,2.44,5.03,6.29,True,2021,1
+2021-01-31,Kern,Lake,8.28,10.61,7.99,8.57,False,2021,1
+2021-02-04,Napa,Stream,8.05,0.9,5.71,12.28,False,2021,2
+2021-02-05,Los Angeles,Lake,6.97,9.29,8.25,1.46,False,2021,2
+2021-02-08,Marin,Lake,7.77,2.31,7.02,10.17,False,2021,2
+2021-02-10,San Diego,River,7.38,1.16,5.93,13.98,False,2021,2
+2021-02-10,San Francisco,Lake,7.73,8.25,10.7,5.8,False,2021,2
+2021-02-13,Los Angeles,Stream,6.29,2.83,8.44,5.31,False,2021,2
+2021-02-13,San Diego,Stream,8.11,3.65,9.83,3.29,True,2021,2
+2021-02-14,Monterey,Reservoir,7.98,1.05,9.53,14.2,False,2021,2
+2021-02-17,San Bernardino,Reservoir,6.41,2.4,9.28,12.37,False,2021,2
+2021-02-18,Riverside,Groundwater,8.31,1.08,11.31,10.91,False,2021,2
+2021-02-23,Santa Clara,River,6.49,4.71,5.75,14.0,False,2021,2
+2021-03-06,San Diego,Reservoir,8.06,4.7,9.38,2.97,True,2021,3
+2021-03-07,Shasta,Reservoir,8.78,2.04,5.26,10.94,False,2021,3
+2021-03-08,Monterey,River,8.6,10.34,10.23,1.08,False,2021,3
+2021-03-13,Monterey,Lake,7.16,9.53,5.94,0.96,False,2021,3
+2021-03-13,San Bernardino,Stream,6.97,1.62,11.49,14.69,False,2021,3
+2021-03-14,Los Angeles,Lake,6.33,5.58,11.33,12.68,False,2021,3
+2021-03-15,Napa,Stream,7.75,1.63,9.86,7.5,True,2021,3
+2021-03-19,Marin,Reservoir,7.66,9.72,5.69,12.48,False,2021,3
+2021-03-24,Sacramento,River,7.0,10.29,5.49,11.08,False,2021,3
+2021-03-30,Santa Clara,River,6.38,10.72,6.49,13.24,False,2021,3
+2021-03-31,Sonoma,Groundwater,7.58,9.4,7.59,3.43,False,2021,3
+2021-04-04,San Bernardino,Groundwater,8.08,4.31,10.45,6.96,True,2021,4
+2021-04-07,Napa,Reservoir,7.16,6.72,8.51,2.76,False,2021,4
+2021-04-13,Riverside,Lake,8.3,11.38,5.81,2.55,False,2021,4
+2021-04-13,Alameda,Groundwater,7.15,11.97,8.35,2.61,False,2021,4
+2021-04-14,Santa Clara,River,6.89,6.29,8.88,10.19,False,2021,4
+2021-04-17,Fresno,Lake,7.76,5.69,5.17,14.04,False,2021,4
+2021-04-19,San Francisco,Reservoir,6.92,10.11,8.85,8.17,False,2021,4
+2021-04-22,Shasta,Stream,8.76,11.67,7.62,13.99,False,2021,4
+2021-04-25,Sonoma,Lake,8.46,7.0,8.9,4.12,False,2021,4
+2021-04-26,Sonoma,Stream,6.95,3.9,6.71,14.16,False,2021,4
+2021-05-07,Marin,Lake,7.94,10.6,10.58,13.28,False,2021,5
+2021-05-08,Sonoma,Stream,6.22,10.7,9.78,4.29,False,2021,5
+2021-05-08,San Diego,Stream,6.44,8.18,8.45,2.11,False,2021,5
+2021-05-12,Monterey,Lake,7.47,3.36,5.34,0.15,True,2021,5
+2021-05-13,Napa,Groundwater,7.98,4.15,5.32,5.88,True,2021,5
+2021-05-16,San Bernardino,Lake,6.88,2.01,10.02,7.0,True,2021,5
+2021-05-17,Los Angeles,River,8.53,11.08,7.07,0.89,False,2021,5
+2021-05-18,Riverside,Lake,6.66,1.41,6.74,9.64,True,2021,5
+2021-05-19,Santa Clara,River,8.66,8.29,11.37,13.55,False,2021,5
+2021-05-20,Monterey,River,7.76,7.64,7.36,13.32,False,2021,5
+2021-05-21,Fresno,Reservoir,7.68,3.21,6.78,12.18,False,2021,5
+2021-05-23,Fresno,Lake,7.3,9.84,5.08,3.99,False,2021,5
+2021-05-23,Sonoma,Groundwater,7.92,11.85,9.48,2.53,False,2021,5
+2021-05-24,Shasta,Lake,8.55,11.12,9.88,7.64,False,2021,5
+2021-05-24,Shasta,Stream,6.7,8.65,6.31,9.75,False,2021,5
+2021-05-25,Marin,Lake,7.66,10.7,7.19,13.22,False,2021,5
+2021-05-25,Fresno,Stream,8.43,1.58,7.94,9.76,True,2021,5
+2021-05-27,Los Angeles,Reservoir,7.57,3.14,6.04,2.21,True,2021,5
+2021-05-27,Monterey,Reservoir,7.24,6.46,11.49,13.59,False,2021,5
+2021-05-28,Sonoma,Stream,8.72,7.82,7.09,9.12,False,2021,5
+2021-05-29,Santa Clara,Groundwater,7.72,7.58,9.69,14.41,False,2021,5
+2021-05-30,San Francisco,River,8.22,4.84,6.04,8.86,True,2021,5
+2021-06-06,San Francisco,Reservoir,8.01,10.3,7.06,7.84,False,2021,6
+2021-06-12,Riverside,Stream,7.65,10.68,10.7,5.03,False,2021,6
+2021-06-12,Alameda,Lake,8.48,9.42,10.98,2.85,False,2021,6
+2021-06-19,Los Angeles,Groundwater,8.7,7.76,8.83,7.16,False,2021,6
+2021-06-22,San Bernardino,Lake,8.67,6.75,5.11,4.87,False,2021,6
+2021-06-22,Napa,River,7.86,5.16,6.03,1.75,False,2021,6
+2021-06-25,San Francisco,Groundwater,7.03,1.57,9.03,8.78,True,2021,6
+2021-06-25,San Francisco,River,7.74,6.78,10.56,1.32,False,2021,6
+2021-06-30,Fresno,Reservoir,8.57,11.03,5.59,10.03,False,2021,6
+2021-07-02,Santa Clara,River,6.6,0.88,9.88,9.32,True,2021,7
+2021-07-09,Shasta,Groundwater,7.75,2.81,11.49,4.93,True,2021,7
+2021-07-14,San Francisco,Lake,6.92,8.5,8.17,2.53,False,2021,7
+2021-07-16,Riverside,Lake,8.23,11.57,5.44,9.45,False,2021,7
+2021-07-20,Shasta,Reservoir,7.22,5.44,7.35,1.29,False,2021,7
+2021-07-22,San Bernardino,River,6.69,7.32,8.49,6.58,False,2021,7
+2021-07-23,Riverside,Reservoir,6.63,7.47,8.1,10.85,False,2021,7
+2021-07-24,Santa Clara,Groundwater,7.75,8.07,6.32,9.23,False,2021,7
+2021-07-24,Santa Clara,River,6.8,3.81,8.64,3.55,True,2021,7
+2021-07-24,Shasta,Groundwater,7.49,3.22,9.31,6.49,True,2021,7
+2021-07-24,Sacramento,Lake,8.78,6.09,11.44,9.2,False,2021,7
+2021-07-25,Los Angeles,Lake,7.65,5.12,5.46,4.02,False,2021,7
+2021-07-25,Riverside,Groundwater,6.88,2.65,10.13,11.6,False,2021,7
+2021-07-26,Sacramento,Stream,6.66,8.98,10.97,4.1,False,2021,7
+2021-07-28,Sacramento,Groundwater,8.41,11.78,11.83,5.52,False,2021,7
+2021-07-30,Los Angeles,Groundwater,8.69,11.09,8.2,11.34,False,2021,7
+2021-08-07,Monterey,Lake,6.27,7.28,9.56,7.73,False,2021,8
+2021-08-09,San Diego,River,7.79,2.06,6.11,4.97,True,2021,8
+2021-08-10,Riverside,Reservoir,7.46,6.9,6.74,12.48,False,2021,8
+2021-08-14,Shasta,Groundwater,8.79,8.33,9.47,1.24,False,2021,8
+2021-08-15,Kern,Stream,7.68,1.46,9.27,12.12,False,2021,8
+2021-08-16,Los Angeles,Reservoir,8.78,3.57,6.43,3.32,False,2021,8
+2021-08-17,Fresno,Reservoir,6.5,3.72,8.88,11.93,False,2021,8
+2021-08-18,Marin,Stream,7.7,9.8,8.54,13.78,False,2021,8
+2021-08-22,San Bernardino,Groundwater,6.55,11.69,7.88,8.72,False,2021,8
+2021-08-24,Los Angeles,Stream,6.7,4.63,6.46,0.3,True,2021,8
+2021-08-25,Kern,River,7.86,7.64,5.93,8.04,False,2021,8
+2021-08-29,Sacramento,Reservoir,6.27,7.76,7.95,5.59,False,2021,8
+2021-09-01,Monterey,Reservoir,8.53,9.05,5.29,13.79,False,2021,9
+2021-09-03,Sacramento,Stream,8.73,3.08,5.33,13.82,False,2021,9
+2021-09-06,Fresno,Reservoir,8.32,8.05,9.06,5.98,False,2021,9
+2021-09-06,San Francisco,Reservoir,6.76,9.97,9.11,11.37,False,2021,9
+2021-09-07,Kern,Groundwater,6.48,1.86,6.57,11.77,False,2021,9
+2021-09-10,San Francisco,River,6.88,11.17,11.21,12.03,False,2021,9
+2021-09-10,Napa,Lake,6.84,0.29,6.59,6.64,True,2021,9
+2021-09-11,Los Angeles,Lake,6.72,5.69,7.72,10.46,False,2021,9
+2021-09-13,Fresno,Groundwater,8.41,6.35,7.68,8.84,False,2021,9
+2021-09-18,Los Angeles,Groundwater,7.45,8.47,10.86,1.66,False,2021,9
+2021-09-23,Riverside,Groundwater,7.26,0.41,7.0,2.85,True,2021,9
+2021-09-28,Napa,Stream,6.91,10.8,10.98,12.5,False,2021,9
+2021-09-28,Shasta,Groundwater,7.3,4.43,10.29,5.16,True,2021,9
+2021-10-03,Santa Clara,Groundwater,6.54,4.75,7.0,6.94,True,2021,10
+2021-10-04,Kern,Reservoir,6.21,5.86,11.34,12.47,False,2021,10
+2021-10-04,Shasta,Stream,7.13,11.55,5.07,12.91,False,2021,10
+2021-10-06,Monterey,Stream,8.46,2.29,11.08,2.55,True,2021,10
+2021-10-07,Los Angeles,River,7.94,8.52,7.22,2.66,False,2021,10
+2021-10-14,Riverside,River,6.34,2.94,7.15,6.79,False,2021,10
+2021-10-21,Sacramento,Stream,8.72,2.82,9.15,3.63,False,2021,10
+2021-10-22,San Francisco,River,8.17,9.71,9.1,1.33,False,2021,10
+2021-10-22,Napa,Lake,6.68,8.87,11.77,10.08,False,2021,10
+2021-10-23,Sacramento,Reservoir,6.52,10.43,8.87,5.6,False,2021,10
+2021-10-23,Monterey,River,6.3,4.94,5.24,1.24,False,2021,10
+2021-10-27,Alameda,Lake,7.18,6.27,6.93,9.98,False,2021,10
+2021-10-30,Kern,Groundwater,7.16,9.63,9.1,13.26,False,2021,10
+2021-10-30,Monterey,Stream,6.6,8.22,10.02,7.85,False,2021,10
+2021-10-30,Monterey,River,6.83,1.87,6.09,1.28,True,2021,10
+2021-11-01,Sacramento,Stream,7.23,5.54,9.16,0.69,False,2021,11
+2021-11-02,Alameda,River,6.42,4.78,11.11,5.55,False,2021,11
+2021-11-03,Fresno,Stream,6.98,11.68,11.94,0.86,False,2021,11
+2021-11-08,Shasta,Reservoir,6.43,7.04,11.47,4.24,False,2021,11
+2021-11-09,Los Angeles,River,7.93,7.19,10.32,13.67,False,2021,11
+2021-11-10,Fresno,River,7.41,10.0,5.43,10.36,False,2021,11
+2021-11-13,Shasta,Groundwater,6.48,5.97,9.9,10.99,False,2021,11
+2021-11-14,Marin,River,7.5,8.67,10.04,6.92,False,2021,11
+2021-11-17,Napa,Stream,8.77,11.25,9.81,6.13,False,2021,11
+2021-11-20,Santa Clara,Groundwater,6.34,4.82,7.34,9.16,False,2021,11
+2021-11-20,Monterey,Stream,7.8,2.17,8.82,5.26,True,2021,11
+2021-11-21,Fresno,River,6.26,4.77,7.12,14.33,False,2021,11
+2021-11-21,Shasta,Reservoir,7.7,3.99,5.94,8.99,True,2021,11
+2021-11-22,Santa Clara,Reservoir,6.91,11.94,9.6,9.93,False,2021,11
+2021-11-24,Marin,River,8.01,9.74,7.51,7.68,False,2021,11
+2021-11-26,Napa,River,7.44,9.21,9.9,12.89,False,2021,11
+2021-11-29,Kern,Reservoir,7.45,2.33,10.13,10.84,False,2021,11
+2021-11-30,San Bernardino,River,6.86,0.96,5.87,5.71,True,2021,11
+2021-11-30,San Francisco,River,7.36,1.85,9.54,1.94,True,2021,11
+2021-12-01,Sacramento,River,7.56,8.31,6.36,14.87,False,2021,12
+2021-12-06,Sacramento,Reservoir,7.64,1.2,11.11,10.9,False,2021,12
+2021-12-08,Santa Clara,River,6.93,3.13,9.69,5.46,True,2021,12
+2021-12-10,San Bernardino,Groundwater,7.17,10.02,5.32,6.58,False,2021,12
+2021-12-14,Sonoma,Reservoir,6.44,2.47,6.94,13.03,False,2021,12
+2021-12-20,Kern,Lake,7.99,11.86,6.58,9.69,False,2021,12
+2021-12-20,Los Angeles,Reservoir,6.38,1.04,9.78,1.02,False,2021,12
+2021-12-25,San Bernardino,River,6.59,6.69,7.22,3.38,False,2021,12
+2021-12-25,Shasta,Stream,7.95,7.76,11.39,10.03,False,2021,12
+2021-12-27,San Francisco,Stream,8.76,5.99,9.35,8.9,False,2021,12
+2021-12-30,Alameda,Stream,7.45,1.84,6.91,4.87,True,2021,12
+2021-12-30,San Francisco,Reservoir,7.12,4.72,6.33,14.18,False,2021,12
+2022-01-02,Monterey,Lake,7.24,11.04,11.35,13.15,False,2022,1
+2022-01-05,Shasta,Stream,7.05,4.46,7.15,13.87,False,2022,1
+2022-01-09,Fresno,Stream,8.68,5.96,6.4,6.07,False,2022,1
+2022-01-17,Sacramento,Groundwater,6.7,3.43,8.64,13.75,False,2022,1
+2022-01-20,Sacramento,Stream,8.76,8.47,11.43,4.39,False,2022,1
+2022-01-28,Riverside,Lake,6.98,5.92,8.82,11.2,False,2022,1
+2022-02-02,Shasta,Reservoir,6.93,7.88,7.08,0.62,False,2022,2
+2022-02-03,San Bernardino,Stream,6.88,0.9,10.53,2.86,True,2022,2
+2022-02-04,Sonoma,Lake,7.37,10.05,6.57,13.62,False,2022,2
+2022-02-04,Fresno,Reservoir,7.02,2.46,5.11,6.59,True,2022,2
+2022-02-09,Los Angeles,Stream,6.57,7.94,6.2,3.44,False,2022,2
+2022-02-10,Napa,Reservoir,6.99,2.76,11.06,8.8,True,2022,2
+2022-02-12,Sacramento,Stream,8.09,6.82,7.84,5.89,False,2022,2
+2022-02-16,Riverside,Groundwater,6.83,11.81,5.24,4.72,False,2022,2
+2022-02-16,Alameda,Lake,6.3,5.27,5.18,9.03,False,2022,2
+2022-02-19,Santa Clara,Stream,7.06,5.53,5.27,10.13,False,2022,2
+2022-02-25,Kern,Stream,6.85,4.03,5.72,0.42,True,2022,2
+2022-02-28,Napa,Lake,8.67,10.49,10.52,5.78,False,2022,2
+2022-03-02,Riverside,Lake,6.4,3.6,10.75,8.32,False,2022,3
+2022-03-07,Alameda,River,8.72,2.15,11.62,3.4,False,2022,3
+2022-03-13,Marin,Groundwater,8.37,1.58,8.89,7.99,True,2022,3
+2022-03-16,San Bernardino,Reservoir,6.37,9.76,6.78,7.48,False,2022,3
+2022-03-18,Fresno,River,6.31,3.7,11.67,3.0,False,2022,3
+2022-03-19,San Francisco,River,8.3,9.69,5.63,10.7,False,2022,3
+2022-03-20,Riverside,Lake,7.33,9.51,5.32,10.44,False,2022,3
+2022-03-21,Kern,Stream,7.63,3.81,8.55,8.55,True,2022,3
+2022-03-28,Riverside,Lake,8.05,4.52,6.43,2.04,True,2022,3
+2022-04-02,Kern,Groundwater,7.42,4.23,7.05,12.23,False,2022,4
+2022-04-05,Monterey,Reservoir,8.01,3.67,7.71,3.21,True,2022,4
+2022-04-09,Shasta,Stream,8.23,1.84,10.55,5.54,True,2022,4
+2022-04-11,Sacramento,Stream,8.18,6.58,6.03,9.95,False,2022,4
+2022-04-11,Fresno,River,7.6,4.04,5.37,12.26,False,2022,4
+2022-04-11,Los Angeles,Stream,7.16,2.88,10.72,13.99,False,2022,4
+2022-04-14,Los Angeles,Stream,7.83,9.52,8.32,13.19,False,2022,4
+2022-04-20,Riverside,Reservoir,7.05,5.29,6.13,12.32,False,2022,4
+2022-04-21,San Diego,River,6.46,6.99,7.29,9.03,False,2022,4
+2022-04-22,Monterey,River,6.33,4.48,9.46,4.12,False,2022,4
+2022-04-26,San Diego,Reservoir,8.49,1.77,6.96,6.45,True,2022,4
+2022-04-26,San Francisco,Reservoir,8.69,9.54,8.6,2.2,False,2022,4
+2022-04-29,Santa Clara,Lake,6.46,11.58,9.39,0.47,False,2022,4
+2022-05-01,Fresno,Reservoir,7.47,11.86,6.04,13.27,False,2022,5
+2022-05-01,Fresno,River,8.56,2.53,6.15,1.55,False,2022,5
+2022-05-02,San Diego,Lake,6.23,3.77,6.11,9.49,False,2022,5
+2022-05-10,Shasta,Reservoir,6.42,1.97,5.51,6.28,False,2022,5
+2022-05-25,Fresno,Reservoir,8.35,2.6,8.75,5.49,True,2022,5
+2022-05-29,Monterey,Groundwater,6.99,4.47,9.57,5.14,True,2022,5
+2022-05-30,Marin,Reservoir,7.95,10.79,8.12,14.66,False,2022,5
+2022-05-30,Fresno,River,6.8,7.46,8.99,4.07,False,2022,5
+2022-05-30,San Diego,Groundwater,8.01,8.78,11.06,8.03,False,2022,5
+2022-06-02,San Francisco,Lake,8.44,0.37,6.6,1.98,True,2022,6
+2022-06-07,Riverside,Lake,6.5,10.93,8.56,9.51,False,2022,6
+2022-06-07,San Francisco,Reservoir,8.21,6.09,6.48,5.63,False,2022,6
+2022-06-11,Los Angeles,Lake,8.73,8.05,7.95,1.47,False,2022,6
+2022-06-12,Shasta,Stream,7.49,10.16,10.86,2.03,False,2022,6
+2022-06-14,Marin,Lake,7.34,1.87,7.47,1.05,True,2022,6
+2022-06-19,Sonoma,Groundwater,6.57,9.17,6.37,9.29,False,2022,6
+2022-06-19,Sonoma,Reservoir,7.88,2.19,8.2,3.3,True,2022,6
+2022-06-22,San Bernardino,River,6.77,2.65,7.6,0.65,True,2022,6
+2022-06-22,Monterey,Reservoir,7.13,2.23,11.27,6.08,True,2022,6
+2022-06-24,San Bernardino,Groundwater,6.98,2.09,8.45,5.13,True,2022,6
+2022-06-28,Alameda,Reservoir,8.62,3.35,5.94,10.8,False,2022,6
+2022-07-09,Monterey,River,7.81,0.47,10.08,10.89,False,2022,7
+2022-07-09,Marin,River,6.86,2.87,10.67,12.94,False,2022,7
+2022-07-18,Fresno,Reservoir,7.05,4.0,5.75,10.96,False,2022,7
+2022-07-21,Sacramento,Groundwater,8.22,1.33,10.35,4.3,True,2022,7
+2022-07-24,Sacramento,Lake,7.8,11.38,5.85,8.92,False,2022,7
+2022-07-24,Riverside,Groundwater,8.04,8.08,5.97,4.52,False,2022,7
+2022-07-26,Sacramento,Groundwater,7.12,2.32,6.79,14.75,False,2022,7
+2022-07-30,San Diego,Stream,6.63,2.17,6.54,1.7,True,2022,7
+2022-07-30,Riverside,Groundwater,7.23,7.06,9.28,3.44,False,2022,7
+2022-08-01,Alameda,River,7.97,11.91,7.36,0.59,False,2022,8
+2022-08-03,San Francisco,Stream,8.43,9.37,10.04,7.91,False,2022,8
+2022-08-07,Shasta,Stream,7.69,11.08,10.84,3.42,False,2022,8
+2022-08-11,Shasta,Stream,7.51,10.38,8.07,10.29,False,2022,8
+2022-08-20,Monterey,Reservoir,7.26,2.96,9.21,9.25,True,2022,8
+2022-08-27,Los Angeles,Stream,6.37,5.51,7.12,3.44,False,2022,8
+2022-08-28,Sacramento,Lake,6.22,4.56,8.73,10.3,False,2022,8
+2022-08-29,Marin,Lake,8.6,11.79,8.96,13.99,False,2022,8
+2022-08-31,San Francisco,Stream,7.81,5.46,10.49,1.7,False,2022,8
+2022-09-02,Monterey,Groundwater,7.64,6.97,7.32,3.0,False,2022,9
+2022-09-04,Marin,Reservoir,6.89,7.11,6.61,1.86,False,2022,9
+2022-09-05,Santa Clara,River,7.6,11.67,6.31,14.02,False,2022,9
+2022-09-06,Sacramento,River,6.2,8.05,8.6,9.05,False,2022,9
+2022-09-11,San Diego,Reservoir,7.34,10.74,9.53,0.95,False,2022,9
+2022-09-13,Sacramento,Reservoir,7.3,4.41,6.13,3.54,True,2022,9
+2022-09-13,Los Angeles,Reservoir,6.35,4.28,8.94,10.5,False,2022,9
+2022-09-18,Kern,River,6.32,6.31,9.93,8.77,False,2022,9
+2022-09-21,Santa Clara,Reservoir,6.33,7.17,9.56,4.59,False,2022,9
+2022-09-22,Riverside,River,6.21,9.33,10.65,13.59,False,2022,9
+2022-09-23,San Diego,Lake,8.61,4.82,6.5,6.51,False,2022,9
+2022-09-25,Napa,Lake,8.19,0.53,10.46,10.96,False,2022,9
+2022-09-28,San Francisco,River,7.3,0.61,5.09,1.55,True,2022,9
+2022-09-29,Sonoma,Groundwater,7.59,7.43,5.44,9.47,False,2022,9
+2022-10-01,Monterey,Reservoir,7.19,11.56,10.31,1.39,False,2022,10
+2022-10-01,Santa Clara,River,6.56,9.5,9.89,1.43,False,2022,10
+2022-10-01,Sonoma,River,7.5,10.22,11.93,3.41,False,2022,10
+2022-10-05,Santa Clara,Reservoir,8.63,9.54,9.88,2.36,False,2022,10
+2022-10-09,Napa,Stream,8.2,4.71,9.5,3.07,True,2022,10
+2022-10-10,Riverside,Stream,7.58,4.68,6.05,9.39,True,2022,10
+2022-10-11,Shasta,Lake,7.35,3.45,6.14,10.74,False,2022,10
+2022-10-14,Napa,Groundwater,6.84,5.86,6.9,8.57,False,2022,10
+2022-10-14,Marin,Lake,8.24,6.4,8.45,3.43,False,2022,10
+2022-10-17,Napa,Stream,8.06,1.49,11.25,9.09,True,2022,10
+2022-10-20,Los Angeles,Groundwater,7.11,3.14,8.32,11.99,False,2022,10
+2022-10-20,Shasta,Stream,6.9,2.07,9.69,8.44,True,2022,10
+2022-10-22,Riverside,Groundwater,8.01,1.59,11.23,3.35,True,2022,10
+2022-10-27,Marin,Groundwater,7.59,6.25,7.72,0.99,False,2022,10
+2022-10-27,Sacramento,Reservoir,7.29,10.65,7.85,6.0,False,2022,10
+2022-11-01,Kern,River,6.39,5.47,7.35,6.33,False,2022,11
+2022-11-02,Kern,Reservoir,8.8,1.92,10.77,5.02,False,2022,11
+2022-11-05,Los Angeles,Groundwater,8.78,7.01,5.45,4.41,False,2022,11
+2022-11-05,Napa,Lake,6.45,11.84,5.13,5.0,False,2022,11
+2022-11-08,Santa Clara,Stream,6.68,6.91,8.4,12.73,False,2022,11
+2022-11-09,San Bernardino,River,6.49,8.68,8.65,10.38,False,2022,11
+2022-11-11,Kern,Reservoir,8.24,3.39,10.48,11.52,False,2022,11
+2022-11-13,Riverside,Lake,7.2,10.47,9.82,10.46,False,2022,11
+2022-11-15,Napa,Lake,6.75,2.36,9.46,11.62,False,2022,11
+2022-11-15,San Bernardino,Groundwater,8.47,8.85,10.63,8.56,False,2022,11
+2022-11-16,San Diego,Stream,7.49,3.41,6.42,2.79,True,2022,11
+2022-11-17,Marin,Groundwater,6.54,6.0,9.01,5.24,False,2022,11
+2022-11-18,San Francisco,River,6.64,9.07,6.14,0.9,False,2022,11
+2022-11-22,Sonoma,Groundwater,7.58,4.92,8.94,3.61,True,2022,11
+2022-11-22,Napa,River,8.02,7.18,9.01,8.24,False,2022,11
+2022-11-24,Marin,River,6.62,3.22,8.17,1.44,True,2022,11
+2022-11-26,Los Angeles,River,7.6,2.86,5.88,13.63,False,2022,11
+2022-11-28,San Bernardino,River,6.54,0.43,9.73,14.58,False,2022,11
+2022-11-30,Monterey,Groundwater,8.24,6.97,10.86,6.14,False,2022,11
+2022-11-30,San Diego,Stream,6.77,8.07,9.22,5.49,False,2022,11
+2022-12-01,San Diego,River,7.91,6.78,5.12,12.3,False,2022,12
+2022-12-03,Kern,Groundwater,7.49,0.99,9.2,6.32,True,2022,12
+2022-12-03,Monterey,Groundwater,6.26,4.9,10.59,6.96,False,2022,12
+2022-12-04,Los Angeles,River,7.85,5.17,10.17,10.26,False,2022,12
+2022-12-05,Monterey,Stream,7.65,10.48,7.66,4.61,False,2022,12
+2022-12-08,Fresno,Lake,6.63,10.31,5.88,0.64,False,2022,12
+2022-12-08,Sacramento,Lake,7.4,4.79,5.98,12.41,False,2022,12
+2022-12-09,Monterey,Reservoir,7.24,2.32,9.38,3.64,True,2022,12
+2022-12-12,Marin,River,6.53,0.82,10.61,13.93,False,2022,12
+2022-12-12,San Francisco,River,8.29,2.16,8.8,12.26,False,2022,12
+2022-12-13,Marin,Reservoir,8.36,3.48,5.45,9.13,True,2022,12
+2022-12-13,Riverside,Lake,8.08,9.47,8.81,9.14,False,2022,12
+2022-12-15,Napa,Lake,7.77,0.91,5.15,12.51,False,2022,12
+2022-12-18,Sonoma,River,7.26,2.62,9.52,9.26,True,2022,12
+2022-12-19,Shasta,Lake,8.62,2.46,9.36,10.97,False,2022,12
+2022-12-22,Kern,Reservoir,6.99,9.76,7.24,3.73,False,2022,12
+2022-12-22,Los Angeles,River,6.31,11.43,8.14,6.02,False,2022,12
+2022-12-23,Fresno,Reservoir,7.09,3.21,11.05,12.43,False,2022,12
+2022-12-26,Los Angeles,River,8.19,4.91,9.94,10.01,False,2022,12
+2022-12-29,Sacramento,Reservoir,8.23,6.69,7.58,2.77,False,2022,12
+2022-12-30,Kern,Groundwater,6.81,7.52,8.79,11.77,False,2022,12
+2023-01-04,Kern,River,6.31,8.3,8.79,9.89,False,2023,1
+2023-01-04,Napa,Reservoir,6.48,7.11,11.87,7.27,False,2023,1
+2023-01-05,San Bernardino,Reservoir,6.88,4.05,5.95,2.76,True,2023,1
+2023-01-08,Napa,Reservoir,7.3,7.09,11.16,14.24,False,2023,1
+2023-01-09,San Francisco,Groundwater,6.79,4.82,8.34,12.59,False,2023,1
+2023-01-11,Shasta,River,7.03,11.28,6.87,1.92,False,2023,1
+2023-01-11,Kern,Lake,8.05,2.18,5.93,3.14,True,2023,1
+2023-01-13,Sonoma,Groundwater,6.37,4.71,6.14,8.56,False,2023,1
+2023-01-14,San Diego,Reservoir,8.67,2.37,5.11,4.51,False,2023,1
+2023-01-18,Fresno,Reservoir,6.42,8.72,10.01,13.84,False,2023,1
+2023-01-18,Sacramento,Groundwater,7.26,4.13,9.01,6.8,True,2023,1
+2023-01-19,San Bernardino,Reservoir,7.55,6.95,6.78,8.3,False,2023,1
+2023-01-23,Fresno,Lake,7.8,6.51,10.63,3.81,False,2023,1
+2023-01-24,Los Angeles,Stream,8.69,8.78,11.06,6.98,False,2023,1
+2023-01-26,Riverside,River,6.35,2.61,9.67,2.97,False,2023,1
+2023-01-26,San Francisco,Lake,7.78,1.94,11.36,7.25,True,2023,1
+2023-01-28,San Francisco,Stream,6.9,9.43,11.48,10.33,False,2023,1
+2023-02-01,Shasta,Stream,8.34,6.18,7.94,4.06,False,2023,2
+2023-02-01,San Bernardino,Reservoir,8.1,10.58,8.98,7.01,False,2023,2
+2023-02-03,Alameda,Reservoir,6.54,11.74,9.37,11.05,False,2023,2
+2023-02-04,Shasta,River,6.66,3.48,11.26,10.39,False,2023,2
+2023-02-06,Santa Clara,Stream,8.43,0.94,9.67,12.88,False,2023,2
+2023-02-07,Riverside,Stream,8.09,4.15,9.37,0.58,True,2023,2
+2023-02-07,San Francisco,Reservoir,8.18,11.77,9.0,14.02,False,2023,2
+2023-02-08,Riverside,Groundwater,8.73,7.66,7.58,4.04,False,2023,2
+2023-02-10,Los Angeles,Reservoir,8.2,9.59,8.6,0.68,False,2023,2
+2023-02-12,Shasta,Stream,7.69,11.1,11.45,9.45,False,2023,2
+2023-02-13,Kern,Stream,7.37,10.3,11.02,1.41,False,2023,2
+2023-02-18,Riverside,River,6.71,1.04,9.04,13.25,False,2023,2
+2023-02-21,San Francisco,Lake,7.23,7.83,9.99,12.27,False,2023,2
+2023-02-23,Riverside,Reservoir,7.77,10.04,10.3,0.2,False,2023,2
+2023-02-25,Santa Clara,Reservoir,7.99,1.33,11.27,3.55,True,2023,2
+2023-02-25,Alameda,Groundwater,7.46,4.61,11.04,14.14,False,2023,2
+2023-02-27,Sonoma,Lake,6.36,8.33,6.51,6.02,False,2023,2
+2023-03-01,Kern,Groundwater,6.45,5.72,6.37,3.75,False,2023,3
+2023-03-03,Sonoma,Lake,8.28,6.47,10.07,3.87,False,2023,3
+2023-03-04,Monterey,Reservoir,7.43,11.94,9.62,7.33,False,2023,3
+2023-03-05,San Diego,River,7.11,3.75,10.78,7.81,True,2023,3
+2023-03-13,San Diego,Groundwater,7.0,8.42,11.91,12.94,False,2023,3
+2023-03-15,Santa Clara,Lake,8.65,10.92,8.83,1.2,False,2023,3
+2023-03-16,Los Angeles,Reservoir,7.87,10.72,10.87,0.79,False,2023,3
+2023-03-18,San Bernardino,Reservoir,7.08,2.06,5.56,10.24,False,2023,3
+2023-03-21,San Bernardino,River,6.89,4.86,9.88,3.5,True,2023,3
+2023-03-22,San Francisco,Reservoir,7.89,8.64,10.81,0.31,False,2023,3
+2023-03-27,San Bernardino,River,7.48,9.02,10.53,8.03,False,2023,3
+2023-03-28,Alameda,Stream,8.05,8.44,9.71,11.06,False,2023,3
+2023-03-29,Sonoma,Stream,8.6,2.1,5.85,12.26,False,2023,3
+2023-04-06,San Francisco,Groundwater,7.52,9.97,7.78,2.37,False,2023,4
+2023-04-07,Sacramento,Stream,6.77,11.33,5.2,3.79,False,2023,4
+2023-04-14,Marin,Stream,7.76,9.74,10.92,14.69,False,2023,4
+2023-04-15,San Diego,River,6.39,2.91,9.5,12.4,False,2023,4
+2023-04-15,Santa Clara,Stream,7.54,1.94,11.21,10.39,False,2023,4
+2023-04-17,San Diego,River,6.31,4.3,8.25,6.98,False,2023,4
+2023-04-18,Los Angeles,Lake,6.51,3.44,9.12,6.8,True,2023,4
+2023-04-23,Riverside,Groundwater,7.17,5.16,6.21,3.77,False,2023,4
+2023-04-25,Sonoma,Stream,6.95,11.96,8.2,4.34,False,2023,4
+2023-04-26,Shasta,Stream,8.76,10.65,6.1,14.96,False,2023,4
+2023-05-04,Fresno,Lake,6.44,7.81,5.59,2.45,False,2023,5
+2023-05-05,Marin,Reservoir,8.7,10.9,11.42,13.25,False,2023,5
+2023-05-05,Marin,Stream,8.16,6.71,7.76,6.38,False,2023,5
+2023-05-09,San Francisco,Groundwater,7.39,5.72,6.15,9.91,False,2023,5
+2023-05-11,Sacramento,Groundwater,7.6,10.0,6.12,12.0,False,2023,5
+2023-05-13,San Francisco,Groundwater,8.39,1.47,11.33,5.8,True,2023,5
+2023-05-13,Monterey,Reservoir,8.51,1.29,5.58,1.59,False,2023,5
+2023-05-14,Napa,Reservoir,7.49,7.0,8.74,8.33,False,2023,5
+2023-05-14,Napa,Lake,6.43,6.31,6.02,11.77,False,2023,5
+2023-05-16,Fresno,Lake,7.52,3.5,7.99,12.38,False,2023,5
+2023-05-16,Fresno,Groundwater,7.31,8.27,11.78,1.24,False,2023,5
+2023-05-17,Santa Clara,River,8.59,5.81,9.18,11.95,False,2023,5
+2023-05-21,Fresno,Reservoir,8.3,10.46,9.48,8.67,False,2023,5
+2023-05-23,Alameda,Stream,6.72,9.75,6.32,13.86,False,2023,5
+2023-05-27,Riverside,River,7.17,8.47,9.21,10.51,False,2023,5
+2023-05-27,San Francisco,Lake,8.7,9.94,6.78,10.75,False,2023,5
+2023-05-28,San Diego,Lake,6.61,9.74,11.57,13.84,False,2023,5
+2023-06-04,Fresno,Stream,7.5,9.71,7.08,12.47,False,2023,6
+2023-06-06,Shasta,Lake,6.27,5.49,7.19,1.06,False,2023,6
+2023-06-07,Shasta,River,7.33,11.4,10.6,6.88,False,2023,6
+2023-06-09,Alameda,Reservoir,7.87,3.96,10.3,0.69,True,2023,6
+2023-06-11,Sonoma,Groundwater,8.3,1.58,6.72,6.16,True,2023,6
+2023-06-11,Santa Clara,Stream,6.9,7.46,5.29,9.27,False,2023,6
+2023-06-12,Fresno,Reservoir,8.72,9.77,8.0,5.05,False,2023,6
+2023-06-13,Riverside,Stream,8.51,7.79,10.29,2.44,False,2023,6
+2023-06-13,Marin,Lake,6.26,9.2,6.44,10.13,False,2023,6
+2023-06-19,Riverside,Groundwater,8.24,0.3,9.37,9.58,True,2023,6
+2023-06-20,Monterey,Lake,7.79,7.23,8.71,5.18,False,2023,6
+2023-06-22,Santa Clara,Stream,8.59,7.66,9.15,10.22,False,2023,6
+2023-06-22,Alameda,River,8.33,5.76,10.92,7.92,False,2023,6
+2023-06-25,San Francisco,Reservoir,7.69,9.42,11.1,13.02,False,2023,6
+2023-07-03,Sacramento,Lake,6.39,8.68,8.83,11.09,False,2023,7
+2023-07-06,Riverside,Stream,7.52,11.55,10.26,0.63,False,2023,7
+2023-07-08,Alameda,Groundwater,8.37,5.24,9.82,12.52,False,2023,7
+2023-07-09,Los Angeles,Stream,6.93,6.72,8.58,2.48,False,2023,7
+2023-07-10,Santa Clara,Lake,7.75,5.77,7.71,1.88,False,2023,7
+2023-07-10,San Francisco,River,6.88,11.17,7.94,8.63,False,2023,7
+2023-07-17,Napa,Groundwater,6.28,10.26,10.55,6.54,False,2023,7
+2023-07-17,Monterey,Reservoir,6.78,8.55,7.0,3.82,False,2023,7
+2023-07-18,Marin,River,7.24,0.27,10.54,9.96,True,2023,7
+2023-07-24,Marin,River,6.74,4.3,11.09,12.89,False,2023,7
+2023-07-29,Riverside,Lake,8.07,3.58,7.89,11.23,False,2023,7
+2023-07-30,Marin,Groundwater,6.84,6.49,7.98,0.68,False,2023,7
+2023-08-01,Sacramento,Reservoir,8.48,10.74,9.12,12.43,False,2023,8
+2023-08-03,Napa,Lake,7.16,10.73,7.16,1.07,False,2023,8
+2023-08-03,Sonoma,Groundwater,8.37,4.58,8.83,10.83,False,2023,8
+2023-08-06,San Bernardino,River,6.71,3.78,11.06,8.87,True,2023,8
+2023-08-12,San Francisco,Stream,8.1,3.7,9.96,13.44,False,2023,8
+2023-08-13,Sonoma,Lake,8.12,10.6,6.53,12.14,False,2023,8
+2023-08-14,San Diego,Reservoir,7.38,9.62,7.72,5.24,False,2023,8
+2023-08-18,Los Angeles,Lake,8.58,3.66,5.61,1.45,False,2023,8
+2023-08-21,Alameda,Groundwater,7.28,10.07,11.79,12.94,False,2023,8
+2023-08-21,San Bernardino,River,7.74,2.04,6.65,8.56,True,2023,8
+2023-08-31,Fresno,Lake,7.29,11.17,10.56,12.72,False,2023,8
+2023-09-08,Santa Clara,Stream,6.83,1.32,5.37,13.05,False,2023,9
+2023-09-10,Monterey,Stream,6.91,4.75,8.7,8.9,True,2023,9
+2023-09-14,San Bernardino,Stream,6.76,5.44,6.2,12.57,False,2023,9
+2023-09-14,Napa,Groundwater,6.45,11.18,11.56,14.16,False,2023,9
+2023-09-17,Los Angeles,Groundwater,8.5,4.6,9.46,1.42,True,2023,9
+2023-09-18,Sacramento,River,6.35,1.16,6.95,14.81,False,2023,9
+2023-09-19,Riverside,Reservoir,8.21,11.12,5.4,6.15,False,2023,9
+2023-09-23,Napa,Reservoir,7.79,0.77,5.97,13.78,False,2023,9
+2023-09-27,Riverside,Reservoir,8.35,2.24,6.32,8.5,True,2023,9
+2023-10-02,San Francisco,Lake,8.31,4.18,10.1,5.64,True,2023,10
+2023-10-04,Sonoma,Groundwater,7.36,1.86,5.21,10.82,False,2023,10
+2023-10-06,San Diego,Groundwater,7.33,10.34,10.95,6.75,False,2023,10
+2023-10-14,Marin,Reservoir,8.63,5.39,8.51,7.0,False,2023,10
+2023-10-17,San Bernardino,Groundwater,7.36,8.47,9.17,7.49,False,2023,10
+2023-10-17,Marin,Reservoir,6.29,2.46,10.41,0.35,False,2023,10
+2023-10-19,Riverside,Lake,7.63,8.74,11.22,7.05,False,2023,10
+2023-10-25,Marin,River,8.51,4.19,11.43,14.74,False,2023,10
+2023-10-29,Shasta,Stream,7.76,9.45,5.96,5.12,False,2023,10
+2023-10-29,Santa Clara,Groundwater,8.24,8.91,8.9,6.58,False,2023,10
+2023-10-29,Riverside,Stream,8.11,11.8,8.16,13.53,False,2023,10
+2023-10-29,Los Angeles,Reservoir,7.1,9.54,6.62,12.44,False,2023,10
+2023-11-05,Marin,Reservoir,7.42,4.6,9.26,12.92,False,2023,11
+2023-11-06,Monterey,Groundwater,6.83,7.19,6.03,6.9,False,2023,11
+2023-11-10,San Diego,Groundwater,8.38,11.57,6.89,7.26,False,2023,11
+2023-11-10,San Diego,Lake,7.07,7.68,8.48,10.97,False,2023,11
+2023-11-17,Kern,River,7.92,6.55,11.83,9.01,False,2023,11
+2023-11-22,Riverside,Lake,7.01,1.7,7.21,1.1,True,2023,11
+2023-11-23,Santa Clara,River,7.63,1.16,6.45,2.47,True,2023,11
+2023-11-24,Sacramento,Stream,7.79,4.16,8.84,12.75,False,2023,11
+2023-11-25,Los Angeles,Groundwater,8.5,8.0,11.07,11.36,False,2023,11
+2023-11-27,Santa Clara,Groundwater,8.63,9.06,8.89,2.55,False,2023,11
+2023-11-28,Fresno,Lake,7.07,9.66,10.98,11.78,False,2023,11
+2023-11-29,Sonoma,Reservoir,8.74,8.96,10.84,14.01,False,2023,11
+2023-11-30,San Francisco,Stream,7.48,10.84,7.05,2.52,False,2023,11
+2023-12-05,Shasta,Lake,7.27,9.06,5.98,1.82,False,2023,12
+2023-12-10,San Bernardino,Lake,8.26,8.62,10.2,4.37,False,2023,12
+2023-12-12,Napa,Lake,6.76,4.99,5.07,2.01,True,2023,12
+2023-12-12,San Francisco,River,6.26,6.83,6.27,8.02,False,2023,12
+2023-12-13,Alameda,Reservoir,7.4,2.43,5.3,6.85,True,2023,12
+2023-12-13,Shasta,Groundwater,7.27,11.41,8.22,3.25,False,2023,12
+2023-12-13,Fresno,Lake,7.97,0.74,9.92,2.61,True,2023,12
+2023-12-16,Alameda,Lake,7.78,1.78,8.63,7.46,True,2023,12
+2023-12-19,Santa Clara,Groundwater,6.54,4.22,6.83,2.97,True,2023,12
+2023-12-19,Napa,Groundwater,8.07,4.46,11.41,1.67,True,2023,12
+2023-12-21,Los Angeles,Stream,8.53,4.48,8.8,6.34,False,2023,12
+2023-12-21,Sonoma,River,6.64,11.49,11.05,7.69,False,2023,12
+2023-12-23,Napa,Groundwater,7.37,9.81,10.22,10.64,False,2023,12
+2023-12-28,San Francisco,Groundwater,6.63,5.23,11.92,9.94,False,2023,12
+2023-12-31,Shasta,Lake,6.94,6.49,10.36,10.99,False,2023,12
+2024-01-01,Sacramento,River,6.44,4.39,7.5,1.31,False,2024,1
+2024-01-04,Alameda,River,6.73,11.0,7.81,7.06,False,2024,1
+2024-01-08,Santa Clara,Lake,7.44,0.62,9.87,3.7,True,2024,1
+2024-01-16,San Diego,Groundwater,7.08,8.23,7.06,14.39,False,2024,1
+2024-01-16,Shasta,Groundwater,6.21,1.16,8.64,14.19,False,2024,1
+2024-01-17,Alameda,Lake,8.38,0.89,10.19,9.86,True,2024,1
+2024-01-26,Fresno,River,7.56,7.78,9.67,4.68,False,2024,1
+2024-01-27,Alameda,Stream,7.61,3.92,9.48,6.16,True,2024,1
+2024-01-30,Shasta,Groundwater,6.37,4.74,6.35,11.57,False,2024,1
+2024-01-31,Napa,Groundwater,7.34,6.34,11.17,3.71,False,2024,1
+2024-02-01,Sonoma,Reservoir,8.61,5.93,11.95,11.96,False,2024,2
+2024-02-02,Shasta,Reservoir,7.94,5.69,7.15,11.9,False,2024,2
+2024-02-05,Los Angeles,Stream,7.51,7.09,7.03,9.96,False,2024,2
+2024-02-09,Sacramento,Reservoir,7.56,9.26,6.22,14.73,False,2024,2
+2024-02-13,Alameda,Lake,8.24,8.27,8.07,11.39,False,2024,2
+2024-02-15,Marin,Stream,7.53,7.59,9.53,4.33,False,2024,2
+2024-02-18,Kern,Stream,8.2,3.81,7.77,3.54,True,2024,2
+2024-02-23,Sacramento,River,7.98,9.47,8.42,4.95,False,2024,2
+2024-02-24,Sonoma,Groundwater,7.94,4.35,6.66,8.07,True,2024,2
+2024-02-25,Sacramento,Stream,7.66,5.31,7.57,10.51,False,2024,2
+2024-02-26,Alameda,Groundwater,7.61,4.14,9.12,14.47,False,2024,2
+2024-02-26,San Diego,Lake,8.49,11.47,10.13,12.01,False,2024,2
+2024-02-29,Santa Clara,Lake,7.29,4.04,5.57,2.52,True,2024,2
+2024-02-29,Alameda,Stream,7.19,10.03,7.32,13.55,False,2024,2
+2024-03-05,San Diego,Reservoir,8.1,8.24,5.93,3.35,False,2024,3
+2024-03-06,Los Angeles,Lake,7.36,7.1,6.53,10.79,False,2024,3
+2024-03-07,Napa,Reservoir,6.5,4.65,5.73,13.71,False,2024,3
+2024-03-08,San Francisco,River,7.31,10.17,11.57,14.16,False,2024,3
+2024-03-10,Santa Clara,Reservoir,8.36,7.6,10.45,5.13,False,2024,3
+2024-03-12,Monterey,Stream,6.27,1.88,7.47,5.75,False,2024,3
+2024-03-15,San Bernardino,Groundwater,6.47,10.91,11.69,2.31,False,2024,3
+2024-03-16,Santa Clara,River,7.82,1.07,8.44,9.08,True,2024,3
+2024-03-16,Monterey,River,7.37,7.13,10.31,2.18,False,2024,3
+2024-03-16,Alameda,Groundwater,8.17,10.41,5.3,6.11,False,2024,3
+2024-03-16,San Francisco,Stream,8.18,6.01,11.73,14.87,False,2024,3
+2024-03-17,Alameda,Reservoir,7.48,6.59,8.67,9.66,False,2024,3
+2024-03-19,Marin,Lake,8.58,0.14,10.72,4.26,False,2024,3
+2024-03-20,Los Angeles,Lake,6.31,3.91,7.76,2.97,False,2024,3
+2024-03-22,Monterey,Lake,8.38,4.4,6.58,4.01,True,2024,3
+2024-03-24,San Diego,Stream,6.87,2.43,11.29,5.95,True,2024,3
+2024-03-28,Santa Clara,Stream,8.04,7.52,9.38,11.52,False,2024,3
+2024-04-02,Napa,Groundwater,8.71,1.45,8.16,1.91,False,2024,4
+2024-04-05,Kern,River,8.35,4.94,8.8,1.96,True,2024,4
+2024-04-11,Santa Clara,Stream,7.87,1.8,6.48,7.91,True,2024,4
+2024-04-13,Santa Clara,River,6.83,3.59,9.49,11.16,False,2024,4
+2024-04-15,San Francisco,Lake,8.03,10.15,8.25,8.31,False,2024,4
+2024-04-16,San Bernardino,Groundwater,7.48,8.07,9.88,8.3,False,2024,4
+2024-04-24,San Francisco,Groundwater,6.26,11.25,9.72,4.02,False,2024,4
+2024-04-26,Fresno,Groundwater,7.99,6.99,10.03,6.59,False,2024,4
+2024-04-27,Los Angeles,Reservoir,7.84,8.57,10.6,5.66,False,2024,4
+2024-05-01,Fresno,Reservoir,6.73,10.78,5.83,4.23,False,2024,5
+2024-05-02,Riverside,Groundwater,8.34,2.77,6.36,9.46,True,2024,5
+2024-05-02,Alameda,Stream,8.18,5.22,8.84,4.48,False,2024,5
+2024-05-03,Santa Clara,River,8.44,6.31,11.1,14.25,False,2024,5
+2024-05-08,Sacramento,Lake,7.25,6.76,11.56,6.18,False,2024,5
+2024-05-08,Los Angeles,Reservoir,6.8,5.5,5.99,2.94,False,2024,5
+2024-05-13,Alameda,Lake,6.49,1.62,9.18,13.87,False,2024,5
+2024-05-16,Los Angeles,Reservoir,8.22,8.32,11.04,10.87,False,2024,5
+2024-05-16,Riverside,River,7.09,2.93,11.04,13.7,False,2024,5
+2024-05-18,Monterey,Lake,8.79,3.03,11.5,13.35,False,2024,5
+2024-05-19,San Diego,Stream,8.29,0.44,5.92,12.87,False,2024,5
+2024-05-23,San Francisco,Stream,7.19,4.6,7.85,1.18,True,2024,5
+2024-05-24,San Francisco,Lake,7.14,6.17,11.8,1.85,False,2024,5
+2024-05-26,Riverside,Reservoir,7.57,6.53,8.91,7.85,False,2024,5
+2024-05-30,Sacramento,River,8.54,5.81,7.25,11.23,False,2024,5
+2024-05-31,Riverside,River,8.61,7.9,11.77,14.35,False,2024,5
+2024-05-31,San Francisco,River,8.38,7.51,11.43,9.44,False,2024,5
+2024-06-05,Santa Clara,Stream,7.09,0.35,8.55,5.88,True,2024,6
+2024-06-06,Shasta,Reservoir,8.25,5.14,7.48,0.76,False,2024,6
+2024-06-07,Sonoma,Lake,7.93,2.13,6.31,0.31,True,2024,6
+2024-06-12,Fresno,Reservoir,6.42,4.43,7.76,1.41,False,2024,6
+2024-06-12,Sacramento,Groundwater,7.23,9.51,11.04,8.26,False,2024,6
+2024-06-15,San Francisco,Stream,7.88,9.06,6.83,1.37,False,2024,6
+2024-06-16,San Francisco,Reservoir,6.33,7.1,9.67,1.95,False,2024,6
+2024-06-18,Shasta,Lake,7.41,10.8,8.17,2.22,False,2024,6
+2024-06-20,Marin,Groundwater,7.63,4.8,9.6,5.95,True,2024,6
+2024-06-21,Sacramento,Groundwater,7.53,11.89,7.59,0.83,False,2024,6
+2024-06-22,San Diego,Lake,7.71,2.16,10.07,13.15,False,2024,6
+2024-06-23,San Diego,Lake,7.36,3.88,5.11,9.35,True,2024,6
+2024-06-26,Alameda,River,7.19,11.78,11.35,14.54,False,2024,6
+2024-06-28,Riverside,River,6.69,5.75,8.35,1.58,False,2024,6
+2024-06-30,San Diego,Groundwater,6.26,3.34,11.1,3.6,False,2024,6
+2024-07-03,Marin,Groundwater,7.21,9.77,8.24,14.5,False,2024,7
+2024-07-03,Sacramento,Stream,6.92,11.54,7.18,0.9,False,2024,7
+2024-07-08,Los Angeles,Lake,7.64,1.29,7.79,11.48,False,2024,7
+2024-07-09,Fresno,Stream,8.22,3.02,10.7,6.56,True,2024,7
+2024-07-10,Alameda,River,7.16,11.65,5.44,6.76,False,2024,7
+2024-07-10,Monterey,Groundwater,6.99,6.47,7.29,4.69,False,2024,7
+2024-07-11,Shasta,Reservoir,8.75,7.92,7.2,6.47,False,2024,7
+2024-07-12,Kern,Lake,8.46,7.92,10.81,9.66,False,2024,7
+2024-07-17,Riverside,Reservoir,8.79,0.63,8.94,12.87,False,2024,7
+2024-07-18,San Diego,River,8.27,6.31,7.89,8.37,False,2024,7
+2024-07-21,Napa,Reservoir,6.41,1.42,6.5,10.82,False,2024,7
+2024-07-25,Sacramento,Stream,6.51,8.09,5.93,0.7,False,2024,7
+2024-07-27,Los Angeles,Reservoir,8.72,11.14,11.26,4.63,False,2024,7
+2024-07-29,Sacramento,River,8.34,4.82,10.76,13.22,False,2024,7
+2024-08-01,Kern,Groundwater,7.14,0.75,9.38,8.55,True,2024,8
+2024-08-08,Los Angeles,Stream,6.55,0.62,8.24,12.16,False,2024,8
+2024-08-09,Fresno,River,8.24,4.57,5.29,10.74,False,2024,8
+2024-08-14,Napa,Groundwater,6.71,6.36,9.11,13.26,False,2024,8
+2024-08-16,Napa,Lake,6.73,7.43,11.68,1.46,False,2024,8
+2024-08-19,Marin,River,8.47,6.52,11.14,12.74,False,2024,8
+2024-08-20,Monterey,Groundwater,7.93,1.14,6.16,4.72,True,2024,8
+2024-08-22,Fresno,Reservoir,8.53,11.52,11.21,1.86,False,2024,8
+2024-08-26,San Bernardino,River,6.89,10.74,7.32,3.52,False,2024,8
+2024-08-28,San Diego,River,8.02,5.75,5.22,14.7,False,2024,8
+2024-08-30,Alameda,Lake,7.63,7.58,9.52,5.99,False,2024,8
+2024-09-04,Sacramento,River,8.06,10.73,11.78,12.02,False,2024,9
+2024-09-06,Napa,Stream,7.41,1.55,9.68,4.25,True,2024,9
+2024-09-19,Riverside,Reservoir,6.56,9.74,8.23,0.14,False,2024,9
+2024-09-22,Monterey,River,7.44,0.6,10.31,14.25,False,2024,9
+2024-09-23,Shasta,Groundwater,6.76,0.38,5.09,12.46,False,2024,9
+2024-09-26,Sonoma,Stream,7.32,1.34,11.73,3.85,True,2024,9
+2024-09-29,Sacramento,River,6.83,7.35,7.57,11.77,False,2024,9
+2024-09-29,San Diego,Reservoir,6.87,0.99,10.2,2.43,True,2024,9
+2024-09-30,Kern,Groundwater,8.25,9.98,6.56,14.12,False,2024,9
+2024-10-08,Sacramento,Reservoir,8.49,0.61,10.61,5.65,True,2024,10
+2024-10-13,Santa Clara,Reservoir,6.46,1.08,10.16,2.34,False,2024,10
+2024-10-14,Monterey,Stream,6.4,3.71,8.87,2.24,False,2024,10
+2024-10-15,Marin,Reservoir,6.32,0.89,8.69,9.22,False,2024,10
+2024-10-21,Monterey,River,6.4,1.38,5.0,0.56,False,2024,10
+2024-10-21,Los Angeles,Reservoir,8.66,11.17,7.12,5.78,False,2024,10
+2024-10-22,Los Angeles,Groundwater,7.13,9.13,8.73,7.45,False,2024,10
+2024-10-23,San Bernardino,Stream,7.61,0.98,8.77,1.35,True,2024,10
+2024-10-25,Napa,Lake,6.67,7.72,11.19,13.9,False,2024,10
+2024-10-28,Marin,Stream,7.34,2.32,6.22,1.14,True,2024,10
+2024-10-29,Marin,Reservoir,7.35,6.14,5.56,14.62,False,2024,10
+2024-10-29,Sacramento,Reservoir,7.44,11.88,5.51,2.55,False,2024,10
+2024-10-30,Alameda,Stream,8.53,0.37,5.9,11.45,False,2024,10
+2024-10-31,Fresno,Stream,8.28,8.98,5.14,8.55,False,2024,10
+2024-11-06,San Diego,Lake,7.1,7.18,6.95,7.14,False,2024,11
+2024-11-10,Napa,Groundwater,8.25,10.11,7.02,7.58,False,2024,11
+2024-11-10,Sonoma,Reservoir,7.05,7.1,11.85,12.07,False,2024,11
+2024-11-12,Monterey,Stream,8.59,8.15,10.0,1.91,False,2024,11
+2024-11-13,Los Angeles,Lake,6.38,4.04,7.17,7.65,False,2024,11
+2024-11-13,Napa,River,8.64,5.1,5.1,0.93,False,2024,11
+2024-11-14,Napa,Groundwater,6.79,0.77,9.78,0.46,True,2024,11
+2024-11-15,San Francisco,River,8.62,7.27,10.96,5.5,False,2024,11
+2024-11-16,Sacramento,River,8.4,1.01,5.98,2.98,True,2024,11
+2024-11-19,Marin,Reservoir,7.2,8.25,5.51,14.11,False,2024,11
+2024-11-20,Marin,River,8.68,10.48,8.99,13.94,False,2024,11
+2024-11-23,Sacramento,Reservoir,8.42,0.14,6.68,11.7,False,2024,11
+2024-11-23,Riverside,Reservoir,8.34,3.57,11.88,5.91,True,2024,11
+2024-11-23,Marin,River,8.06,1.38,6.49,10.82,False,2024,11
+2024-11-27,Kern,Reservoir,6.58,11.98,5.88,10.87,False,2024,11
+2024-12-02,San Francisco,Stream,8.34,0.99,10.83,13.72,False,2024,12
+2024-12-04,Alameda,Groundwater,7.14,9.05,11.65,0.8,False,2024,12
+2024-12-04,Sacramento,Groundwater,8.71,7.89,9.8,3.97,False,2024,12
+2024-12-07,Los Angeles,Lake,6.56,3.18,8.36,14.86,False,2024,12
+2024-12-07,Sonoma,Reservoir,8.13,2.81,10.72,11.93,False,2024,12
+2024-12-17,Fresno,River,7.07,4.37,8.27,11.33,False,2024,12
+2024-12-17,Shasta,Lake,6.36,0.76,10.84,11.47,False,2024,12
+2024-12-17,San Bernardino,Stream,7.37,1.84,5.78,14.64,False,2024,12
+2024-12-18,Riverside,River,8.09,9.18,7.88,2.04,False,2024,12
+2024-12-20,San Francisco,Groundwater,6.38,1.71,7.1,5.96,False,2024,12
+2024-12-22,San Bernardino,Groundwater,7.68,9.53,11.0,14.3,False,2024,12
+2024-12-26,Napa,Lake,7.96,4.95,11.73,1.39,True,2024,12
+2024-12-28,Sacramento,River,8.63,6.73,11.39,11.66,False,2024,12
+2024-12-28,Monterey,Stream,7.08,5.31,5.31,12.54,False,2024,12
+2024-12-29,Fresno,Groundwater,8.62,6.09,8.83,14.52,False,2024,12
+2024-12-31,Marin,River,8.77,0.12,8.13,4.93,False,2024,12

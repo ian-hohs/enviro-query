@@ -1,0 +1,2001 @@
+date,county,city,pm25_ugm3,ozone_ppm,aqi,aqi_category,year,month
+2020-01-03,San Bernardino,San Bernardino,38.5,0.042,145,Unhealthy for Sensitive Groups,2020,1
+2020-01-05,Sacramento,Elk Grove,54.3,0.029,140,Unhealthy for Sensitive Groups,2020,1
+2020-01-05,Shasta,Redding,52.1,0.042,111,Unhealthy for Sensitive Groups,2020,1
+2020-01-06,Alameda,Oakland,8.6,0.023,49,Good,2020,1
+2020-01-07,San Bernardino,San Bernardino,26.1,0.044,134,Unhealthy for Sensitive Groups,2020,1
+2020-01-09,Kern,Ridgecrest,50.4,0.044,166,Unhealthy,2020,1
+2020-01-10,Santa Clara,Sunnyvale,41.1,0.027,95,Moderate,2020,1
+2020-01-11,Sonoma,Santa Rosa,19.9,0.042,78,Moderate,2020,1
+2020-01-11,Sonoma,Santa Rosa,34.1,0.048,88,Moderate,2020,1
+2020-01-12,Kern,Ridgecrest,23.5,0.045,109,Unhealthy for Sensitive Groups,2020,1
+2020-01-13,Santa Clara,Sunnyvale,52.3,0.03,132,Unhealthy for Sensitive Groups,2020,1
+2020-01-14,Sonoma,Petaluma,54.4,0.049,111,Unhealthy for Sensitive Groups,2020,1
+2020-01-15,San Diego,San Diego,11.3,0.042,60,Moderate,2020,1
+2020-01-16,Fresno,Fresno,54.6,0.036,171,Unhealthy,2020,1
+2020-01-17,San Francisco,Daly City,25.3,0.03,86,Moderate,2020,1
+2020-01-19,Shasta,Redding,22.0,0.041,84,Moderate,2020,1
+2020-01-19,Sonoma,Santa Rosa,18.3,0.036,60,Moderate,2020,1
+2020-01-20,Shasta,Redding,29.5,0.055,80,Moderate,2020,1
+2020-01-20,Los Angeles,Pasadena,41.0,0.023,153,Unhealthy,2020,1
+2020-01-20,San Francisco,San Francisco,48.0,0.043,112,Unhealthy for Sensitive Groups,2020,1
+2020-01-22,Alameda,Fremont,39.1,0.05,127,Unhealthy for Sensitive Groups,2020,1
+2020-01-22,Alameda,Fremont,39.6,0.049,89,Moderate,2020,1
+2020-01-22,Santa Clara,San Jose,19.8,0.045,67,Moderate,2020,1
+2020-01-24,Sacramento,Sacramento,38.2,0.025,117,Unhealthy for Sensitive Groups,2020,1
+2020-01-25,San Bernardino,Ontario,21.6,0.048,121,Unhealthy for Sensitive Groups,2020,1
+2020-01-25,Santa Clara,Sunnyvale,21.4,0.032,90,Moderate,2020,1
+2020-01-26,Fresno,Clovis,41.1,0.044,162,Unhealthy,2020,1
+2020-01-26,Kern,Ridgecrest,29.6,0.05,143,Unhealthy for Sensitive Groups,2020,1
+2020-01-29,Sacramento,Elk Grove,41.3,0.024,93,Moderate,2020,1
+2020-01-31,Alameda,Oakland,26.9,0.031,94,Moderate,2020,1
+2020-02-02,Santa Clara,San Jose,49.3,0.023,103,Unhealthy for Sensitive Groups,2020,2
+2020-02-02,Kern,Ridgecrest,51.0,0.025,141,Unhealthy for Sensitive Groups,2020,2
+2020-02-03,Sonoma,Santa Rosa,20.3,0.053,97,Moderate,2020,2
+2020-02-03,Sacramento,Sacramento,17.5,0.05,88,Moderate,2020,2
+2020-02-03,Riverside,Palm Springs,9.7,0.022,46,Good,2020,2
+2020-02-04,Santa Clara,San Jose,32.9,0.03,97,Moderate,2020,2
+2020-02-04,Santa Clara,Sunnyvale,26.3,0.024,69,Moderate,2020,2
+2020-02-06,Santa Clara,Santa Clara,8.3,0.024,52,Moderate,2020,2
+2020-02-08,Shasta,Redding,20.0,0.049,95,Moderate,2020,2
+2020-02-09,San Diego,Chula Vista,15.2,0.054,53,Moderate,2020,2
+2020-02-10,Kern,Bakersfield,32.7,0.02,153,Unhealthy,2020,2
+2020-02-10,Riverside,Palm Springs,48.4,0.04,114,Unhealthy for Sensitive Groups,2020,2
+2020-02-12,Riverside,Palm Springs,15.6,0.045,83,Moderate,2020,2
+2020-02-13,Monterey,Salinas,22.6,0.051,88,Moderate,2020,2
+2020-02-14,Fresno,Fresno,33.8,0.032,145,Unhealthy for Sensitive Groups,2020,2
+2020-02-16,Napa,Napa,35.1,0.031,95,Moderate,2020,2
+2020-02-17,San Diego,San Diego,51.4,0.043,147,Unhealthy for Sensitive Groups,2020,2
+2020-02-17,Napa,Napa,9.3,0.048,80,Moderate,2020,2
+2020-02-17,Riverside,Riverside,35.6,0.055,113,Unhealthy for Sensitive Groups,2020,2
+2020-02-18,San Bernardino,San Bernardino,35.6,0.033,155,Unhealthy,2020,2
+2020-02-21,Monterey,Monterey,42.9,0.029,102,Unhealthy for Sensitive Groups,2020,2
+2020-02-21,Kern,Ridgecrest,42.9,0.025,158,Unhealthy,2020,2
+2020-02-22,Sonoma,Santa Rosa,36.3,0.05,101,Unhealthy for Sensitive Groups,2020,2
+2020-02-22,San Francisco,San Francisco,28.6,0.042,109,Unhealthy for Sensitive Groups,2020,2
+2020-02-23,San Diego,Chula Vista,25.0,0.04,96,Moderate,2020,2
+2020-02-23,Fresno,Fresno,23.0,0.028,116,Unhealthy for Sensitive Groups,2020,2
+2020-02-23,Los Angeles,Los Angeles,15.2,0.033,120,Unhealthy for Sensitive Groups,2020,2
+2020-02-26,Monterey,Salinas,13.4,0.054,61,Moderate,2020,2
+2020-02-27,Alameda,Oakland,23.0,0.023,85,Moderate,2020,2
+2020-02-28,Sacramento,Sacramento,9.7,0.032,64,Moderate,2020,2
+2020-02-28,Sacramento,Elk Grove,43.0,0.024,102,Unhealthy for Sensitive Groups,2020,2
+2020-02-28,Sacramento,Elk Grove,30.4,0.039,97,Moderate,2020,2
+2020-03-02,Santa Clara,San Jose,12.4,0.028,86,Moderate,2020,3
+2020-03-02,Marin,San Rafael,14.9,0.025,67,Moderate,2020,3
+2020-03-02,Alameda,Berkeley,13.4,0.048,77,Moderate,2020,3
+2020-03-04,Fresno,Fresno,52.7,0.05,179,Unhealthy,2020,3
+2020-03-06,San Diego,San Diego,34.8,0.049,113,Unhealthy for Sensitive Groups,2020,3
+2020-03-07,Santa Clara,Santa Clara,16.6,0.031,93,Moderate,2020,3
+2020-03-08,Riverside,Riverside,16.3,0.043,73,Moderate,2020,3
+2020-03-09,Fresno,Fresno,44.8,0.038,146,Unhealthy for Sensitive Groups,2020,3
+2020-03-09,Kern,Ridgecrest,54.0,0.04,169,Unhealthy,2020,3
+2020-03-09,San Francisco,San Francisco,25.7,0.051,72,Moderate,2020,3
+2020-03-17,Kern,Ridgecrest,16.1,0.034,128,Unhealthy for Sensitive Groups,2020,3
+2020-03-18,Santa Clara,San Jose,33.1,0.046,79,Moderate,2020,3
+2020-03-18,Monterey,Monterey,39.2,0.029,109,Unhealthy for Sensitive Groups,2020,3
+2020-03-19,Kern,Ridgecrest,13.1,0.035,104,Unhealthy for Sensitive Groups,2020,3
+2020-03-19,San Francisco,Daly City,33.7,0.032,101,Unhealthy for Sensitive Groups,2020,3
+2020-03-20,Kern,Ridgecrest,26.6,0.051,119,Unhealthy for Sensitive Groups,2020,3
+2020-03-21,San Bernardino,San Bernardino,19.6,0.035,122,Unhealthy for Sensitive Groups,2020,3
+2020-03-21,Fresno,Fresno,33.8,0.052,145,Unhealthy for Sensitive Groups,2020,3
+2020-03-22,Kern,Ridgecrest,49.9,0.047,163,Unhealthy,2020,3
+2020-03-24,Shasta,Redding,28.8,0.055,108,Unhealthy for Sensitive Groups,2020,3
+2020-03-29,Los Angeles,Los Angeles,14.0,0.041,94,Moderate,2020,3
+2020-03-30,San Bernardino,San Bernardino,14.0,0.035,102,Unhealthy for Sensitive Groups,2020,3
+2020-04-01,Sacramento,Elk Grove,51.4,0.028,130,Unhealthy for Sensitive Groups,2020,4
+2020-04-02,Marin,Mill Valley,11.9,0.051,66,Moderate,2020,4
+2020-04-03,Riverside,Palm Springs,18.4,0.054,60,Moderate,2020,4
+2020-04-03,San Diego,Chula Vista,15.6,0.039,57,Moderate,2020,4
+2020-04-05,Riverside,Palm Springs,51.4,0.044,124,Unhealthy for Sensitive Groups,2020,4
+2020-04-05,San Francisco,Daly City,51.6,0.049,144,Unhealthy for Sensitive Groups,2020,4
+2020-04-07,San Diego,Chula Vista,16.5,0.02,74,Moderate,2020,4
+2020-04-09,Sacramento,Elk Grove,52.0,0.031,126,Unhealthy for Sensitive Groups,2020,4
+2020-04-10,San Bernardino,Ontario,25.2,0.041,106,Unhealthy for Sensitive Groups,2020,4
+2020-04-10,Marin,San Rafael,16.7,0.022,77,Moderate,2020,4
+2020-04-10,Alameda,Oakland,38.5,0.046,114,Unhealthy for Sensitive Groups,2020,4
+2020-04-11,San Diego,San Diego,45.7,0.037,115,Unhealthy for Sensitive Groups,2020,4
+2020-04-12,Fresno,Clovis,12.7,0.026,86,Moderate,2020,4
+2020-04-13,Sacramento,Sacramento,21.6,0.033,101,Unhealthy for Sensitive Groups,2020,4
+2020-04-13,Los Angeles,Long Beach,51.1,0.045,158,Unhealthy,2020,4
+2020-04-14,Fresno,Clovis,23.7,0.024,127,Unhealthy for Sensitive Groups,2020,4
+2020-04-16,Santa Clara,San Jose,17.5,0.046,93,Moderate,2020,4
+2020-04-18,Alameda,Oakland,20.8,0.035,83,Moderate,2020,4
+2020-04-18,Napa,Napa,16.9,0.022,66,Moderate,2020,4
+2020-04-19,San Bernardino,Ontario,12.6,0.028,87,Moderate,2020,4
+2020-04-20,Fresno,Clovis,48.9,0.025,150,Unhealthy for Sensitive Groups,2020,4
+2020-04-21,Riverside,Palm Springs,16.8,0.033,86,Moderate,2020,4
+2020-04-24,San Francisco,San Francisco,20.5,0.034,94,Moderate,2020,4
+2020-04-26,San Bernardino,San Bernardino,53.2,0.023,155,Unhealthy,2020,4
+2020-04-27,San Francisco,Daly City,25.3,0.02,87,Moderate,2020,4
+2020-05-03,Santa Clara,Sunnyvale,20.1,0.048,71,Moderate,2020,5
+2020-05-03,San Francisco,Daly City,18.0,0.043,86,Moderate,2020,5
+2020-05-06,San Francisco,San Francisco,47.0,0.054,108,Unhealthy for Sensitive Groups,2020,5
+2020-05-06,Napa,Napa,51.2,0.035,125,Unhealthy for Sensitive Groups,2020,5
+2020-05-07,Marin,Mill Valley,25.4,0.039,71,Moderate,2020,5
+2020-05-08,Fresno,Fresno,9.0,0.048,111,Unhealthy for Sensitive Groups,2020,5
+2020-05-09,Napa,Napa,45.8,0.035,123,Unhealthy for Sensitive Groups,2020,5
+2020-05-09,Fresno,Fresno,25.5,0.036,135,Unhealthy for Sensitive Groups,2020,5
+2020-05-10,Napa,Napa,32.4,0.04,85,Moderate,2020,5
+2020-05-12,San Francisco,San Francisco,25.1,0.027,79,Moderate,2020,5
+2020-05-12,Riverside,Riverside,48.9,0.022,115,Unhealthy for Sensitive Groups,2020,5
+2020-05-13,Monterey,Monterey,35.6,0.046,91,Moderate,2020,5
+2020-05-14,Kern,Ridgecrest,12.8,0.022,87,Moderate,2020,5
+2020-05-15,Napa,Napa,16.3,0.053,82,Moderate,2020,5
+2020-05-15,Riverside,Palm Springs,24.0,0.048,103,Unhealthy for Sensitive Groups,2020,5
+2020-05-15,San Francisco,Daly City,23.5,0.023,86,Moderate,2020,5
+2020-05-17,San Diego,San Diego,12.7,0.021,87,Moderate,2020,5
+2020-05-17,Alameda,Oakland,49.6,0.034,142,Unhealthy for Sensitive Groups,2020,5
+2020-05-18,Los Angeles,Pasadena,8.6,0.028,80,Moderate,2020,5
+2020-05-18,Marin,Mill Valley,23.7,0.041,102,Unhealthy for Sensitive Groups,2020,5
+2020-05-20,Monterey,Monterey,32.9,0.02,89,Moderate,2020,5
+2020-05-21,Shasta,Redding,33.0,0.036,95,Moderate,2020,5
+2020-05-22,Fresno,Clovis,36.1,0.044,157,Unhealthy,2020,5
+2020-05-22,Monterey,Monterey,14.7,0.035,81,Moderate,2020,5
+2020-05-24,San Bernardino,San Bernardino,37.6,0.029,161,Unhealthy,2020,5
+2020-05-25,Sonoma,Petaluma,40.3,0.052,130,Unhealthy for Sensitive Groups,2020,5
+2020-05-26,Sacramento,Sacramento,38.5,0.025,118,Unhealthy for Sensitive Groups,2020,5
+2020-05-28,Marin,Mill Valley,25.6,0.053,93,Moderate,2020,5
+2020-05-29,Fresno,Clovis,40.4,0.026,151,Unhealthy,2020,5
+2020-05-30,Los Angeles,Los Angeles,10.6,0.048,115,Unhealthy for Sensitive Groups,2020,5
+2020-05-31,Santa Clara,Sunnyvale,35.1,0.044,91,Moderate,2020,5
+2020-05-31,Alameda,Oakland,24.8,0.039,76,Moderate,2020,5
+2020-06-01,Sonoma,Petaluma,32.5,0.05,99,Moderate,2020,6
+2020-06-05,Fresno,Clovis,23.5,0.046,105,Unhealthy for Sensitive Groups,2020,6
+2020-06-09,San Diego,San Diego,27.4,0.07,77,Moderate,2020,6
+2020-06-10,Santa Clara,San Jose,18.8,0.08,86,Moderate,2020,6
+2020-06-12,Fresno,Clovis,33.5,0.058,139,Unhealthy for Sensitive Groups,2020,6
+2020-06-16,San Diego,Chula Vista,31.4,0.08,91,Moderate,2020,6
+2020-06-18,Riverside,Riverside,22.0,0.08,77,Moderate,2020,6
+2020-06-18,Sacramento,Elk Grove,19.3,0.077,93,Moderate,2020,6
+2020-06-19,Santa Clara,Sunnyvale,33.3,0.074,88,Moderate,2020,6
+2020-06-20,Kern,Bakersfield,24.3,0.047,130,Unhealthy for Sensitive Groups,2020,6
+2020-06-20,Sacramento,Elk Grove,14.3,0.066,64,Moderate,2020,6
+2020-06-22,Fresno,Fresno,34.4,0.065,139,Unhealthy for Sensitive Groups,2020,6
+2020-06-23,Sacramento,Elk Grove,34.8,0.046,108,Unhealthy for Sensitive Groups,2020,6
+2020-06-23,Santa Clara,Sunnyvale,17.0,0.062,63,Moderate,2020,6
+2020-06-25,Marin,San Rafael,14.0,0.063,81,Moderate,2020,6
+2020-06-27,San Diego,Chula Vista,7.4,0.085,59,Moderate,2020,6
+2020-06-28,Sacramento,Elk Grove,29.3,0.088,93,Moderate,2020,6
+2020-06-28,Fresno,Clovis,6.5,0.061,85,Moderate,2020,6
+2020-06-29,Riverside,Palm Springs,6.9,0.051,45,Good,2020,6
+2020-06-30,San Francisco,Daly City,5.2,0.072,54,Moderate,2020,6
+2020-07-01,Sacramento,Elk Grove,29.0,0.073,99,Moderate,2020,7
+2020-07-01,San Francisco,San Francisco,15.2,0.07,64,Moderate,2020,7
+2020-07-02,San Francisco,San Francisco,24.5,0.071,92,Moderate,2020,7
+2020-07-03,Marin,Mill Valley,28.7,0.041,107,Unhealthy for Sensitive Groups,2020,7
+2020-07-03,Kern,Ridgecrest,27.7,0.081,145,Unhealthy for Sensitive Groups,2020,7
+2020-07-05,San Bernardino,Ontario,27.7,0.083,115,Unhealthy for Sensitive Groups,2020,7
+2020-07-05,Santa Clara,Santa Clara,26.1,0.04,99,Moderate,2020,7
+2020-07-05,Sonoma,Santa Rosa,8.4,0.062,65,Moderate,2020,7
+2020-07-07,Riverside,Riverside,15.5,0.068,71,Moderate,2020,7
+2020-07-08,Riverside,Palm Springs,14.8,0.07,64,Moderate,2020,7
+2020-07-08,Sacramento,Sacramento,31.8,0.061,96,Moderate,2020,7
+2020-07-09,Sonoma,Petaluma,6.3,0.052,72,Moderate,2020,7
+2020-07-09,Fresno,Fresno,20.4,0.056,116,Unhealthy for Sensitive Groups,2020,7
+2020-07-09,Monterey,Salinas,10.1,0.074,56,Moderate,2020,7
+2020-07-10,Monterey,Monterey,17.2,0.059,85,Moderate,2020,7
+2020-07-10,San Francisco,Daly City,11.1,0.054,56,Moderate,2020,7
+2020-07-12,San Francisco,Daly City,21.7,0.059,78,Moderate,2020,7
+2020-07-12,Sonoma,Santa Rosa,18.9,0.08,66,Moderate,2020,7
+2020-07-12,Shasta,Redding,6.1,0.058,47,Good,2020,7
+2020-07-13,Sacramento,Elk Grove,23.0,0.089,88,Moderate,2020,7
+2020-07-14,Fresno,Fresno,21.7,0.043,112,Unhealthy for Sensitive Groups,2020,7
+2020-07-15,Monterey,Salinas,21.0,0.058,70,Moderate,2020,7
+2020-07-17,Napa,Napa,11.3,0.08,70,Moderate,2020,7
+2020-07-18,Marin,Mill Valley,18.7,0.074,87,Moderate,2020,7
+2020-07-18,Alameda,Berkeley,17.8,0.09,82,Moderate,2020,7
+2020-07-18,Monterey,Salinas,29.1,0.047,92,Moderate,2020,7
+2020-07-21,Los Angeles,Long Beach,25.7,0.043,119,Unhealthy for Sensitive Groups,2020,7
+2020-07-22,San Bernardino,Ontario,28.8,0.046,143,Unhealthy for Sensitive Groups,2020,7
+2020-07-22,Fresno,Fresno,14.8,0.076,121,Unhealthy for Sensitive Groups,2020,7
+2020-07-23,Marin,Mill Valley,20.8,0.063,70,Moderate,2020,7
+2020-07-24,Kern,Ridgecrest,30.0,0.055,133,Unhealthy for Sensitive Groups,2020,7
+2020-07-24,Sonoma,Petaluma,25.4,0.047,103,Unhealthy for Sensitive Groups,2020,7
+2020-07-24,Shasta,Redding,26.7,0.047,70,Moderate,2020,7
+2020-07-26,San Bernardino,San Bernardino,26.8,0.067,117,Unhealthy for Sensitive Groups,2020,7
+2020-07-27,Sonoma,Santa Rosa,25.9,0.055,106,Unhealthy for Sensitive Groups,2020,7
+2020-07-28,Alameda,Berkeley,9.0,0.049,71,Moderate,2020,7
+2020-07-28,Alameda,Oakland,11.5,0.065,59,Moderate,2020,7
+2020-07-29,Los Angeles,Los Angeles,21.3,0.045,122,Unhealthy for Sensitive Groups,2020,7
+2020-07-30,San Bernardino,Ontario,5.8,0.058,78,Moderate,2020,7
+2020-07-31,Sacramento,Sacramento,16.6,0.07,74,Moderate,2020,7
+2020-07-31,Napa,Napa,12.9,0.048,73,Moderate,2020,7
+2020-08-04,Kern,Bakersfield,21.9,0.045,115,Unhealthy for Sensitive Groups,2020,8
+2020-08-04,Santa Clara,Santa Clara,28.0,0.069,101,Unhealthy for Sensitive Groups,2020,8
+2020-08-04,Shasta,Redding,16.5,0.044,79,Moderate,2020,8
+2020-08-04,Marin,San Rafael,28.4,0.07,78,Moderate,2020,8
+2020-08-05,Alameda,Fremont,13.7,0.074,88,Moderate,2020,8
+2020-08-06,Alameda,Berkeley,7.7,0.087,69,Moderate,2020,8
+2020-08-06,Santa Clara,Sunnyvale,9.6,0.073,60,Moderate,2020,8
+2020-08-06,San Bernardino,San Bernardino,16.9,0.067,119,Unhealthy for Sensitive Groups,2020,8
+2020-08-07,Sacramento,Elk Grove,12.6,0.05,55,Moderate,2020,8
+2020-08-08,Sacramento,Sacramento,28.8,0.046,95,Moderate,2020,8
+2020-08-09,Los Angeles,Pasadena,24.6,0.041,108,Unhealthy for Sensitive Groups,2020,8
+2020-08-10,Sacramento,Elk Grove,9.3,0.078,56,Moderate,2020,8
+2020-08-10,San Bernardino,Ontario,34.7,0.073,145,Unhealthy for Sensitive Groups,2020,8
+2020-08-10,San Diego,Chula Vista,8.1,0.058,63,Moderate,2020,8
+2020-08-11,Kern,Bakersfield,28.1,0.073,129,Unhealthy for Sensitive Groups,2020,8
+2020-08-11,Kern,Bakersfield,22.1,0.089,131,Unhealthy for Sensitive Groups,2020,8
+2020-08-15,Sonoma,Petaluma,28.3,0.052,79,Moderate,2020,8
+2020-08-15,Monterey,Monterey,18.8,0.07,64,Moderate,2020,8
+2020-08-17,San Bernardino,San Bernardino,7.3,0.084,84,Moderate,2020,8
+2020-08-18,Riverside,Palm Springs,12.2,0.072,52,Moderate,2020,8
+2020-08-18,San Bernardino,Ontario,17.4,0.047,128,Unhealthy for Sensitive Groups,2020,8
+2020-08-18,Monterey,Monterey,25.2,0.061,89,Moderate,2020,8
+2020-08-18,Sacramento,Sacramento,27.2,0.052,109,Unhealthy for Sensitive Groups,2020,8
+2020-08-18,Los Angeles,Los Angeles,28.9,0.074,138,Unhealthy for Sensitive Groups,2020,8
+2020-08-18,Alameda,Fremont,26.9,0.085,78,Moderate,2020,8
+2020-08-19,Riverside,Palm Springs,31.6,0.062,81,Moderate,2020,8
+2020-08-19,Alameda,Fremont,14.5,0.061,66,Moderate,2020,8
+2020-08-19,Marin,San Rafael,22.3,0.088,80,Moderate,2020,8
+2020-08-21,San Diego,Chula Vista,12.9,0.083,82,Moderate,2020,8
+2020-08-21,San Francisco,Daly City,28.5,0.065,110,Unhealthy for Sensitive Groups,2020,8
+2020-08-21,Sonoma,Petaluma,7.9,0.073,41,Good,2020,8
+2020-08-23,San Diego,Chula Vista,32.0,0.041,86,Moderate,2020,8
+2020-08-23,San Francisco,San Francisco,6.6,0.042,56,Moderate,2020,8
+2020-08-24,Alameda,Berkeley,16.5,0.063,73,Moderate,2020,8
+2020-08-25,Fresno,Clovis,7.9,0.084,84,Moderate,2020,8
+2020-08-25,Santa Clara,San Jose,29.9,0.077,96,Moderate,2020,8
+2020-08-25,San Francisco,Daly City,18.6,0.07,76,Moderate,2020,8
+2020-08-26,Santa Clara,San Jose,10.0,0.048,73,Moderate,2020,8
+2020-08-27,Sacramento,Sacramento,6.2,0.056,47,Good,2020,8
+2020-08-27,Sacramento,Elk Grove,14.4,0.089,82,Moderate,2020,8
+2020-08-27,Shasta,Redding,19.8,0.087,81,Moderate,2020,8
+2020-08-28,Monterey,Monterey,32.0,0.088,78,Moderate,2020,8
+2020-08-30,Monterey,Salinas,10.4,0.067,78,Moderate,2020,8
+2020-08-30,San Diego,San Diego,5.7,0.071,45,Good,2020,8
+2020-08-31,San Bernardino,Ontario,23.0,0.06,106,Unhealthy for Sensitive Groups,2020,8
+2020-08-31,San Diego,San Diego,12.2,0.064,86,Moderate,2020,8
+2020-09-01,Monterey,Monterey,5.4,0.047,38,Good,2020,9
+2020-09-01,San Bernardino,San Bernardino,9.3,0.06,115,Unhealthy for Sensitive Groups,2020,9
+2020-09-02,Fresno,Clovis,5.2,0.077,83,Moderate,2020,9
+2020-09-02,Napa,Napa,32.6,0.074,109,Unhealthy for Sensitive Groups,2020,9
+2020-09-03,San Bernardino,San Bernardino,33.5,0.062,125,Unhealthy for Sensitive Groups,2020,9
+2020-09-03,Fresno,Fresno,14.0,0.08,105,Unhealthy for Sensitive Groups,2020,9
+2020-09-03,Shasta,Redding,24.7,0.067,68,Moderate,2020,9
+2020-09-03,Sacramento,Sacramento,9.0,0.042,55,Moderate,2020,9
+2020-09-05,San Bernardino,Ontario,32.6,0.06,144,Unhealthy for Sensitive Groups,2020,9
+2020-09-06,Marin,San Rafael,34.2,0.076,105,Unhealthy for Sensitive Groups,2020,9
+2020-09-07,Alameda,Fremont,17.3,0.084,82,Moderate,2020,9
+2020-09-08,Kern,Ridgecrest,12.0,0.061,114,Unhealthy for Sensitive Groups,2020,9
+2020-09-09,Kern,Bakersfield,16.0,0.073,91,Moderate,2020,9
+2020-09-10,San Francisco,Daly City,19.0,0.066,89,Moderate,2020,9
+2020-09-10,Monterey,Monterey,34.2,0.064,104,Unhealthy for Sensitive Groups,2020,9
+2020-09-11,Marin,Mill Valley,24.6,0.085,92,Moderate,2020,9
+2020-09-11,Shasta,Redding,16.5,0.068,66,Moderate,2020,9
+2020-09-11,Santa Clara,San Jose,18.6,0.07,94,Moderate,2020,9
+2020-09-13,San Bernardino,Ontario,23.8,0.071,105,Unhealthy for Sensitive Groups,2020,9
+2020-09-13,San Francisco,Daly City,27.3,0.06,73,Moderate,2020,9
+2020-09-15,San Diego,San Diego,6.3,0.044,66,Moderate,2020,9
+2020-09-15,Riverside,Riverside,14.6,0.047,88,Moderate,2020,9
+2020-09-16,Sacramento,Elk Grove,27.5,0.084,78,Moderate,2020,9
+2020-09-17,Fresno,Clovis,10.3,0.04,116,Unhealthy for Sensitive Groups,2020,9
+2020-09-18,Marin,Mill Valley,34.4,0.067,106,Unhealthy for Sensitive Groups,2020,9
+2020-09-18,Fresno,Fresno,25.5,0.055,118,Unhealthy for Sensitive Groups,2020,9
+2020-09-18,Marin,San Rafael,19.9,0.044,94,Moderate,2020,9
+2020-09-20,Napa,Napa,33.2,0.06,90,Moderate,2020,9
+2020-09-21,Fresno,Clovis,22.9,0.087,118,Unhealthy for Sensitive Groups,2020,9
+2020-09-23,Marin,San Rafael,11.6,0.058,75,Moderate,2020,9
+2020-09-24,San Francisco,San Francisco,23.9,0.07,67,Moderate,2020,9
+2020-09-25,Fresno,Clovis,25.2,0.055,122,Unhealthy for Sensitive Groups,2020,9
+2020-09-25,Shasta,Redding,31.5,0.076,101,Unhealthy for Sensitive Groups,2020,9
+2020-09-27,Shasta,Redding,7.7,0.076,68,Moderate,2020,9
+2020-09-27,Napa,Napa,12.5,0.044,57,Moderate,2020,9
+2020-09-30,San Diego,San Diego,8.0,0.082,81,Moderate,2020,9
+2020-10-01,Santa Clara,Santa Clara,24.1,0.052,88,Moderate,2020,10
+2020-10-01,Shasta,Redding,29.8,0.038,99,Moderate,2020,10
+2020-10-01,Sonoma,Petaluma,21.1,0.043,63,Moderate,2020,10
+2020-10-02,Marin,San Rafael,22.1,0.046,83,Moderate,2020,10
+2020-10-02,Fresno,Clovis,39.9,0.032,154,Unhealthy,2020,10
+2020-10-02,San Bernardino,San Bernardino,43.3,0.03,162,Unhealthy,2020,10
+2020-10-03,San Bernardino,Ontario,53.6,0.044,156,Unhealthy,2020,10
+2020-10-04,Shasta,Redding,53.3,0.047,112,Unhealthy for Sensitive Groups,2020,10
+2020-10-05,Monterey,Salinas,12.0,0.042,74,Moderate,2020,10
+2020-10-06,Los Angeles,Long Beach,13.2,0.036,110,Unhealthy for Sensitive Groups,2020,10
+2020-10-07,Los Angeles,Los Angeles,41.5,0.048,160,Unhealthy,2020,10
+2020-10-08,Napa,Napa,9.8,0.052,74,Moderate,2020,10
+2020-10-08,Riverside,Palm Springs,15.7,0.028,79,Moderate,2020,10
+2020-10-08,Sacramento,Sacramento,45.5,0.022,117,Unhealthy for Sensitive Groups,2020,10
+2020-10-10,San Bernardino,San Bernardino,54.1,0.028,153,Unhealthy,2020,10
+2020-10-10,Kern,Ridgecrest,45.7,0.043,148,Unhealthy for Sensitive Groups,2020,10
+2020-10-11,Los Angeles,Long Beach,35.1,0.024,117,Unhealthy for Sensitive Groups,2020,10
+2020-10-12,Sacramento,Elk Grove,19.6,0.04,75,Moderate,2020,10
+2020-10-12,Monterey,Salinas,37.8,0.028,95,Moderate,2020,10
+2020-10-12,Sonoma,Petaluma,47.3,0.041,109,Unhealthy for Sensitive Groups,2020,10
+2020-10-13,Riverside,Riverside,9.7,0.021,81,Moderate,2020,10
+2020-10-14,San Diego,Chula Vista,27.8,0.03,86,Moderate,2020,10
+2020-10-15,Riverside,Riverside,43.4,0.028,120,Unhealthy for Sensitive Groups,2020,10
+2020-10-16,Los Angeles,Pasadena,52.1,0.024,154,Unhealthy,2020,10
+2020-10-17,Los Angeles,Los Angeles,22.1,0.049,106,Unhealthy for Sensitive Groups,2020,10
+2020-10-17,Sacramento,Sacramento,11.3,0.034,65,Moderate,2020,10
+2020-10-20,Fresno,Clovis,44.2,0.023,164,Unhealthy,2020,10
+2020-10-22,Fresno,Clovis,47.3,0.039,161,Unhealthy,2020,10
+2020-10-25,Fresno,Clovis,11.0,0.035,107,Unhealthy for Sensitive Groups,2020,10
+2020-10-25,Los Angeles,Long Beach,44.2,0.045,164,Unhealthy,2020,10
+2020-10-26,Kern,Bakersfield,23.0,0.051,107,Unhealthy for Sensitive Groups,2020,10
+2020-10-26,Napa,Napa,48.8,0.028,103,Unhealthy for Sensitive Groups,2020,10
+2020-10-28,San Bernardino,Ontario,44.1,0.024,147,Unhealthy for Sensitive Groups,2020,10
+2020-10-28,Kern,Bakersfield,30.1,0.041,128,Unhealthy for Sensitive Groups,2020,10
+2020-10-28,Monterey,Salinas,36.3,0.025,86,Moderate,2020,10
+2020-10-29,Monterey,Salinas,46.6,0.028,135,Unhealthy for Sensitive Groups,2020,10
+2020-10-29,Los Angeles,Los Angeles,35.6,0.052,125,Unhealthy for Sensitive Groups,2020,10
+2020-10-29,Alameda,Berkeley,19.3,0.046,77,Moderate,2020,10
+2020-10-30,Los Angeles,Pasadena,52.3,0.03,151,Unhealthy,2020,10
+2020-11-01,Marin,Mill Valley,52.6,0.047,112,Unhealthy for Sensitive Groups,2020,11
+2020-11-04,Sonoma,Santa Rosa,8.3,0.034,56,Moderate,2020,11
+2020-11-04,San Diego,San Diego,8.7,0.028,69,Moderate,2020,11
+2020-11-07,Shasta,Redding,44.6,0.024,107,Unhealthy for Sensitive Groups,2020,11
+2020-11-08,Los Angeles,Long Beach,46.9,0.027,149,Unhealthy for Sensitive Groups,2020,11
+2020-11-09,Marin,San Rafael,25.6,0.026,101,Unhealthy for Sensitive Groups,2020,11
+2020-11-09,Sonoma,Santa Rosa,10.4,0.046,70,Moderate,2020,11
+2020-11-10,San Bernardino,Ontario,10.6,0.02,85,Moderate,2020,11
+2020-11-10,Marin,Mill Valley,9.4,0.036,74,Moderate,2020,11
+2020-11-10,Shasta,Redding,53.9,0.055,146,Unhealthy for Sensitive Groups,2020,11
+2020-11-10,Monterey,Salinas,28.7,0.026,75,Moderate,2020,11
+2020-11-11,Kern,Ridgecrest,15.6,0.049,127,Unhealthy for Sensitive Groups,2020,11
+2020-11-11,Marin,Mill Valley,21.6,0.051,70,Moderate,2020,11
+2020-11-11,Riverside,Riverside,38.4,0.032,95,Moderate,2020,11
+2020-11-11,Napa,Napa,22.4,0.034,73,Moderate,2020,11
+2020-11-12,Santa Clara,Santa Clara,11.5,0.047,63,Moderate,2020,11
+2020-11-12,San Bernardino,San Bernardino,38.9,0.028,129,Unhealthy for Sensitive Groups,2020,11
+2020-11-13,Monterey,Salinas,16.9,0.028,58,Moderate,2020,11
+2020-11-14,Napa,Napa,13.0,0.036,69,Moderate,2020,11
+2020-11-14,Kern,Ridgecrest,29.0,0.046,135,Unhealthy for Sensitive Groups,2020,11
+2020-11-15,Fresno,Fresno,10.8,0.042,119,Unhealthy for Sensitive Groups,2020,11
+2020-11-17,Shasta,Redding,42.2,0.045,125,Unhealthy for Sensitive Groups,2020,11
+2020-11-21,Marin,Mill Valley,43.0,0.037,110,Unhealthy for Sensitive Groups,2020,11
+2020-11-23,Riverside,Riverside,39.5,0.022,112,Unhealthy for Sensitive Groups,2020,11
+2020-11-24,Shasta,Redding,39.3,0.053,105,Unhealthy for Sensitive Groups,2020,11
+2020-11-25,Sacramento,Elk Grove,42.4,0.039,98,Moderate,2020,11
+2020-11-26,Monterey,Salinas,42.8,0.039,121,Unhealthy for Sensitive Groups,2020,11
+2020-11-28,Kern,Bakersfield,48.8,0.026,141,Unhealthy for Sensitive Groups,2020,11
+2020-11-29,Marin,Mill Valley,25.4,0.027,85,Moderate,2020,11
+2020-11-29,Monterey,Monterey,29.2,0.048,75,Moderate,2020,11
+2020-12-02,San Bernardino,San Bernardino,23.4,0.038,107,Unhealthy for Sensitive Groups,2020,12
+2020-12-03,Napa,Napa,52.6,0.052,133,Unhealthy for Sensitive Groups,2020,12
+2020-12-03,San Francisco,San Francisco,21.0,0.044,92,Moderate,2020,12
+2020-12-03,Marin,Mill Valley,10.6,0.033,72,Moderate,2020,12
+2020-12-04,Marin,San Rafael,28.6,0.038,107,Unhealthy for Sensitive Groups,2020,12
+2020-12-05,Shasta,Redding,47.0,0.029,119,Unhealthy for Sensitive Groups,2020,12
+2020-12-06,Riverside,Palm Springs,49.6,0.037,128,Unhealthy for Sensitive Groups,2020,12
+2020-12-07,Monterey,Monterey,16.8,0.051,64,Moderate,2020,12
+2020-12-09,Napa,Napa,36.5,0.054,91,Moderate,2020,12
+2020-12-09,Alameda,Berkeley,37.9,0.054,126,Unhealthy for Sensitive Groups,2020,12
+2020-12-10,Sacramento,Elk Grove,40.7,0.039,119,Unhealthy for Sensitive Groups,2020,12
+2020-12-10,Marin,Mill Valley,50.1,0.053,135,Unhealthy for Sensitive Groups,2020,12
+2020-12-12,Sonoma,Petaluma,14.6,0.039,62,Moderate,2020,12
+2020-12-15,Marin,San Rafael,47.4,0.041,112,Unhealthy for Sensitive Groups,2020,12
+2020-12-15,Sonoma,Petaluma,16.3,0.027,62,Moderate,2020,12
+2020-12-15,San Francisco,San Francisco,22.9,0.046,75,Moderate,2020,12
+2020-12-15,Shasta,Redding,39.9,0.05,127,Unhealthy for Sensitive Groups,2020,12
+2020-12-16,San Bernardino,San Bernardino,18.5,0.039,110,Unhealthy for Sensitive Groups,2020,12
+2020-12-16,Riverside,Riverside,44.9,0.032,115,Unhealthy for Sensitive Groups,2020,12
+2020-12-20,Napa,Napa,30.9,0.051,112,Unhealthy for Sensitive Groups,2020,12
+2020-12-24,San Diego,Chula Vista,13.3,0.047,61,Moderate,2020,12
+2020-12-24,Shasta,Redding,11.5,0.049,79,Moderate,2020,12
+2020-12-25,San Bernardino,Ontario,31.1,0.023,125,Unhealthy for Sensitive Groups,2020,12
+2020-12-26,Shasta,Redding,19.1,0.031,80,Moderate,2020,12
+2020-12-27,Riverside,Riverside,27.8,0.025,111,Unhealthy for Sensitive Groups,2020,12
+2020-12-31,Los Angeles,Los Angeles,49.1,0.027,169,Unhealthy,2020,12
+2020-12-31,Fresno,Fresno,39.0,0.042,125,Unhealthy for Sensitive Groups,2020,12
+2021-01-02,Shasta,Redding,51.7,0.031,120,Unhealthy for Sensitive Groups,2021,1
+2021-01-02,Alameda,Berkeley,52.4,0.024,140,Unhealthy for Sensitive Groups,2021,1
+2021-01-04,Alameda,Fremont,44.6,0.037,136,Unhealthy for Sensitive Groups,2021,1
+2021-01-04,San Francisco,San Francisco,42.4,0.052,118,Unhealthy for Sensitive Groups,2021,1
+2021-01-06,Alameda,Oakland,48.9,0.04,128,Unhealthy for Sensitive Groups,2021,1
+2021-01-07,San Diego,Chula Vista,31.6,0.024,113,Unhealthy for Sensitive Groups,2021,1
+2021-01-08,Sonoma,Petaluma,53.7,0.049,119,Unhealthy for Sensitive Groups,2021,1
+2021-01-09,Alameda,Berkeley,13.4,0.034,79,Moderate,2021,1
+2021-01-11,Sacramento,Sacramento,18.4,0.049,69,Moderate,2021,1
+2021-01-11,San Diego,Chula Vista,46.7,0.054,138,Unhealthy for Sensitive Groups,2021,1
+2021-01-13,Monterey,Monterey,54.1,0.037,126,Unhealthy for Sensitive Groups,2021,1
+2021-01-13,San Diego,San Diego,39.5,0.021,98,Moderate,2021,1
+2021-01-15,Alameda,Oakland,28.0,0.02,103,Unhealthy for Sensitive Groups,2021,1
+2021-01-15,Marin,San Rafael,17.4,0.046,68,Moderate,2021,1
+2021-01-17,Sacramento,Sacramento,53.2,0.046,116,Unhealthy for Sensitive Groups,2021,1
+2021-01-17,San Diego,San Diego,15.4,0.041,60,Moderate,2021,1
+2021-01-17,Monterey,Salinas,19.3,0.051,77,Moderate,2021,1
+2021-01-18,Kern,Ridgecrest,39.2,0.023,146,Unhealthy for Sensitive Groups,2021,1
+2021-01-18,Alameda,Oakland,20.9,0.036,70,Moderate,2021,1
+2021-01-19,Marin,Mill Valley,30.9,0.032,113,Unhealthy for Sensitive Groups,2021,1
+2021-01-21,Sonoma,Santa Rosa,54.6,0.041,151,Unhealthy,2021,1
+2021-01-21,Marin,San Rafael,34.8,0.053,93,Moderate,2021,1
+2021-01-22,San Diego,Chula Vista,26.9,0.041,103,Unhealthy for Sensitive Groups,2021,1
+2021-01-23,Santa Clara,Sunnyvale,53.5,0.053,139,Unhealthy for Sensitive Groups,2021,1
+2021-01-23,Sonoma,Petaluma,43.9,0.037,127,Unhealthy for Sensitive Groups,2021,1
+2021-01-23,San Diego,San Diego,8.2,0.05,65,Moderate,2021,1
+2021-01-24,Alameda,Oakland,27.2,0.039,104,Unhealthy for Sensitive Groups,2021,1
+2021-01-24,Los Angeles,Pasadena,42.8,0.034,163,Unhealthy,2021,1
+2021-01-25,Sonoma,Santa Rosa,8.9,0.031,52,Moderate,2021,1
+2021-01-26,Sacramento,Sacramento,42.0,0.048,127,Unhealthy for Sensitive Groups,2021,1
+2021-01-27,San Bernardino,San Bernardino,27.8,0.053,117,Unhealthy for Sensitive Groups,2021,1
+2021-01-27,Napa,Napa,33.0,0.044,99,Moderate,2021,1
+2021-01-28,Kern,Ridgecrest,53.0,0.03,163,Unhealthy,2021,1
+2021-01-28,Riverside,Riverside,50.1,0.029,129,Unhealthy for Sensitive Groups,2021,1
+2021-01-29,Alameda,Oakland,21.5,0.039,90,Moderate,2021,1
+2021-01-29,San Diego,Chula Vista,37.0,0.034,88,Moderate,2021,1
+2021-01-30,Kern,Bakersfield,41.1,0.052,130,Unhealthy for Sensitive Groups,2021,1
+2021-02-02,Fresno,Clovis,37.7,0.052,144,Unhealthy for Sensitive Groups,2021,2
+2021-02-03,Riverside,Riverside,46.3,0.054,131,Unhealthy for Sensitive Groups,2021,2
+2021-02-04,Kern,Ridgecrest,17.7,0.051,110,Unhealthy for Sensitive Groups,2021,2
+2021-02-05,San Diego,San Diego,54.3,0.042,118,Unhealthy for Sensitive Groups,2021,2
+2021-02-08,Sacramento,Elk Grove,16.2,0.025,58,Moderate,2021,2
+2021-02-09,Fresno,Fresno,40.3,0.051,142,Unhealthy for Sensitive Groups,2021,2
+2021-02-10,Monterey,Salinas,30.3,0.047,81,Moderate,2021,2
+2021-02-11,Los Angeles,Pasadena,41.7,0.045,153,Unhealthy,2021,2
+2021-02-11,Riverside,Palm Springs,55.0,0.05,118,Unhealthy for Sensitive Groups,2021,2
+2021-02-11,Alameda,Oakland,36.3,0.034,86,Moderate,2021,2
+2021-02-11,Los Angeles,Los Angeles,17.3,0.026,106,Unhealthy for Sensitive Groups,2021,2
+2021-02-12,Fresno,Clovis,12.6,0.027,123,Unhealthy for Sensitive Groups,2021,2
+2021-02-12,Sacramento,Sacramento,15.3,0.037,78,Moderate,2021,2
+2021-02-12,Napa,Napa,26.9,0.022,91,Moderate,2021,2
+2021-02-13,Sonoma,Petaluma,13.8,0.05,78,Moderate,2021,2
+2021-02-13,Alameda,Oakland,12.3,0.035,48,Good,2021,2
+2021-02-14,Santa Clara,Santa Clara,32.3,0.046,82,Moderate,2021,2
+2021-02-16,Los Angeles,Long Beach,10.1,0.027,82,Moderate,2021,2
+2021-02-17,Monterey,Monterey,15.5,0.025,69,Moderate,2021,2
+2021-02-21,Riverside,Palm Springs,24.0,0.025,86,Moderate,2021,2
+2021-02-21,Santa Clara,Santa Clara,27.3,0.047,100,Moderate,2021,2
+2021-02-21,Sonoma,Petaluma,43.4,0.021,123,Unhealthy for Sensitive Groups,2021,2
+2021-02-21,Sonoma,Santa Rosa,33.7,0.046,115,Unhealthy for Sensitive Groups,2021,2
+2021-02-24,Monterey,Monterey,42.1,0.036,126,Unhealthy for Sensitive Groups,2021,2
+2021-02-24,Napa,Napa,26.8,0.049,70,Moderate,2021,2
+2021-02-27,Kern,Bakersfield,33.5,0.039,132,Unhealthy for Sensitive Groups,2021,2
+2021-02-28,Sacramento,Elk Grove,31.8,0.036,81,Moderate,2021,2
+2021-03-04,Kern,Ridgecrest,42.2,0.047,167,Unhealthy,2021,3
+2021-03-05,Riverside,Palm Springs,24.3,0.023,85,Moderate,2021,3
+2021-03-05,Shasta,Redding,18.3,0.046,57,Moderate,2021,3
+2021-03-06,Shasta,Redding,40.1,0.043,112,Unhealthy for Sensitive Groups,2021,3
+2021-03-07,Sonoma,Santa Rosa,15.8,0.024,57,Moderate,2021,3
+2021-03-07,Fresno,Clovis,36.7,0.054,140,Unhealthy for Sensitive Groups,2021,3
+2021-03-09,Shasta,Redding,52.0,0.054,115,Unhealthy for Sensitive Groups,2021,3
+2021-03-09,Sonoma,Petaluma,27.4,0.043,103,Unhealthy for Sensitive Groups,2021,3
+2021-03-09,Santa Clara,San Jose,45.9,0.043,127,Unhealthy for Sensitive Groups,2021,3
+2021-03-09,Marin,Mill Valley,18.5,0.036,81,Moderate,2021,3
+2021-03-11,Shasta,Redding,38.8,0.034,117,Unhealthy for Sensitive Groups,2021,3
+2021-03-11,Kern,Ridgecrest,41.0,0.037,143,Unhealthy for Sensitive Groups,2021,3
+2021-03-13,Sonoma,Petaluma,29.9,0.048,88,Moderate,2021,3
+2021-03-14,Monterey,Salinas,33.3,0.045,115,Unhealthy for Sensitive Groups,2021,3
+2021-03-15,Fresno,Fresno,48.2,0.021,154,Unhealthy,2021,3
+2021-03-16,Marin,San Rafael,47.3,0.031,105,Unhealthy for Sensitive Groups,2021,3
+2021-03-17,Shasta,Redding,29.5,0.047,95,Moderate,2021,3
+2021-03-17,Marin,San Rafael,42.2,0.036,119,Unhealthy for Sensitive Groups,2021,3
+2021-03-20,Sonoma,Petaluma,28.8,0.053,96,Moderate,2021,3
+2021-03-21,Kern,Ridgecrest,51.4,0.053,174,Unhealthy,2021,3
+2021-03-22,Napa,Napa,53.5,0.049,141,Unhealthy for Sensitive Groups,2021,3
+2021-03-22,Shasta,Redding,14.8,0.026,69,Moderate,2021,3
+2021-03-24,Napa,Napa,16.3,0.054,87,Moderate,2021,3
+2021-03-24,Kern,Ridgecrest,37.9,0.042,129,Unhealthy for Sensitive Groups,2021,3
+2021-03-25,Marin,Mill Valley,42.3,0.03,109,Unhealthy for Sensitive Groups,2021,3
+2021-03-26,Sacramento,Elk Grove,49.7,0.041,144,Unhealthy for Sensitive Groups,2021,3
+2021-03-26,San Diego,Chula Vista,11.1,0.049,85,Moderate,2021,3
+2021-03-27,Marin,Mill Valley,20.4,0.035,75,Moderate,2021,3
+2021-03-28,Alameda,Fremont,18.3,0.025,66,Moderate,2021,3
+2021-03-30,Fresno,Clovis,43.3,0.024,162,Unhealthy,2021,3
+2021-03-30,Riverside,Riverside,28.3,0.048,81,Moderate,2021,3
+2021-03-31,Marin,Mill Valley,17.4,0.052,78,Moderate,2021,3
+2021-03-31,San Francisco,Daly City,25.8,0.024,75,Moderate,2021,3
+2021-04-01,Fresno,Fresno,9.1,0.027,99,Moderate,2021,4
+2021-04-01,Santa Clara,San Jose,26.2,0.036,74,Moderate,2021,4
+2021-04-02,Sacramento,Elk Grove,39.3,0.049,112,Unhealthy for Sensitive Groups,2021,4
+2021-04-03,Riverside,Riverside,14.8,0.051,68,Moderate,2021,4
+2021-04-04,Los Angeles,Los Angeles,42.2,0.025,129,Unhealthy for Sensitive Groups,2021,4
+2021-04-04,Sacramento,Sacramento,9.1,0.035,52,Moderate,2021,4
+2021-04-05,San Francisco,San Francisco,11.0,0.021,81,Moderate,2021,4
+2021-04-05,Santa Clara,San Jose,54.6,0.052,140,Unhealthy for Sensitive Groups,2021,4
+2021-04-07,Monterey,Salinas,34.0,0.03,108,Unhealthy for Sensitive Groups,2021,4
+2021-04-08,Monterey,Monterey,40.6,0.032,98,Moderate,2021,4
+2021-04-09,Sacramento,Elk Grove,30.8,0.054,79,Moderate,2021,4
+2021-04-12,Monterey,Monterey,42.8,0.02,94,Moderate,2021,4
+2021-04-15,Shasta,Redding,17.9,0.05,92,Moderate,2021,4
+2021-04-17,Kern,Bakersfield,40.3,0.033,155,Unhealthy,2021,4
+2021-04-17,Riverside,Palm Springs,37.5,0.025,92,Moderate,2021,4
+2021-04-19,San Diego,Chula Vista,11.0,0.033,48,Good,2021,4
+2021-04-19,Shasta,Redding,41.6,0.038,119,Unhealthy for Sensitive Groups,2021,4
+2021-04-20,Alameda,Berkeley,31.9,0.041,98,Moderate,2021,4
+2021-04-21,Sacramento,Elk Grove,22.9,0.04,86,Moderate,2021,4
+2021-04-21,Sonoma,Santa Rosa,9.0,0.047,50,Good,2021,4
+2021-04-23,Monterey,Salinas,36.5,0.034,123,Unhealthy for Sensitive Groups,2021,4
+2021-04-25,Sonoma,Santa Rosa,42.6,0.051,106,Unhealthy for Sensitive Groups,2021,4
+2021-04-25,Riverside,Palm Springs,17.8,0.022,57,Moderate,2021,4
+2021-04-26,Marin,San Rafael,28.3,0.041,112,Unhealthy for Sensitive Groups,2021,4
+2021-04-28,Sacramento,Sacramento,44.6,0.033,120,Unhealthy for Sensitive Groups,2021,4
+2021-04-28,Kern,Bakersfield,31.8,0.035,141,Unhealthy for Sensitive Groups,2021,4
+2021-04-30,Kern,Ridgecrest,22.2,0.025,131,Unhealthy for Sensitive Groups,2021,4
+2021-04-30,San Bernardino,Ontario,20.7,0.054,117,Unhealthy for Sensitive Groups,2021,4
+2021-05-02,San Diego,San Diego,51.4,0.041,135,Unhealthy for Sensitive Groups,2021,5
+2021-05-02,Kern,Ridgecrest,38.6,0.027,146,Unhealthy for Sensitive Groups,2021,5
+2021-05-05,Shasta,Redding,10.7,0.051,51,Moderate,2021,5
+2021-05-05,Sonoma,Santa Rosa,49.6,0.026,144,Unhealthy for Sensitive Groups,2021,5
+2021-05-06,Fresno,Clovis,25.4,0.033,113,Unhealthy for Sensitive Groups,2021,5
+2021-05-07,Riverside,Palm Springs,11.9,0.046,73,Moderate,2021,5
+2021-05-07,Monterey,Monterey,20.7,0.054,97,Moderate,2021,5
+2021-05-08,San Bernardino,Ontario,18.1,0.032,95,Moderate,2021,5
+2021-05-10,San Francisco,Daly City,29.9,0.029,89,Moderate,2021,5
+2021-05-11,Sonoma,Petaluma,40.7,0.045,116,Unhealthy for Sensitive Groups,2021,5
+2021-05-11,San Diego,San Diego,11.4,0.047,67,Moderate,2021,5
+2021-05-12,Kern,Ridgecrest,44.9,0.048,144,Unhealthy for Sensitive Groups,2021,5
+2021-05-12,Sacramento,Elk Grove,20.0,0.032,65,Moderate,2021,5
+2021-05-13,Santa Clara,Santa Clara,22.4,0.04,93,Moderate,2021,5
+2021-05-13,Napa,Napa,54.5,0.048,124,Unhealthy for Sensitive Groups,2021,5
+2021-05-13,Marin,San Rafael,28.5,0.034,77,Moderate,2021,5
+2021-05-13,Monterey,Monterey,17.9,0.046,61,Moderate,2021,5
+2021-05-14,Riverside,Palm Springs,14.9,0.044,58,Moderate,2021,5
+2021-05-16,Los Angeles,Los Angeles,54.2,0.041,150,Unhealthy for Sensitive Groups,2021,5
+2021-05-16,Monterey,Monterey,42.8,0.034,108,Unhealthy for Sensitive Groups,2021,5
+2021-05-17,Fresno,Fresno,47.0,0.049,172,Unhealthy,2021,5
+2021-05-19,San Bernardino,San Bernardino,43.9,0.043,138,Unhealthy for Sensitive Groups,2021,5
+2021-05-21,Fresno,Fresno,42.7,0.036,137,Unhealthy for Sensitive Groups,2021,5
+2021-05-21,Napa,Napa,42.7,0.021,123,Unhealthy for Sensitive Groups,2021,5
+2021-05-22,Alameda,Oakland,21.0,0.023,96,Moderate,2021,5
+2021-05-22,Sacramento,Sacramento,38.9,0.029,91,Moderate,2021,5
+2021-05-23,San Diego,Chula Vista,27.6,0.045,88,Moderate,2021,5
+2021-05-23,San Diego,Chula Vista,25.4,0.044,97,Moderate,2021,5
+2021-05-26,Santa Clara,Sunnyvale,15.7,0.046,77,Moderate,2021,5
+2021-05-26,Alameda,Fremont,47.1,0.05,107,Unhealthy for Sensitive Groups,2021,5
+2021-05-27,San Francisco,Daly City,11.9,0.043,57,Moderate,2021,5
+2021-05-28,Sonoma,Santa Rosa,50.2,0.037,133,Unhealthy for Sensitive Groups,2021,5
+2021-05-30,Sonoma,Petaluma,17.1,0.021,60,Moderate,2021,5
+2021-06-01,Sacramento,Sacramento,33.2,0.064,83,Moderate,2021,6
+2021-06-02,San Bernardino,San Bernardino,19.4,0.055,117,Unhealthy for Sensitive Groups,2021,6
+2021-06-02,Sonoma,Santa Rosa,21.6,0.055,85,Moderate,2021,6
+2021-06-04,Riverside,Palm Springs,30.9,0.043,110,Unhealthy for Sensitive Groups,2021,6
+2021-06-04,Riverside,Riverside,12.4,0.069,58,Moderate,2021,6
+2021-06-05,San Diego,Chula Vista,28.7,0.055,105,Unhealthy for Sensitive Groups,2021,6
+2021-06-06,Alameda,Fremont,16.2,0.048,84,Moderate,2021,6
+2021-06-06,San Francisco,Daly City,10.3,0.088,70,Moderate,2021,6
+2021-06-06,Napa,Napa,28.1,0.078,94,Moderate,2021,6
+2021-06-07,Santa Clara,Santa Clara,28.1,0.071,110,Unhealthy for Sensitive Groups,2021,6
+2021-06-07,Shasta,Redding,10.1,0.054,84,Moderate,2021,6
+2021-06-07,Los Angeles,Long Beach,14.0,0.087,101,Unhealthy for Sensitive Groups,2021,6
+2021-06-08,Sonoma,Santa Rosa,24.3,0.063,84,Moderate,2021,6
+2021-06-10,Sacramento,Sacramento,16.4,0.055,72,Moderate,2021,6
+2021-06-12,Sacramento,Elk Grove,34.6,0.089,109,Unhealthy for Sensitive Groups,2021,6
+2021-06-13,San Francisco,San Francisco,17.2,0.063,80,Moderate,2021,6
+2021-06-16,Sacramento,Sacramento,16.4,0.051,74,Moderate,2021,6
+2021-06-16,Los Angeles,Long Beach,9.9,0.063,86,Moderate,2021,6
+2021-06-17,Kern,Bakersfield,10.1,0.065,101,Unhealthy for Sensitive Groups,2021,6
+2021-06-18,San Bernardino,Ontario,11.1,0.076,96,Moderate,2021,6
+2021-06-19,Fresno,Fresno,24.6,0.075,104,Unhealthy for Sensitive Groups,2021,6
+2021-06-20,Sacramento,Elk Grove,31.8,0.045,108,Unhealthy for Sensitive Groups,2021,6
+2021-06-22,San Francisco,Daly City,20.6,0.04,88,Moderate,2021,6
+2021-06-24,San Diego,San Diego,28.0,0.076,94,Moderate,2021,6
+2021-06-25,Shasta,Redding,8.5,0.045,77,Moderate,2021,6
+2021-06-25,Los Angeles,Pasadena,27.7,0.046,116,Unhealthy for Sensitive Groups,2021,6
+2021-06-26,Fresno,Clovis,30.6,0.045,129,Unhealthy for Sensitive Groups,2021,6
+2021-06-27,Los Angeles,Los Angeles,6.6,0.077,107,Unhealthy for Sensitive Groups,2021,6
+2021-06-27,Monterey,Salinas,29.3,0.076,77,Moderate,2021,6
+2021-06-28,Los Angeles,Los Angeles,27.6,0.04,143,Unhealthy for Sensitive Groups,2021,6
+2021-06-30,Alameda,Fremont,29.0,0.076,78,Moderate,2021,6
+2021-06-30,Alameda,Berkeley,29.1,0.053,110,Unhealthy for Sensitive Groups,2021,6
+2021-06-30,Kern,Ridgecrest,5.6,0.063,74,Moderate,2021,6
+2021-07-01,Alameda,Fremont,29.6,0.054,93,Moderate,2021,7
+2021-07-01,Fresno,Clovis,28.8,0.044,133,Unhealthy for Sensitive Groups,2021,7
+2021-07-05,Fresno,Fresno,15.9,0.087,114,Unhealthy for Sensitive Groups,2021,7
+2021-07-06,Napa,Napa,33.5,0.051,92,Moderate,2021,7
+2021-07-06,Monterey,Salinas,11.1,0.046,82,Moderate,2021,7
+2021-07-06,Napa,Napa,26.0,0.086,106,Unhealthy for Sensitive Groups,2021,7
+2021-07-08,Sonoma,Petaluma,14.2,0.052,63,Moderate,2021,7
+2021-07-10,Alameda,Berkeley,12.0,0.087,56,Moderate,2021,7
+2021-07-12,San Francisco,San Francisco,18.5,0.066,84,Moderate,2021,7
+2021-07-12,Marin,Mill Valley,10.8,0.046,56,Moderate,2021,7
+2021-07-12,Monterey,Monterey,9.5,0.054,44,Good,2021,7
+2021-07-13,Los Angeles,Los Angeles,26.1,0.055,125,Unhealthy for Sensitive Groups,2021,7
+2021-07-13,Marin,Mill Valley,8.7,0.058,68,Moderate,2021,7
+2021-07-13,Los Angeles,Pasadena,28.5,0.063,121,Unhealthy for Sensitive Groups,2021,7
+2021-07-16,Riverside,Riverside,18.2,0.076,72,Moderate,2021,7
+2021-07-16,Kern,Ridgecrest,24.2,0.08,104,Unhealthy for Sensitive Groups,2021,7
+2021-07-16,Fresno,Fresno,11.7,0.054,111,Unhealthy for Sensitive Groups,2021,7
+2021-07-17,Monterey,Monterey,7.5,0.047,42,Good,2021,7
+2021-07-18,Alameda,Oakland,10.7,0.084,53,Moderate,2021,7
+2021-07-19,Sacramento,Sacramento,28.4,0.058,97,Moderate,2021,7
+2021-07-20,Monterey,Salinas,28.1,0.075,92,Moderate,2021,7
+2021-07-23,Alameda,Berkeley,27.6,0.082,87,Moderate,2021,7
+2021-07-23,San Diego,Chula Vista,6.5,0.051,63,Moderate,2021,7
+2021-07-25,Marin,San Rafael,31.4,0.052,106,Unhealthy for Sensitive Groups,2021,7
+2021-07-25,Marin,Mill Valley,5.4,0.061,53,Moderate,2021,7
+2021-07-26,Alameda,Berkeley,18.5,0.069,93,Moderate,2021,7
+2021-07-27,Sacramento,Sacramento,22.3,0.058,67,Moderate,2021,7
+2021-07-28,San Francisco,San Francisco,30.2,0.057,99,Moderate,2021,7
+2021-07-29,Sacramento,Sacramento,28.0,0.083,87,Moderate,2021,7
+2021-07-31,Sacramento,Elk Grove,23.1,0.076,77,Moderate,2021,7
+2021-07-31,Sacramento,Sacramento,13.1,0.076,49,Good,2021,7
+2021-07-31,Los Angeles,Long Beach,29.7,0.079,134,Unhealthy for Sensitive Groups,2021,7
+2021-07-31,Los Angeles,Los Angeles,9.9,0.045,92,Moderate,2021,7
+2021-08-01,Kern,Bakersfield,25.7,0.044,133,Unhealthy for Sensitive Groups,2021,8
+2021-08-03,Shasta,Redding,22.9,0.067,80,Moderate,2021,8
+2021-08-04,Monterey,Monterey,20.5,0.072,81,Moderate,2021,8
+2021-08-04,Alameda,Fremont,30.4,0.053,115,Unhealthy for Sensitive Groups,2021,8
+2021-08-04,Shasta,Redding,11.2,0.055,79,Moderate,2021,8
+2021-08-05,Sacramento,Elk Grove,18.7,0.048,68,Moderate,2021,8
+2021-08-05,Los Angeles,Long Beach,8.9,0.088,80,Moderate,2021,8
+2021-08-06,San Bernardino,Ontario,24.5,0.067,118,Unhealthy for Sensitive Groups,2021,8
+2021-08-06,San Francisco,San Francisco,6.2,0.06,60,Moderate,2021,8
+2021-08-07,San Diego,Chula Vista,22.3,0.088,75,Moderate,2021,8
+2021-08-09,Fresno,Fresno,25.5,0.047,106,Unhealthy for Sensitive Groups,2021,8
+2021-08-10,Alameda,Fremont,11.8,0.084,71,Moderate,2021,8
+2021-08-12,Shasta,Redding,25.3,0.048,95,Moderate,2021,8
+2021-08-12,Marin,San Rafael,23.0,0.058,100,Moderate,2021,8
+2021-08-12,San Diego,Chula Vista,27.4,0.059,98,Moderate,2021,8
+2021-08-14,Napa,Napa,9.9,0.076,71,Moderate,2021,8
+2021-08-15,Sonoma,Petaluma,8.5,0.041,62,Moderate,2021,8
+2021-08-15,Sonoma,Petaluma,22.2,0.088,95,Moderate,2021,8
+2021-08-16,Alameda,Fremont,6.2,0.048,62,Moderate,2021,8
+2021-08-17,Marin,San Rafael,9.8,0.074,49,Good,2021,8
+2021-08-18,Riverside,Riverside,25.2,0.053,79,Moderate,2021,8
+2021-08-18,San Bernardino,San Bernardino,19.0,0.044,123,Unhealthy for Sensitive Groups,2021,8
+2021-08-19,Sonoma,Petaluma,6.0,0.054,57,Moderate,2021,8
+2021-08-19,San Diego,San Diego,17.9,0.071,71,Moderate,2021,8
+2021-08-20,Los Angeles,Long Beach,20.9,0.087,128,Unhealthy for Sensitive Groups,2021,8
+2021-08-21,Los Angeles,Pasadena,25.9,0.046,134,Unhealthy for Sensitive Groups,2021,8
+2021-08-23,Napa,Napa,15.8,0.062,68,Moderate,2021,8
+2021-08-23,Sacramento,Sacramento,7.6,0.046,45,Good,2021,8
+2021-08-24,Marin,San Rafael,7.9,0.046,57,Moderate,2021,8
+2021-08-26,Santa Clara,Santa Clara,14.7,0.043,52,Moderate,2021,8
+2021-08-27,Sonoma,Petaluma,9.6,0.056,68,Moderate,2021,8
+2021-08-28,Sacramento,Sacramento,30.3,0.045,109,Unhealthy for Sensitive Groups,2021,8
+2021-08-28,San Bernardino,Ontario,22.1,0.068,100,Moderate,2021,8
+2021-09-01,Fresno,Clovis,12.1,0.042,119,Unhealthy for Sensitive Groups,2021,9
+2021-09-02,Fresno,Fresno,25.3,0.086,125,Unhealthy for Sensitive Groups,2021,9
+2021-09-02,Alameda,Fremont,31.0,0.085,102,Unhealthy for Sensitive Groups,2021,9
+2021-09-03,San Bernardino,Ontario,25.5,0.064,124,Unhealthy for Sensitive Groups,2021,9
+2021-09-04,Alameda,Fremont,24.2,0.061,82,Moderate,2021,9
+2021-09-05,Alameda,Fremont,17.6,0.048,85,Moderate,2021,9
+2021-09-06,Santa Clara,San Jose,16.3,0.078,84,Moderate,2021,9
+2021-09-07,San Diego,Chula Vista,13.3,0.068,86,Moderate,2021,9
+2021-09-07,San Diego,San Diego,30.7,0.047,105,Unhealthy for Sensitive Groups,2021,9
+2021-09-08,San Diego,San Diego,17.6,0.045,89,Moderate,2021,9
+2021-09-09,Los Angeles,Los Angeles,33.4,0.078,131,Unhealthy for Sensitive Groups,2021,9
+2021-09-09,San Bernardino,Ontario,26.8,0.089,117,Unhealthy for Sensitive Groups,2021,9
+2021-09-12,Sonoma,Petaluma,23.6,0.089,88,Moderate,2021,9
+2021-09-13,Fresno,Clovis,13.8,0.041,94,Moderate,2021,9
+2021-09-13,Riverside,Palm Springs,30.6,0.055,92,Moderate,2021,9
+2021-09-14,San Bernardino,San Bernardino,9.9,0.056,93,Moderate,2021,9
+2021-09-15,San Francisco,San Francisco,7.3,0.056,79,Moderate,2021,9
+2021-09-16,Sonoma,Santa Rosa,18.5,0.041,70,Moderate,2021,9
+2021-09-17,Fresno,Clovis,22.1,0.043,104,Unhealthy for Sensitive Groups,2021,9
+2021-09-17,Sonoma,Santa Rosa,24.1,0.044,85,Moderate,2021,9
+2021-09-22,Santa Clara,Santa Clara,28.9,0.076,113,Unhealthy for Sensitive Groups,2021,9
+2021-09-22,Monterey,Monterey,5.7,0.071,52,Moderate,2021,9
+2021-09-22,Santa Clara,Sunnyvale,24.2,0.069,92,Moderate,2021,9
+2021-09-23,Sacramento,Sacramento,15.9,0.087,55,Moderate,2021,9
+2021-09-23,San Bernardino,Ontario,12.8,0.066,115,Unhealthy for Sensitive Groups,2021,9
+2021-09-24,Kern,Ridgecrest,20.1,0.074,112,Unhealthy for Sensitive Groups,2021,9
+2021-09-25,Santa Clara,Sunnyvale,26.9,0.088,88,Moderate,2021,9
+2021-09-26,Sacramento,Sacramento,18.0,0.075,87,Moderate,2021,9
+2021-09-28,Alameda,Berkeley,13.4,0.065,56,Moderate,2021,9
+2021-09-28,San Francisco,San Francisco,33.0,0.074,117,Unhealthy for Sensitive Groups,2021,9
+2021-09-28,Kern,Bakersfield,6.9,0.067,99,Moderate,2021,9
+2021-09-29,Napa,Napa,8.2,0.041,61,Moderate,2021,9
+2021-10-02,Santa Clara,Santa Clara,53.4,0.022,126,Unhealthy for Sensitive Groups,2021,10
+2021-10-04,Monterey,Salinas,35.1,0.024,97,Moderate,2021,10
+2021-10-07,Alameda,Fremont,31.1,0.054,112,Unhealthy for Sensitive Groups,2021,10
+2021-10-07,Riverside,Palm Springs,33.9,0.055,103,Unhealthy for Sensitive Groups,2021,10
+2021-10-08,San Bernardino,San Bernardino,30.8,0.041,116,Unhealthy for Sensitive Groups,2021,10
+2021-10-10,Marin,Mill Valley,37.5,0.051,117,Unhealthy for Sensitive Groups,2021,10
+2021-10-11,San Francisco,San Francisco,38.2,0.036,120,Unhealthy for Sensitive Groups,2021,10
+2021-10-12,Monterey,Monterey,11.2,0.039,53,Moderate,2021,10
+2021-10-13,Fresno,Fresno,29.8,0.034,139,Unhealthy for Sensitive Groups,2021,10
+2021-10-14,Fresno,Fresno,20.3,0.024,116,Unhealthy for Sensitive Groups,2021,10
+2021-10-15,San Bernardino,San Bernardino,33.4,0.025,147,Unhealthy for Sensitive Groups,2021,10
+2021-10-16,Fresno,Clovis,50.0,0.023,149,Unhealthy for Sensitive Groups,2021,10
+2021-10-16,Santa Clara,Santa Clara,40.0,0.045,121,Unhealthy for Sensitive Groups,2021,10
+2021-10-17,Santa Clara,San Jose,14.7,0.051,68,Moderate,2021,10
+2021-10-18,Sacramento,Elk Grove,36.4,0.044,114,Unhealthy for Sensitive Groups,2021,10
+2021-10-18,Fresno,Fresno,32.2,0.053,123,Unhealthy for Sensitive Groups,2021,10
+2021-10-18,Napa,Napa,24.6,0.029,93,Moderate,2021,10
+2021-10-18,Napa,Napa,10.9,0.041,54,Moderate,2021,10
+2021-10-20,Riverside,Riverside,36.4,0.038,87,Moderate,2021,10
+2021-10-21,San Francisco,San Francisco,36.6,0.022,101,Unhealthy for Sensitive Groups,2021,10
+2021-10-21,Santa Clara,Santa Clara,13.2,0.038,53,Moderate,2021,10
+2021-10-22,Los Angeles,Los Angeles,36.1,0.047,159,Unhealthy,2021,10
+2021-10-22,Marin,Mill Valley,34.4,0.027,94,Moderate,2021,10
+2021-10-23,Monterey,Salinas,15.5,0.045,88,Moderate,2021,10
+2021-10-23,San Francisco,Daly City,25.3,0.033,71,Moderate,2021,10
+2021-10-23,Sacramento,Sacramento,54.8,0.026,136,Unhealthy for Sensitive Groups,2021,10
+2021-10-23,Sacramento,Sacramento,48.5,0.045,116,Unhealthy for Sensitive Groups,2021,10
+2021-10-24,San Bernardino,Ontario,42.4,0.03,166,Unhealthy,2021,10
+2021-10-25,Sonoma,Santa Rosa,39.2,0.049,108,Unhealthy for Sensitive Groups,2021,10
+2021-10-26,Monterey,Salinas,8.7,0.048,80,Moderate,2021,10
+2021-10-27,Monterey,Salinas,52.5,0.055,144,Unhealthy for Sensitive Groups,2021,10
+2021-10-28,Kern,Bakersfield,25.0,0.05,113,Unhealthy for Sensitive Groups,2021,10
+2021-10-28,San Francisco,Daly City,34.1,0.049,92,Moderate,2021,10
+2021-10-28,Los Angeles,Pasadena,16.5,0.045,108,Unhealthy for Sensitive Groups,2021,10
+2021-10-29,Riverside,Riverside,25.7,0.049,93,Moderate,2021,10
+2021-10-29,San Diego,San Diego,18.7,0.028,84,Moderate,2021,10
+2021-10-29,Napa,Napa,35.6,0.04,85,Moderate,2021,10
+2021-11-01,Riverside,Palm Springs,35.4,0.05,88,Moderate,2021,11
+2021-11-01,Napa,Napa,31.2,0.043,81,Moderate,2021,11
+2021-11-05,San Francisco,Daly City,32.8,0.038,92,Moderate,2021,11
+2021-11-05,Napa,Napa,47.1,0.046,115,Unhealthy for Sensitive Groups,2021,11
+2021-11-08,Sonoma,Petaluma,24.8,0.043,82,Moderate,2021,11
+2021-11-09,Sonoma,Santa Rosa,27.1,0.046,76,Moderate,2021,11
+2021-11-11,Monterey,Monterey,16.2,0.047,74,Moderate,2021,11
+2021-11-13,Alameda,Berkeley,23.1,0.024,74,Moderate,2021,11
+2021-11-13,Sonoma,Santa Rosa,11.8,0.043,69,Moderate,2021,11
+2021-11-13,Marin,San Rafael,29.9,0.022,107,Unhealthy for Sensitive Groups,2021,11
+2021-11-13,San Francisco,Daly City,40.0,0.034,130,Unhealthy for Sensitive Groups,2021,11
+2021-11-17,Napa,Napa,45.9,0.03,102,Unhealthy for Sensitive Groups,2021,11
+2021-11-17,Marin,Mill Valley,16.0,0.04,81,Moderate,2021,11
+2021-11-19,Kern,Ridgecrest,9.3,0.05,89,Moderate,2021,11
+2021-11-19,San Francisco,San Francisco,31.3,0.048,97,Moderate,2021,11
+2021-11-20,Kern,Bakersfield,22.2,0.025,108,Unhealthy for Sensitive Groups,2021,11
+2021-11-21,Santa Clara,Santa Clara,28.9,0.043,73,Moderate,2021,11
+2021-11-21,Shasta,Redding,38.3,0.022,93,Moderate,2021,11
+2021-11-22,Santa Clara,Santa Clara,38.9,0.039,126,Unhealthy for Sensitive Groups,2021,11
+2021-11-22,Los Angeles,Los Angeles,28.2,0.042,114,Unhealthy for Sensitive Groups,2021,11
+2021-11-22,Kern,Ridgecrest,44.7,0.037,170,Unhealthy,2021,11
+2021-11-23,San Francisco,San Francisco,22.8,0.054,74,Moderate,2021,11
+2021-11-25,Santa Clara,Santa Clara,45.6,0.024,110,Unhealthy for Sensitive Groups,2021,11
+2021-11-26,Kern,Bakersfield,38.6,0.044,123,Unhealthy for Sensitive Groups,2021,11
+2021-11-26,Sonoma,Santa Rosa,47.8,0.029,113,Unhealthy for Sensitive Groups,2021,11
+2021-11-26,Riverside,Palm Springs,18.6,0.035,82,Moderate,2021,11
+2021-11-27,Sonoma,Petaluma,21.1,0.028,82,Moderate,2021,11
+2021-11-27,Sacramento,Sacramento,51.4,0.046,140,Unhealthy for Sensitive Groups,2021,11
+2021-11-28,San Diego,San Diego,41.7,0.052,112,Unhealthy for Sensitive Groups,2021,11
+2021-11-28,Sonoma,Petaluma,45.2,0.031,109,Unhealthy for Sensitive Groups,2021,11
+2021-11-30,Napa,Napa,53.4,0.05,121,Unhealthy for Sensitive Groups,2021,11
+2021-11-30,San Diego,Chula Vista,21.5,0.026,79,Moderate,2021,11
+2021-12-02,Marin,Mill Valley,19.4,0.039,74,Moderate,2021,12
+2021-12-03,Sonoma,Santa Rosa,42.1,0.028,127,Unhealthy for Sensitive Groups,2021,12
+2021-12-03,Fresno,Clovis,53.6,0.036,153,Unhealthy,2021,12
+2021-12-04,Los Angeles,Pasadena,46.4,0.055,161,Unhealthy,2021,12
+2021-12-04,San Francisco,San Francisco,18.7,0.031,76,Moderate,2021,12
+2021-12-05,Napa,Napa,50.9,0.038,130,Unhealthy for Sensitive Groups,2021,12
+2021-12-05,San Bernardino,Ontario,8.9,0.024,116,Unhealthy for Sensitive Groups,2021,12
+2021-12-05,Monterey,Salinas,15.0,0.036,62,Moderate,2021,12
+2021-12-05,Sonoma,Petaluma,8.4,0.03,75,Moderate,2021,12
+2021-12-06,Los Angeles,Long Beach,40.9,0.039,129,Unhealthy for Sensitive Groups,2021,12
+2021-12-06,Kern,Ridgecrest,15.7,0.051,93,Moderate,2021,12
+2021-12-06,San Diego,Chula Vista,35.9,0.021,102,Unhealthy for Sensitive Groups,2021,12
+2021-12-07,Napa,Napa,28.2,0.03,109,Unhealthy for Sensitive Groups,2021,12
+2021-12-07,Sonoma,Santa Rosa,54.9,0.037,130,Unhealthy for Sensitive Groups,2021,12
+2021-12-10,Sonoma,Santa Rosa,51.4,0.043,137,Unhealthy for Sensitive Groups,2021,12
+2021-12-11,Sacramento,Elk Grove,32.6,0.047,94,Moderate,2021,12
+2021-12-11,San Francisco,Daly City,30.7,0.041,110,Unhealthy for Sensitive Groups,2021,12
+2021-12-12,San Bernardino,Ontario,30.6,0.028,115,Unhealthy for Sensitive Groups,2021,12
+2021-12-13,Marin,Mill Valley,27.7,0.04,83,Moderate,2021,12
+2021-12-14,Napa,Napa,28.1,0.053,102,Unhealthy for Sensitive Groups,2021,12
+2021-12-14,Kern,Ridgecrest,49.1,0.029,169,Unhealthy,2021,12
+2021-12-15,Alameda,Berkeley,34.3,0.053,98,Moderate,2021,12
+2021-12-15,Marin,Mill Valley,46.0,0.04,139,Unhealthy for Sensitive Groups,2021,12
+2021-12-16,Sacramento,Sacramento,52.3,0.037,142,Unhealthy for Sensitive Groups,2021,12
+2021-12-18,Kern,Bakersfield,22.1,0.043,134,Unhealthy for Sensitive Groups,2021,12
+2021-12-20,Sacramento,Elk Grove,29.0,0.045,95,Moderate,2021,12
+2021-12-22,Santa Clara,Sunnyvale,46.9,0.035,121,Unhealthy for Sensitive Groups,2021,12
+2021-12-25,Sacramento,Sacramento,43.1,0.02,106,Unhealthy for Sensitive Groups,2021,12
+2021-12-27,Riverside,Riverside,45.5,0.032,136,Unhealthy for Sensitive Groups,2021,12
+2021-12-28,Marin,Mill Valley,20.0,0.023,92,Moderate,2021,12
+2021-12-28,Sacramento,Elk Grove,27.8,0.045,99,Moderate,2021,12
+2021-12-29,Sonoma,Santa Rosa,26.6,0.022,88,Moderate,2021,12
+2021-12-29,Los Angeles,Los Angeles,38.3,0.045,128,Unhealthy for Sensitive Groups,2021,12
+2021-12-31,Fresno,Fresno,43.3,0.054,161,Unhealthy,2021,12
+2022-01-01,Alameda,Berkeley,39.8,0.026,121,Unhealthy for Sensitive Groups,2022,1
+2022-01-02,Napa,Napa,19.5,0.028,82,Moderate,2022,1
+2022-01-03,Sacramento,Sacramento,45.1,0.028,117,Unhealthy for Sensitive Groups,2022,1
+2022-01-04,Riverside,Palm Springs,44.4,0.037,102,Unhealthy for Sensitive Groups,2022,1
+2022-01-04,San Diego,San Diego,21.9,0.043,67,Moderate,2022,1
+2022-01-05,Shasta,Redding,39.3,0.049,120,Unhealthy for Sensitive Groups,2022,1
+2022-01-05,Monterey,Monterey,50.4,0.03,137,Unhealthy for Sensitive Groups,2022,1
+2022-01-07,Marin,Mill Valley,45.7,0.031,105,Unhealthy for Sensitive Groups,2022,1
+2022-01-07,Los Angeles,Pasadena,49.1,0.054,158,Unhealthy,2022,1
+2022-01-09,San Bernardino,San Bernardino,51.9,0.025,178,Unhealthy,2022,1
+2022-01-09,Riverside,Riverside,34.2,0.053,107,Unhealthy for Sensitive Groups,2022,1
+2022-01-09,Los Angeles,Long Beach,47.9,0.05,144,Unhealthy for Sensitive Groups,2022,1
+2022-01-12,Kern,Bakersfield,34.0,0.023,148,Unhealthy for Sensitive Groups,2022,1
+2022-01-12,Marin,San Rafael,34.2,0.054,88,Moderate,2022,1
+2022-01-13,Fresno,Fresno,30.3,0.033,129,Unhealthy for Sensitive Groups,2022,1
+2022-01-13,San Diego,Chula Vista,9.7,0.037,82,Moderate,2022,1
+2022-01-14,San Francisco,Daly City,32.1,0.046,88,Moderate,2022,1
+2022-01-14,Sacramento,Elk Grove,53.6,0.027,150,Unhealthy for Sensitive Groups,2022,1
+2022-01-15,Monterey,Monterey,28.3,0.053,93,Moderate,2022,1
+2022-01-15,San Bernardino,San Bernardino,25.5,0.03,129,Unhealthy for Sensitive Groups,2022,1
+2022-01-17,Los Angeles,Pasadena,42.4,0.023,146,Unhealthy for Sensitive Groups,2022,1
+2022-01-18,Monterey,Monterey,33.1,0.054,84,Moderate,2022,1
+2022-01-18,Kern,Bakersfield,25.2,0.043,106,Unhealthy for Sensitive Groups,2022,1
+2022-01-19,Riverside,Palm Springs,27.4,0.025,71,Moderate,2022,1
+2022-01-19,Shasta,Redding,29.1,0.045,100,Moderate,2022,1
+2022-01-20,Marin,Mill Valley,40.8,0.026,97,Moderate,2022,1
+2022-01-22,Alameda,Fremont,13.4,0.03,64,Moderate,2022,1
+2022-01-22,San Francisco,Daly City,49.4,0.025,112,Unhealthy for Sensitive Groups,2022,1
+2022-01-22,Monterey,Salinas,8.5,0.024,49,Good,2022,1
+2022-01-23,Marin,San Rafael,15.4,0.047,89,Moderate,2022,1
+2022-01-24,San Francisco,Daly City,39.6,0.044,126,Unhealthy for Sensitive Groups,2022,1
+2022-01-24,Sonoma,Santa Rosa,29.2,0.044,103,Unhealthy for Sensitive Groups,2022,1
+2022-01-26,Shasta,Redding,21.4,0.035,96,Moderate,2022,1
+2022-01-27,Monterey,Salinas,46.0,0.029,114,Unhealthy for Sensitive Groups,2022,1
+2022-01-27,Riverside,Palm Springs,16.7,0.04,57,Moderate,2022,1
+2022-01-28,San Francisco,Daly City,52.0,0.036,122,Unhealthy for Sensitive Groups,2022,1
+2022-01-28,Monterey,Monterey,46.2,0.021,118,Unhealthy for Sensitive Groups,2022,1
+2022-01-29,Santa Clara,Sunnyvale,39.5,0.046,123,Unhealthy for Sensitive Groups,2022,1
+2022-01-29,Shasta,Redding,22.7,0.022,78,Moderate,2022,1
+2022-01-29,Santa Clara,Santa Clara,14.2,0.051,53,Moderate,2022,1
+2022-01-30,Santa Clara,Santa Clara,13.1,0.028,50,Good,2022,1
+2022-01-30,Fresno,Clovis,29.8,0.048,130,Unhealthy for Sensitive Groups,2022,1
+2022-02-01,Santa Clara,Santa Clara,29.5,0.046,111,Unhealthy for Sensitive Groups,2022,2
+2022-02-01,San Diego,Chula Vista,40.3,0.053,95,Moderate,2022,2
+2022-02-03,San Francisco,San Francisco,40.6,0.038,116,Unhealthy for Sensitive Groups,2022,2
+2022-02-03,Napa,Napa,33.4,0.026,95,Moderate,2022,2
+2022-02-05,Napa,Napa,54.7,0.033,136,Unhealthy for Sensitive Groups,2022,2
+2022-02-06,Los Angeles,Los Angeles,31.4,0.027,136,Unhealthy for Sensitive Groups,2022,2
+2022-02-07,Alameda,Fremont,28.3,0.044,96,Moderate,2022,2
+2022-02-07,Alameda,Fremont,12.8,0.037,85,Moderate,2022,2
+2022-02-07,San Francisco,San Francisco,38.8,0.044,108,Unhealthy for Sensitive Groups,2022,2
+2022-02-07,Kern,Bakersfield,44.0,0.052,147,Unhealthy for Sensitive Groups,2022,2
+2022-02-08,Marin,San Rafael,49.9,0.023,141,Unhealthy for Sensitive Groups,2022,2
+2022-02-09,Los Angeles,Pasadena,47.9,0.045,142,Unhealthy for Sensitive Groups,2022,2
+2022-02-09,San Bernardino,Ontario,53.7,0.028,170,Unhealthy,2022,2
+2022-02-11,Los Angeles,Long Beach,39.7,0.041,128,Unhealthy for Sensitive Groups,2022,2
+2022-02-11,San Francisco,Daly City,50.8,0.046,130,Unhealthy for Sensitive Groups,2022,2
+2022-02-12,Kern,Bakersfield,26.0,0.024,104,Unhealthy for Sensitive Groups,2022,2
+2022-02-12,Sonoma,Santa Rosa,42.5,0.044,120,Unhealthy for Sensitive Groups,2022,2
+2022-02-16,Sacramento,Elk Grove,20.7,0.052,96,Moderate,2022,2
+2022-02-16,Sacramento,Elk Grove,27.9,0.038,97,Moderate,2022,2
+2022-02-17,San Francisco,San Francisco,12.5,0.05,86,Moderate,2022,2
+2022-02-17,Santa Clara,Sunnyvale,13.8,0.029,59,Moderate,2022,2
+2022-02-18,Santa Clara,Santa Clara,10.1,0.026,66,Moderate,2022,2
+2022-02-19,Kern,Ridgecrest,54.7,0.039,176,Unhealthy,2022,2
+2022-02-19,San Francisco,San Francisco,14.8,0.043,64,Moderate,2022,2
+2022-02-19,Monterey,Salinas,17.6,0.034,90,Moderate,2022,2
+2022-02-19,Monterey,Salinas,24.2,0.034,78,Moderate,2022,2
+2022-02-20,Sacramento,Elk Grove,21.4,0.043,89,Moderate,2022,2
+2022-02-22,Napa,Napa,44.8,0.033,131,Unhealthy for Sensitive Groups,2022,2
+2022-02-22,Alameda,Fremont,27.1,0.035,83,Moderate,2022,2
+2022-02-22,Alameda,Berkeley,9.2,0.035,59,Moderate,2022,2
+2022-02-24,Los Angeles,Long Beach,19.1,0.046,114,Unhealthy for Sensitive Groups,2022,2
+2022-02-24,Shasta,Redding,29.2,0.05,101,Unhealthy for Sensitive Groups,2022,2
+2022-02-25,Monterey,Salinas,43.5,0.025,100,Moderate,2022,2
+2022-02-25,San Bernardino,San Bernardino,39.1,0.03,147,Unhealthy for Sensitive Groups,2022,2
+2022-02-26,San Bernardino,San Bernardino,11.9,0.045,115,Unhealthy for Sensitive Groups,2022,2
+2022-02-28,San Bernardino,San Bernardino,21.3,0.027,109,Unhealthy for Sensitive Groups,2022,2
+2022-03-02,Sonoma,Petaluma,23.9,0.027,96,Moderate,2022,3
+2022-03-02,Fresno,Fresno,10.3,0.05,93,Moderate,2022,3
+2022-03-04,Riverside,Riverside,25.6,0.036,80,Moderate,2022,3
+2022-03-07,San Diego,Chula Vista,11.0,0.039,65,Moderate,2022,3
+2022-03-10,San Francisco,San Francisco,49.0,0.022,127,Unhealthy for Sensitive Groups,2022,3
+2022-03-10,Monterey,Monterey,40.4,0.036,128,Unhealthy for Sensitive Groups,2022,3
+2022-03-10,Alameda,Oakland,29.0,0.048,103,Unhealthy for Sensitive Groups,2022,3
+2022-03-11,Marin,Mill Valley,15.4,0.024,87,Moderate,2022,3
+2022-03-11,Alameda,Berkeley,11.4,0.045,65,Moderate,2022,3
+2022-03-13,Shasta,Redding,16.6,0.052,75,Moderate,2022,3
+2022-03-13,Sonoma,Petaluma,26.5,0.028,86,Moderate,2022,3
+2022-03-15,Alameda,Oakland,54.6,0.046,130,Unhealthy for Sensitive Groups,2022,3
+2022-03-16,Santa Clara,San Jose,43.7,0.043,104,Unhealthy for Sensitive Groups,2022,3
+2022-03-17,Sacramento,Sacramento,25.5,0.055,103,Unhealthy for Sensitive Groups,2022,3
+2022-03-18,Sonoma,Petaluma,36.7,0.046,123,Unhealthy for Sensitive Groups,2022,3
+2022-03-18,Monterey,Monterey,25.6,0.053,74,Moderate,2022,3
+2022-03-20,Santa Clara,San Jose,23.9,0.022,93,Moderate,2022,3
+2022-03-20,Fresno,Fresno,40.8,0.049,161,Unhealthy,2022,3
+2022-03-20,San Diego,Chula Vista,25.6,0.033,79,Moderate,2022,3
+2022-03-21,Los Angeles,Pasadena,20.9,0.04,99,Moderate,2022,3
+2022-03-21,Fresno,Fresno,23.6,0.042,121,Unhealthy for Sensitive Groups,2022,3
+2022-03-22,Santa Clara,San Jose,31.6,0.028,82,Moderate,2022,3
+2022-03-23,Kern,Ridgecrest,52.2,0.027,180,Unhealthy,2022,3
+2022-03-25,Shasta,Redding,15.0,0.05,75,Moderate,2022,3
+2022-03-26,Alameda,Oakland,53.5,0.03,150,Unhealthy for Sensitive Groups,2022,3
+2022-03-26,Alameda,Fremont,42.6,0.05,100,Moderate,2022,3
+2022-03-26,Fresno,Clovis,49.6,0.047,157,Unhealthy,2022,3
+2022-03-27,Marin,Mill Valley,27.6,0.023,98,Moderate,2022,3
+2022-03-27,Sonoma,Petaluma,14.1,0.033,86,Moderate,2022,3
+2022-03-27,Alameda,Fremont,25.8,0.022,90,Moderate,2022,3
+2022-03-28,Fresno,Fresno,39.7,0.049,128,Unhealthy for Sensitive Groups,2022,3
+2022-03-29,Los Angeles,Long Beach,30.8,0.041,150,Unhealthy for Sensitive Groups,2022,3
+2022-03-31,Napa,Napa,36.5,0.027,84,Moderate,2022,3
+2022-04-01,Napa,Napa,20.6,0.027,96,Moderate,2022,4
+2022-04-01,Marin,Mill Valley,27.2,0.042,78,Moderate,2022,4
+2022-04-02,Fresno,Clovis,12.5,0.046,97,Moderate,2022,4
+2022-04-03,Santa Clara,Santa Clara,11.9,0.039,86,Moderate,2022,4
+2022-04-03,Fresno,Clovis,49.6,0.045,158,Unhealthy,2022,4
+2022-04-05,Napa,Napa,32.2,0.03,101,Unhealthy for Sensitive Groups,2022,4
+2022-04-07,Riverside,Palm Springs,47.7,0.047,105,Unhealthy for Sensitive Groups,2022,4
+2022-04-10,Sonoma,Santa Rosa,8.7,0.027,43,Good,2022,4
+2022-04-11,Kern,Ridgecrest,33.8,0.02,133,Unhealthy for Sensitive Groups,2022,4
+2022-04-11,Fresno,Fresno,19.2,0.025,94,Moderate,2022,4
+2022-04-12,Alameda,Fremont,45.1,0.03,102,Unhealthy for Sensitive Groups,2022,4
+2022-04-13,Shasta,Redding,38.7,0.051,118,Unhealthy for Sensitive Groups,2022,4
+2022-04-16,Santa Clara,San Jose,45.2,0.021,113,Unhealthy for Sensitive Groups,2022,4
+2022-04-17,Monterey,Salinas,40.2,0.035,118,Unhealthy for Sensitive Groups,2022,4
+2022-04-20,Marin,Mill Valley,23.0,0.049,68,Moderate,2022,4
+2022-04-22,Shasta,Redding,22.3,0.046,103,Unhealthy for Sensitive Groups,2022,4
+2022-04-22,Shasta,Redding,54.6,0.039,134,Unhealthy for Sensitive Groups,2022,4
+2022-04-23,San Bernardino,Ontario,19.2,0.026,95,Moderate,2022,4
+2022-04-23,Monterey,Salinas,35.2,0.043,102,Unhealthy for Sensitive Groups,2022,4
+2022-04-24,Napa,Napa,14.5,0.042,55,Moderate,2022,4
+2022-04-24,San Francisco,Daly City,9.7,0.039,49,Good,2022,4
+2022-04-26,Napa,Napa,33.9,0.04,91,Moderate,2022,4
+2022-04-26,Sacramento,Elk Grove,23.2,0.021,93,Moderate,2022,4
+2022-04-26,Santa Clara,Santa Clara,19.2,0.029,68,Moderate,2022,4
+2022-04-29,Monterey,Monterey,46.1,0.045,129,Unhealthy for Sensitive Groups,2022,4
+2022-04-30,Alameda,Fremont,16.3,0.025,88,Moderate,2022,4
+2022-04-30,Marin,San Rafael,19.7,0.051,86,Moderate,2022,4
+2022-05-01,Riverside,Palm Springs,41.0,0.052,125,Unhealthy for Sensitive Groups,2022,5
+2022-05-01,Napa,Napa,33.5,0.034,102,Unhealthy for Sensitive Groups,2022,5
+2022-05-01,Riverside,Palm Springs,52.2,0.054,131,Unhealthy for Sensitive Groups,2022,5
+2022-05-03,Shasta,Redding,51.7,0.024,121,Unhealthy for Sensitive Groups,2022,5
+2022-05-04,Monterey,Monterey,19.3,0.025,77,Moderate,2022,5
+2022-05-04,Napa,Napa,29.6,0.023,82,Moderate,2022,5
+2022-05-05,Shasta,Redding,49.5,0.026,106,Unhealthy for Sensitive Groups,2022,5
+2022-05-05,Sacramento,Sacramento,54.1,0.021,141,Unhealthy for Sensitive Groups,2022,5
+2022-05-05,Santa Clara,Santa Clara,17.9,0.036,91,Moderate,2022,5
+2022-05-07,Fresno,Clovis,27.0,0.046,142,Unhealthy for Sensitive Groups,2022,5
+2022-05-07,Fresno,Fresno,47.0,0.024,174,Unhealthy,2022,5
+2022-05-07,San Bernardino,Ontario,54.0,0.052,161,Unhealthy,2022,5
+2022-05-08,Los Angeles,Pasadena,36.9,0.053,121,Unhealthy for Sensitive Groups,2022,5
+2022-05-08,San Francisco,Daly City,32.6,0.053,79,Moderate,2022,5
+2022-05-09,San Diego,Chula Vista,29.3,0.026,92,Moderate,2022,5
+2022-05-09,Los Angeles,Los Angeles,38.0,0.042,126,Unhealthy for Sensitive Groups,2022,5
+2022-05-09,San Diego,San Diego,31.1,0.022,85,Moderate,2022,5
+2022-05-09,Kern,Bakersfield,46.6,0.031,161,Unhealthy,2022,5
+2022-05-10,Los Angeles,Long Beach,33.0,0.031,139,Unhealthy for Sensitive Groups,2022,5
+2022-05-14,San Diego,San Diego,24.2,0.054,106,Unhealthy for Sensitive Groups,2022,5
+2022-05-15,Riverside,Riverside,21.8,0.052,95,Moderate,2022,5
+2022-05-15,Alameda,Oakland,31.3,0.026,83,Moderate,2022,5
+2022-05-16,San Bernardino,San Bernardino,53.9,0.043,160,Unhealthy,2022,5
+2022-05-20,Kern,Bakersfield,13.4,0.028,94,Moderate,2022,5
+2022-05-20,San Bernardino,San Bernardino,12.8,0.049,99,Moderate,2022,5
+2022-05-21,San Bernardino,Ontario,54.8,0.039,169,Unhealthy,2022,5
+2022-05-21,Kern,Bakersfield,14.3,0.037,100,Moderate,2022,5
+2022-05-21,Sonoma,Santa Rosa,33.0,0.037,85,Moderate,2022,5
+2022-05-22,San Diego,Chula Vista,30.5,0.038,78,Moderate,2022,5
+2022-05-23,Marin,Mill Valley,40.2,0.037,118,Unhealthy for Sensitive Groups,2022,5
+2022-05-23,Shasta,Redding,8.8,0.027,46,Good,2022,5
+2022-05-26,Shasta,Redding,13.7,0.027,72,Moderate,2022,5
+2022-05-27,Santa Clara,San Jose,21.1,0.029,71,Moderate,2022,5
+2022-05-30,Sonoma,Santa Rosa,29.2,0.028,94,Moderate,2022,5
+2022-05-30,Shasta,Redding,54.8,0.054,121,Unhealthy for Sensitive Groups,2022,5
+2022-05-31,Riverside,Palm Springs,46.3,0.05,137,Unhealthy for Sensitive Groups,2022,5
+2022-05-31,Santa Clara,Santa Clara,46.8,0.031,115,Unhealthy for Sensitive Groups,2022,5
+2022-06-01,Santa Clara,Santa Clara,20.2,0.043,77,Moderate,2022,6
+2022-06-04,Marin,Mill Valley,30.3,0.06,82,Moderate,2022,6
+2022-06-05,Sacramento,Sacramento,20.1,0.083,67,Moderate,2022,6
+2022-06-05,San Bernardino,Ontario,24.9,0.056,128,Unhealthy for Sensitive Groups,2022,6
+2022-06-07,San Diego,San Diego,34.4,0.078,87,Moderate,2022,6
+2022-06-08,San Diego,Chula Vista,22.4,0.085,100,Moderate,2022,6
+2022-06-09,San Francisco,Daly City,9.7,0.04,60,Moderate,2022,6
+2022-06-09,Kern,Ridgecrest,26.5,0.086,109,Unhealthy for Sensitive Groups,2022,6
+2022-06-09,Fresno,Fresno,12.5,0.071,112,Unhealthy for Sensitive Groups,2022,6
+2022-06-12,Riverside,Palm Springs,20.4,0.06,72,Moderate,2022,6
+2022-06-15,Fresno,Clovis,7.4,0.042,103,Unhealthy for Sensitive Groups,2022,6
+2022-06-15,Alameda,Berkeley,33.7,0.053,85,Moderate,2022,6
+2022-06-16,Shasta,Redding,31.4,0.064,78,Moderate,2022,6
+2022-06-16,Riverside,Riverside,26.7,0.063,74,Moderate,2022,6
+2022-06-18,Kern,Ridgecrest,8.7,0.074,103,Unhealthy for Sensitive Groups,2022,6
+2022-06-18,Monterey,Salinas,5.3,0.083,70,Moderate,2022,6
+2022-06-18,San Francisco,San Francisco,34.1,0.078,81,Moderate,2022,6
+2022-06-19,San Bernardino,San Bernardino,10.0,0.044,97,Moderate,2022,6
+2022-06-21,Fresno,Clovis,23.8,0.071,140,Unhealthy for Sensitive Groups,2022,6
+2022-06-22,Shasta,Redding,18.7,0.09,85,Moderate,2022,6
+2022-06-22,Sacramento,Elk Grove,17.7,0.07,83,Moderate,2022,6
+2022-06-23,Kern,Bakersfield,26.5,0.045,108,Unhealthy for Sensitive Groups,2022,6
+2022-06-24,San Francisco,Daly City,23.9,0.08,102,Unhealthy for Sensitive Groups,2022,6
+2022-06-24,Shasta,Redding,25.9,0.082,101,Unhealthy for Sensitive Groups,2022,6
+2022-06-26,Marin,San Rafael,29.2,0.083,79,Moderate,2022,6
+2022-06-27,Shasta,Redding,20.2,0.08,92,Moderate,2022,6
+2022-07-01,San Diego,San Diego,16.2,0.063,91,Moderate,2022,7
+2022-07-01,San Francisco,Daly City,12.2,0.072,87,Moderate,2022,7
+2022-07-01,San Diego,Chula Vista,31.6,0.064,113,Unhealthy for Sensitive Groups,2022,7
+2022-07-02,Fresno,Clovis,7.5,0.072,89,Moderate,2022,7
+2022-07-03,Sonoma,Petaluma,5.3,0.05,41,Good,2022,7
+2022-07-03,Sonoma,Santa Rosa,28.5,0.087,78,Moderate,2022,7
+2022-07-04,San Francisco,Daly City,14.5,0.089,52,Moderate,2022,7
+2022-07-05,Alameda,Berkeley,33.8,0.04,82,Moderate,2022,7
+2022-07-05,Shasta,Redding,28.6,0.057,95,Moderate,2022,7
+2022-07-06,Monterey,Salinas,28.8,0.045,87,Moderate,2022,7
+2022-07-08,San Francisco,San Francisco,23.2,0.064,94,Moderate,2022,7
+2022-07-08,Shasta,Redding,21.3,0.05,69,Moderate,2022,7
+2022-07-10,Fresno,Fresno,12.9,0.083,89,Moderate,2022,7
+2022-07-10,Riverside,Riverside,27.3,0.053,93,Moderate,2022,7
+2022-07-14,Shasta,Redding,23.6,0.08,69,Moderate,2022,7
+2022-07-14,Shasta,Redding,30.9,0.06,95,Moderate,2022,7
+2022-07-17,Riverside,Riverside,9.0,0.061,79,Moderate,2022,7
+2022-07-17,Napa,Napa,19.6,0.043,66,Moderate,2022,7
+2022-07-17,Sonoma,Petaluma,25.9,0.078,79,Moderate,2022,7
+2022-07-17,Kern,Bakersfield,15.2,0.052,124,Unhealthy for Sensitive Groups,2022,7
+2022-07-17,Marin,San Rafael,16.5,0.08,93,Moderate,2022,7
+2022-07-18,San Bernardino,Ontario,5.0,0.072,96,Moderate,2022,7
+2022-07-18,Monterey,Salinas,17.3,0.044,93,Moderate,2022,7
+2022-07-20,Marin,San Rafael,7.6,0.053,48,Good,2022,7
+2022-07-20,Sonoma,Santa Rosa,18.9,0.047,83,Moderate,2022,7
+2022-07-21,Fresno,Clovis,28.5,0.066,129,Unhealthy for Sensitive Groups,2022,7
+2022-07-21,Napa,Napa,27.5,0.058,73,Moderate,2022,7
+2022-07-22,Fresno,Clovis,26.8,0.07,126,Unhealthy for Sensitive Groups,2022,7
+2022-07-25,San Francisco,Daly City,24.8,0.088,75,Moderate,2022,7
+2022-07-26,Riverside,Palm Springs,14.1,0.047,70,Moderate,2022,7
+2022-07-27,Napa,Napa,32.8,0.048,113,Unhealthy for Sensitive Groups,2022,7
+2022-07-28,Shasta,Redding,33.6,0.066,103,Unhealthy for Sensitive Groups,2022,7
+2022-07-28,Los Angeles,Los Angeles,33.0,0.065,134,Unhealthy for Sensitive Groups,2022,7
+2022-07-28,San Francisco,San Francisco,17.9,0.049,94,Moderate,2022,7
+2022-07-31,Monterey,Salinas,25.8,0.083,106,Unhealthy for Sensitive Groups,2022,7
+2022-08-02,Sacramento,Sacramento,24.1,0.063,66,Moderate,2022,8
+2022-08-02,San Francisco,San Francisco,6.5,0.086,66,Moderate,2022,8
+2022-08-02,Alameda,Berkeley,30.4,0.054,97,Moderate,2022,8
+2022-08-04,Los Angeles,Pasadena,25.2,0.055,103,Unhealthy for Sensitive Groups,2022,8
+2022-08-05,Kern,Ridgecrest,22.4,0.088,100,Moderate,2022,8
+2022-08-05,Shasta,Redding,28.5,0.061,75,Moderate,2022,8
+2022-08-05,San Diego,San Diego,10.9,0.075,56,Moderate,2022,8
+2022-08-06,Marin,San Rafael,31.8,0.082,80,Moderate,2022,8
+2022-08-07,Shasta,Redding,29.9,0.063,106,Unhealthy for Sensitive Groups,2022,8
+2022-08-08,Sacramento,Elk Grove,27.6,0.078,99,Moderate,2022,8
+2022-08-08,Sonoma,Santa Rosa,16.0,0.089,66,Moderate,2022,8
+2022-08-08,San Bernardino,San Bernardino,28.1,0.073,124,Unhealthy for Sensitive Groups,2022,8
+2022-08-08,San Diego,Chula Vista,19.6,0.09,86,Moderate,2022,8
+2022-08-10,Fresno,Clovis,12.9,0.082,120,Unhealthy for Sensitive Groups,2022,8
+2022-08-10,Fresno,Fresno,24.6,0.04,125,Unhealthy for Sensitive Groups,2022,8
+2022-08-10,Marin,Mill Valley,20.5,0.066,99,Moderate,2022,8
+2022-08-11,Monterey,Monterey,14.2,0.06,83,Moderate,2022,8
+2022-08-13,Sonoma,Santa Rosa,23.7,0.052,86,Moderate,2022,8
+2022-08-14,Marin,Mill Valley,34.2,0.067,98,Moderate,2022,8
+2022-08-15,Santa Clara,Sunnyvale,18.0,0.058,88,Moderate,2022,8
+2022-08-16,Santa Clara,Santa Clara,20.9,0.089,61,Moderate,2022,8
+2022-08-17,Alameda,Berkeley,24.3,0.085,95,Moderate,2022,8
+2022-08-18,Napa,Napa,8.6,0.053,46,Good,2022,8
+2022-08-18,San Francisco,San Francisco,9.0,0.056,68,Moderate,2022,8
+2022-08-20,San Bernardino,San Bernardino,26.3,0.074,138,Unhealthy for Sensitive Groups,2022,8
+2022-08-21,Marin,San Rafael,5.6,0.067,60,Moderate,2022,8
+2022-08-21,Napa,Napa,20.6,0.062,77,Moderate,2022,8
+2022-08-22,Marin,Mill Valley,27.1,0.086,91,Moderate,2022,8
+2022-08-24,Shasta,Redding,6.0,0.06,47,Good,2022,8
+2022-08-24,San Diego,San Diego,15.9,0.086,64,Moderate,2022,8
+2022-08-24,San Diego,Chula Vista,13.4,0.07,77,Moderate,2022,8
+2022-08-25,Santa Clara,Sunnyvale,12.3,0.068,72,Moderate,2022,8
+2022-08-25,San Francisco,San Francisco,23.9,0.073,69,Moderate,2022,8
+2022-08-27,Fresno,Fresno,30.3,0.055,135,Unhealthy for Sensitive Groups,2022,8
+2022-08-27,San Diego,San Diego,12.2,0.057,51,Moderate,2022,8
+2022-08-28,Monterey,Monterey,15.4,0.062,54,Moderate,2022,8
+2022-08-29,Los Angeles,Pasadena,13.0,0.073,121,Unhealthy for Sensitive Groups,2022,8
+2022-08-29,Los Angeles,Pasadena,17.8,0.041,107,Unhealthy for Sensitive Groups,2022,8
+2022-08-30,Monterey,Monterey,9.2,0.068,66,Moderate,2022,8
+2022-08-30,San Diego,Chula Vista,34.7,0.066,103,Unhealthy for Sensitive Groups,2022,8
+2022-08-30,Santa Clara,San Jose,8.3,0.068,70,Moderate,2022,8
+2022-08-31,Los Angeles,Pasadena,32.6,0.085,114,Unhealthy for Sensitive Groups,2022,8
+2022-09-01,Kern,Ridgecrest,21.9,0.048,100,Moderate,2022,9
+2022-09-02,San Francisco,San Francisco,18.4,0.058,94,Moderate,2022,9
+2022-09-02,Shasta,Redding,14.0,0.06,53,Moderate,2022,9
+2022-09-02,San Bernardino,San Bernardino,14.4,0.051,122,Unhealthy for Sensitive Groups,2022,9
+2022-09-02,Riverside,Palm Springs,14.0,0.077,85,Moderate,2022,9
+2022-09-03,Shasta,Redding,22.8,0.053,96,Moderate,2022,9
+2022-09-05,Sonoma,Santa Rosa,7.1,0.059,46,Good,2022,9
+2022-09-06,Napa,Napa,33.2,0.042,101,Unhealthy for Sensitive Groups,2022,9
+2022-09-08,San Diego,San Diego,11.3,0.085,65,Moderate,2022,9
+2022-09-08,Santa Clara,Santa Clara,6.8,0.054,48,Good,2022,9
+2022-09-08,Monterey,Salinas,11.3,0.048,72,Moderate,2022,9
+2022-09-08,Alameda,Oakland,7.8,0.049,52,Moderate,2022,9
+2022-09-09,Shasta,Redding,15.4,0.075,61,Moderate,2022,9
+2022-09-09,Monterey,Monterey,19.9,0.074,93,Moderate,2022,9
+2022-09-11,Napa,Napa,21.8,0.064,98,Moderate,2022,9
+2022-09-14,Shasta,Redding,8.5,0.043,82,Moderate,2022,9
+2022-09-16,Fresno,Clovis,13.8,0.051,125,Unhealthy for Sensitive Groups,2022,9
+2022-09-19,Los Angeles,Long Beach,7.5,0.065,93,Moderate,2022,9
+2022-09-19,San Bernardino,San Bernardino,26.3,0.046,136,Unhealthy for Sensitive Groups,2022,9
+2022-09-20,Napa,Napa,20.4,0.044,75,Moderate,2022,9
+2022-09-21,Sacramento,Elk Grove,19.4,0.083,62,Moderate,2022,9
+2022-09-21,Riverside,Palm Springs,23.2,0.061,77,Moderate,2022,9
+2022-09-22,Kern,Ridgecrest,19.2,0.057,120,Unhealthy for Sensitive Groups,2022,9
+2022-09-23,San Bernardino,San Bernardino,12.7,0.057,106,Unhealthy for Sensitive Groups,2022,9
+2022-09-23,Santa Clara,San Jose,33.8,0.044,106,Unhealthy for Sensitive Groups,2022,9
+2022-09-24,Alameda,Berkeley,28.8,0.084,73,Moderate,2022,9
+2022-09-25,Santa Clara,San Jose,5.2,0.078,53,Moderate,2022,9
+2022-09-26,Shasta,Redding,11.6,0.062,48,Good,2022,9
+2022-09-27,San Diego,Chula Vista,21.7,0.052,92,Moderate,2022,9
+2022-09-28,San Diego,Chula Vista,22.8,0.049,94,Moderate,2022,9
+2022-09-28,Sonoma,Santa Rosa,24.6,0.064,105,Unhealthy for Sensitive Groups,2022,9
+2022-09-28,Santa Clara,Santa Clara,30.9,0.051,106,Unhealthy for Sensitive Groups,2022,9
+2022-09-28,San Francisco,Daly City,21.5,0.08,70,Moderate,2022,9
+2022-10-01,Kern,Ridgecrest,45.1,0.039,136,Unhealthy for Sensitive Groups,2022,10
+2022-10-01,Santa Clara,San Jose,22.9,0.041,67,Moderate,2022,10
+2022-10-02,Marin,Mill Valley,16.6,0.047,86,Moderate,2022,10
+2022-10-03,Shasta,Redding,28.2,0.031,96,Moderate,2022,10
+2022-10-03,Sacramento,Elk Grove,25.1,0.031,73,Moderate,2022,10
+2022-10-04,Riverside,Riverside,54.0,0.027,136,Unhealthy for Sensitive Groups,2022,10
+2022-10-04,San Francisco,Daly City,17.3,0.039,64,Moderate,2022,10
+2022-10-04,Monterey,Monterey,16.0,0.024,60,Moderate,2022,10
+2022-10-06,Riverside,Palm Springs,13.3,0.045,58,Moderate,2022,10
+2022-10-09,Alameda,Berkeley,27.9,0.044,97,Moderate,2022,10
+2022-10-10,Santa Clara,Sunnyvale,35.8,0.033,105,Unhealthy for Sensitive Groups,2022,10
+2022-10-11,Monterey,Salinas,25.0,0.047,81,Moderate,2022,10
+2022-10-12,Shasta,Redding,18.3,0.02,71,Moderate,2022,10
+2022-10-13,Fresno,Fresno,29.4,0.033,140,Unhealthy for Sensitive Groups,2022,10
+2022-10-13,Marin,Mill Valley,9.4,0.044,55,Moderate,2022,10
+2022-10-13,San Diego,San Diego,14.6,0.046,66,Moderate,2022,10
+2022-10-13,Monterey,Salinas,49.6,0.028,111,Unhealthy for Sensitive Groups,2022,10
+2022-10-14,Santa Clara,San Jose,49.2,0.033,122,Unhealthy for Sensitive Groups,2022,10
+2022-10-17,San Francisco,San Francisco,51.8,0.03,124,Unhealthy for Sensitive Groups,2022,10
+2022-10-18,Alameda,Oakland,27.9,0.035,94,Moderate,2022,10
+2022-10-18,San Bernardino,San Bernardino,12.4,0.031,101,Unhealthy for Sensitive Groups,2022,10
+2022-10-19,Sonoma,Santa Rosa,32.3,0.052,85,Moderate,2022,10
+2022-10-19,Kern,Bakersfield,33.9,0.053,136,Unhealthy for Sensitive Groups,2022,10
+2022-10-20,San Diego,San Diego,12.3,0.042,88,Moderate,2022,10
+2022-10-21,Shasta,Redding,13.6,0.044,83,Moderate,2022,10
+2022-10-22,Sacramento,Sacramento,53.4,0.04,111,Unhealthy for Sensitive Groups,2022,10
+2022-10-24,Alameda,Berkeley,42.1,0.046,117,Unhealthy for Sensitive Groups,2022,10
+2022-10-24,Napa,Napa,32.3,0.046,111,Unhealthy for Sensitive Groups,2022,10
+2022-10-25,Los Angeles,Los Angeles,53.4,0.032,151,Unhealthy,2022,10
+2022-10-25,Napa,Napa,21.5,0.053,95,Moderate,2022,10
+2022-10-26,Napa,Napa,32.8,0.054,91,Moderate,2022,10
+2022-10-27,San Francisco,Daly City,35.7,0.026,85,Moderate,2022,10
+2022-10-27,San Francisco,San Francisco,21.8,0.053,94,Moderate,2022,10
+2022-10-27,Napa,Napa,15.5,0.034,80,Moderate,2022,10
+2022-10-27,Monterey,Salinas,35.3,0.021,100,Moderate,2022,10
+2022-10-28,San Francisco,Daly City,18.4,0.042,90,Moderate,2022,10
+2022-10-28,Sonoma,Santa Rosa,33.5,0.042,87,Moderate,2022,10
+2022-10-30,Sacramento,Sacramento,37.9,0.047,114,Unhealthy for Sensitive Groups,2022,10
+2022-10-30,San Francisco,San Francisco,44.0,0.031,124,Unhealthy for Sensitive Groups,2022,10
+2022-10-31,Alameda,Berkeley,26.7,0.052,71,Moderate,2022,10
+2022-10-31,Napa,Napa,34.8,0.023,119,Unhealthy for Sensitive Groups,2022,10
+2022-11-01,Monterey,Salinas,31.0,0.052,79,Moderate,2022,11
+2022-11-02,San Francisco,San Francisco,20.5,0.053,64,Moderate,2022,11
+2022-11-02,Sonoma,Petaluma,11.1,0.035,81,Moderate,2022,11
+2022-11-02,San Francisco,Daly City,29.2,0.051,75,Moderate,2022,11
+2022-11-03,Napa,Napa,21.5,0.045,88,Moderate,2022,11
+2022-11-04,Kern,Ridgecrest,46.9,0.039,171,Unhealthy,2022,11
+2022-11-04,Marin,San Rafael,13.0,0.042,62,Moderate,2022,11
+2022-11-05,San Bernardino,San Bernardino,50.9,0.05,160,Unhealthy,2022,11
+2022-11-05,Los Angeles,Long Beach,11.5,0.036,84,Moderate,2022,11
+2022-11-05,Napa,Napa,21.3,0.051,77,Moderate,2022,11
+2022-11-06,Kern,Bakersfield,12.8,0.049,90,Moderate,2022,11
+2022-11-07,San Francisco,Daly City,25.0,0.033,78,Moderate,2022,11
+2022-11-07,Napa,Napa,18.5,0.054,65,Moderate,2022,11
+2022-11-07,Marin,Mill Valley,44.7,0.052,134,Unhealthy for Sensitive Groups,2022,11
+2022-11-07,San Diego,Chula Vista,43.4,0.033,102,Unhealthy for Sensitive Groups,2022,11
+2022-11-07,San Francisco,San Francisco,26.2,0.051,101,Unhealthy for Sensitive Groups,2022,11
+2022-11-09,Sacramento,Elk Grove,27.9,0.049,95,Moderate,2022,11
+2022-11-11,San Bernardino,San Bernardino,28.0,0.023,143,Unhealthy for Sensitive Groups,2022,11
+2022-11-12,Riverside,Palm Springs,38.1,0.028,124,Unhealthy for Sensitive Groups,2022,11
+2022-11-13,Santa Clara,Santa Clara,13.4,0.051,62,Moderate,2022,11
+2022-11-15,Riverside,Palm Springs,50.6,0.04,126,Unhealthy for Sensitive Groups,2022,11
+2022-11-15,Riverside,Palm Springs,47.7,0.053,124,Unhealthy for Sensitive Groups,2022,11
+2022-11-16,Kern,Ridgecrest,53.1,0.046,163,Unhealthy,2022,11
+2022-11-19,Marin,Mill Valley,45.7,0.036,100,Moderate,2022,11
+2022-11-21,Alameda,Berkeley,26.7,0.049,100,Moderate,2022,11
+2022-11-21,Marin,San Rafael,45.2,0.022,129,Unhealthy for Sensitive Groups,2022,11
+2022-11-22,Riverside,Riverside,35.6,0.039,112,Unhealthy for Sensitive Groups,2022,11
+2022-11-23,San Bernardino,Ontario,44.0,0.054,143,Unhealthy for Sensitive Groups,2022,11
+2022-11-24,Shasta,Redding,53.0,0.041,145,Unhealthy for Sensitive Groups,2022,11
+2022-11-24,Kern,Ridgecrest,22.7,0.051,119,Unhealthy for Sensitive Groups,2022,11
+2022-11-25,San Diego,San Diego,44.0,0.051,134,Unhealthy for Sensitive Groups,2022,11
+2022-11-25,Santa Clara,Sunnyvale,15.4,0.028,61,Moderate,2022,11
+2022-11-26,Monterey,Monterey,50.7,0.033,136,Unhealthy for Sensitive Groups,2022,11
+2022-11-26,Fresno,Fresno,14.3,0.051,86,Moderate,2022,11
+2022-11-26,Alameda,Oakland,35.6,0.044,86,Moderate,2022,11
+2022-11-27,Los Angeles,Los Angeles,21.2,0.047,122,Unhealthy for Sensitive Groups,2022,11
+2022-11-28,Shasta,Redding,33.3,0.054,81,Moderate,2022,11
+2022-11-28,Alameda,Berkeley,29.8,0.031,97,Moderate,2022,11
+2022-11-28,Kern,Ridgecrest,28.4,0.044,122,Unhealthy for Sensitive Groups,2022,11
+2022-11-29,Fresno,Fresno,50.5,0.03,174,Unhealthy,2022,11
+2022-11-30,Napa,Napa,23.9,0.044,76,Moderate,2022,11
+2022-11-30,Marin,Mill Valley,45.3,0.053,135,Unhealthy for Sensitive Groups,2022,11
+2022-12-02,San Bernardino,San Bernardino,13.1,0.036,86,Moderate,2022,12
+2022-12-02,Sacramento,Sacramento,52.7,0.021,135,Unhealthy for Sensitive Groups,2022,12
+2022-12-03,Sonoma,Santa Rosa,39.3,0.027,112,Unhealthy for Sensitive Groups,2022,12
+2022-12-04,Los Angeles,Los Angeles,42.9,0.052,141,Unhealthy for Sensitive Groups,2022,12
+2022-12-05,Shasta,Redding,27.8,0.051,104,Unhealthy for Sensitive Groups,2022,12
+2022-12-09,Shasta,Redding,9.6,0.05,47,Good,2022,12
+2022-12-09,San Francisco,San Francisco,15.0,0.027,85,Moderate,2022,12
+2022-12-11,Santa Clara,San Jose,12.9,0.036,63,Moderate,2022,12
+2022-12-11,Santa Clara,Sunnyvale,22.4,0.042,77,Moderate,2022,12
+2022-12-12,Sonoma,Petaluma,27.3,0.034,106,Unhealthy for Sensitive Groups,2022,12
+2022-12-12,Monterey,Salinas,25.7,0.053,97,Moderate,2022,12
+2022-12-12,Napa,Napa,18.3,0.026,61,Moderate,2022,12
+2022-12-12,Kern,Bakersfield,23.5,0.04,131,Unhealthy for Sensitive Groups,2022,12
+2022-12-13,Alameda,Fremont,26.9,0.04,95,Moderate,2022,12
+2022-12-17,San Bernardino,Ontario,41.1,0.023,162,Unhealthy,2022,12
+2022-12-19,Napa,Napa,18.2,0.027,75,Moderate,2022,12
+2022-12-20,Los Angeles,Long Beach,24.8,0.04,116,Unhealthy for Sensitive Groups,2022,12
+2022-12-20,Los Angeles,Los Angeles,22.3,0.037,108,Unhealthy for Sensitive Groups,2022,12
+2022-12-21,Monterey,Salinas,40.1,0.021,124,Unhealthy for Sensitive Groups,2022,12
+2022-12-22,San Francisco,San Francisco,32.0,0.052,100,Moderate,2022,12
+2022-12-22,Riverside,Riverside,42.6,0.039,120,Unhealthy for Sensitive Groups,2022,12
+2022-12-23,Shasta,Redding,31.6,0.03,87,Moderate,2022,12
+2022-12-25,Riverside,Palm Springs,25.8,0.028,97,Moderate,2022,12
+2022-12-25,San Diego,San Diego,12.7,0.028,88,Moderate,2022,12
+2022-12-26,Sacramento,Elk Grove,41.1,0.038,113,Unhealthy for Sensitive Groups,2022,12
+2022-12-26,Kern,Ridgecrest,21.2,0.039,116,Unhealthy for Sensitive Groups,2022,12
+2022-12-28,Riverside,Riverside,18.3,0.046,91,Moderate,2022,12
+2022-12-30,Riverside,Palm Springs,31.8,0.052,103,Unhealthy for Sensitive Groups,2022,12
+2022-12-30,Fresno,Fresno,42.8,0.026,129,Unhealthy for Sensitive Groups,2022,12
+2022-12-31,Shasta,Redding,48.7,0.05,127,Unhealthy for Sensitive Groups,2022,12
+2023-01-01,Marin,Mill Valley,40.3,0.053,126,Unhealthy for Sensitive Groups,2023,1
+2023-01-02,Santa Clara,San Jose,24.8,0.047,95,Moderate,2023,1
+2023-01-02,Alameda,Fremont,8.5,0.049,57,Moderate,2023,1
+2023-01-02,Kern,Bakersfield,9.1,0.038,87,Moderate,2023,1
+2023-01-03,Napa,Napa,23.4,0.041,69,Moderate,2023,1
+2023-01-05,Kern,Ridgecrest,33.7,0.023,128,Unhealthy for Sensitive Groups,2023,1
+2023-01-07,Marin,Mill Valley,43.1,0.039,132,Unhealthy for Sensitive Groups,2023,1
+2023-01-07,Sacramento,Sacramento,23.3,0.036,91,Moderate,2023,1
+2023-01-09,Santa Clara,San Jose,43.5,0.044,114,Unhealthy for Sensitive Groups,2023,1
+2023-01-11,Santa Clara,Sunnyvale,42.0,0.021,126,Unhealthy for Sensitive Groups,2023,1
+2023-01-12,Los Angeles,Pasadena,47.3,0.054,150,Unhealthy for Sensitive Groups,2023,1
+2023-01-12,Shasta,Redding,28.9,0.025,103,Unhealthy for Sensitive Groups,2023,1
+2023-01-14,San Francisco,San Francisco,15.9,0.025,69,Moderate,2023,1
+2023-01-15,Napa,Napa,46.7,0.021,128,Unhealthy for Sensitive Groups,2023,1
+2023-01-16,Santa Clara,Sunnyvale,29.9,0.022,100,Moderate,2023,1
+2023-01-16,San Bernardino,Ontario,40.8,0.027,137,Unhealthy for Sensitive Groups,2023,1
+2023-01-18,San Diego,San Diego,40.5,0.042,97,Moderate,2023,1
+2023-01-20,San Francisco,Daly City,50.4,0.043,108,Unhealthy for Sensitive Groups,2023,1
+2023-01-21,Riverside,Riverside,15.3,0.036,92,Moderate,2023,1
+2023-01-23,Los Angeles,Long Beach,23.9,0.042,129,Unhealthy for Sensitive Groups,2023,1
+2023-01-23,Shasta,Redding,24.7,0.047,83,Moderate,2023,1
+2023-01-23,Santa Clara,Sunnyvale,40.1,0.047,94,Moderate,2023,1
+2023-01-24,Alameda,Fremont,8.8,0.047,70,Moderate,2023,1
+2023-01-27,Napa,Napa,25.6,0.034,103,Unhealthy for Sensitive Groups,2023,1
+2023-01-28,Shasta,Redding,10.5,0.047,78,Moderate,2023,1
+2023-01-30,Sacramento,Elk Grove,15.8,0.038,91,Moderate,2023,1
+2023-01-30,Kern,Ridgecrest,32.0,0.04,130,Unhealthy for Sensitive Groups,2023,1
+2023-01-30,Shasta,Redding,21.4,0.049,99,Moderate,2023,1
+2023-01-30,Santa Clara,Sunnyvale,31.4,0.039,111,Unhealthy for Sensitive Groups,2023,1
+2023-01-31,Santa Clara,San Jose,20.0,0.033,70,Moderate,2023,1
+2023-02-01,Fresno,Fresno,12.0,0.035,92,Moderate,2023,2
+2023-02-04,San Diego,San Diego,11.5,0.02,75,Moderate,2023,2
+2023-02-04,Shasta,Redding,23.1,0.03,93,Moderate,2023,2
+2023-02-04,San Bernardino,San Bernardino,15.5,0.04,117,Unhealthy for Sensitive Groups,2023,2
+2023-02-06,Shasta,Redding,45.7,0.045,124,Unhealthy for Sensitive Groups,2023,2
+2023-02-07,Kern,Ridgecrest,11.0,0.051,107,Unhealthy for Sensitive Groups,2023,2
+2023-02-08,Monterey,Salinas,41.4,0.029,128,Unhealthy for Sensitive Groups,2023,2
+2023-02-10,San Bernardino,San Bernardino,15.8,0.03,99,Moderate,2023,2
+2023-02-10,Alameda,Fremont,30.7,0.055,112,Unhealthy for Sensitive Groups,2023,2
+2023-02-10,Shasta,Redding,52.6,0.028,129,Unhealthy for Sensitive Groups,2023,2
+2023-02-10,San Bernardino,Ontario,29.2,0.02,137,Unhealthy for Sensitive Groups,2023,2
+2023-02-12,Sonoma,Petaluma,8.5,0.053,47,Good,2023,2
+2023-02-12,Santa Clara,San Jose,29.7,0.04,82,Moderate,2023,2
+2023-02-13,Napa,Napa,10.8,0.053,81,Moderate,2023,2
+2023-02-13,San Francisco,Daly City,26.7,0.031,87,Moderate,2023,2
+2023-02-13,Santa Clara,San Jose,44.4,0.037,99,Moderate,2023,2
+2023-02-15,Riverside,Riverside,19.7,0.05,88,Moderate,2023,2
+2023-02-20,Los Angeles,Pasadena,46.6,0.033,152,Unhealthy,2023,2
+2023-02-21,Alameda,Berkeley,45.9,0.027,138,Unhealthy for Sensitive Groups,2023,2
+2023-02-22,Santa Clara,San Jose,44.8,0.041,101,Unhealthy for Sensitive Groups,2023,2
+2023-02-23,Napa,Napa,46.7,0.054,100,Moderate,2023,2
+2023-02-23,Kern,Ridgecrest,38.3,0.043,127,Unhealthy for Sensitive Groups,2023,2
+2023-02-25,Shasta,Redding,27.4,0.035,104,Unhealthy for Sensitive Groups,2023,2
+2023-02-25,Napa,Napa,30.6,0.04,101,Unhealthy for Sensitive Groups,2023,2
+2023-02-27,Sacramento,Sacramento,54.2,0.044,136,Unhealthy for Sensitive Groups,2023,2
+2023-02-27,Sonoma,Petaluma,49.9,0.04,141,Unhealthy for Sensitive Groups,2023,2
+2023-02-28,Fresno,Fresno,19.3,0.049,117,Unhealthy for Sensitive Groups,2023,2
+2023-02-28,Alameda,Oakland,17.4,0.055,67,Moderate,2023,2
+2023-03-01,Riverside,Riverside,52.5,0.036,124,Unhealthy for Sensitive Groups,2023,3
+2023-03-02,Fresno,Clovis,25.2,0.03,127,Unhealthy for Sensitive Groups,2023,3
+2023-03-03,Marin,Mill Valley,42.1,0.031,127,Unhealthy for Sensitive Groups,2023,3
+2023-03-04,Monterey,Salinas,53.9,0.054,143,Unhealthy for Sensitive Groups,2023,3
+2023-03-05,San Bernardino,Ontario,40.0,0.026,136,Unhealthy for Sensitive Groups,2023,3
+2023-03-05,Fresno,Clovis,42.2,0.022,140,Unhealthy for Sensitive Groups,2023,3
+2023-03-07,Santa Clara,Sunnyvale,45.0,0.039,112,Unhealthy for Sensitive Groups,2023,3
+2023-03-07,Alameda,Oakland,13.5,0.045,77,Moderate,2023,3
+2023-03-07,Santa Clara,San Jose,24.6,0.051,70,Moderate,2023,3
+2023-03-08,Napa,Napa,39.7,0.027,128,Unhealthy for Sensitive Groups,2023,3
+2023-03-09,San Diego,Chula Vista,9.5,0.041,68,Moderate,2023,3
+2023-03-11,San Francisco,Daly City,51.1,0.046,126,Unhealthy for Sensitive Groups,2023,3
+2023-03-11,Santa Clara,Santa Clara,37.0,0.021,96,Moderate,2023,3
+2023-03-11,Riverside,Riverside,39.7,0.043,123,Unhealthy for Sensitive Groups,2023,3
+2023-03-11,Marin,Mill Valley,31.5,0.026,89,Moderate,2023,3
+2023-03-11,San Francisco,San Francisco,47.1,0.035,111,Unhealthy for Sensitive Groups,2023,3
+2023-03-12,Alameda,Berkeley,50.0,0.055,114,Unhealthy for Sensitive Groups,2023,3
+2023-03-13,San Diego,San Diego,37.4,0.026,121,Unhealthy for Sensitive Groups,2023,3
+2023-03-13,San Diego,San Diego,32.5,0.046,110,Unhealthy for Sensitive Groups,2023,3
+2023-03-14,Alameda,Fremont,54.3,0.036,129,Unhealthy for Sensitive Groups,2023,3
+2023-03-14,Alameda,Berkeley,26.3,0.04,100,Moderate,2023,3
+2023-03-15,Monterey,Monterey,36.5,0.027,91,Moderate,2023,3
+2023-03-15,San Diego,San Diego,42.5,0.053,126,Unhealthy for Sensitive Groups,2023,3
+2023-03-16,Marin,San Rafael,25.5,0.038,71,Moderate,2023,3
+2023-03-16,Santa Clara,Sunnyvale,15.4,0.049,69,Moderate,2023,3
+2023-03-17,San Diego,Chula Vista,24.9,0.03,85,Moderate,2023,3
+2023-03-17,Alameda,Fremont,48.7,0.039,141,Unhealthy for Sensitive Groups,2023,3
+2023-03-19,Riverside,Riverside,10.4,0.055,84,Moderate,2023,3
+2023-03-19,Sonoma,Santa Rosa,25.3,0.05,91,Moderate,2023,3
+2023-03-20,Fresno,Fresno,39.8,0.033,149,Unhealthy for Sensitive Groups,2023,3
+2023-03-20,Los Angeles,Long Beach,26.9,0.028,110,Unhealthy for Sensitive Groups,2023,3
+2023-03-21,San Francisco,San Francisco,21.4,0.037,83,Moderate,2023,3
+2023-03-21,Sacramento,Elk Grove,19.5,0.022,98,Moderate,2023,3
+2023-03-22,Shasta,Redding,8.2,0.045,73,Moderate,2023,3
+2023-03-23,Kern,Bakersfield,26.0,0.027,144,Unhealthy for Sensitive Groups,2023,3
+2023-03-23,Riverside,Palm Springs,8.2,0.026,74,Moderate,2023,3
+2023-03-23,Los Angeles,Los Angeles,17.7,0.026,126,Unhealthy for Sensitive Groups,2023,3
+2023-03-24,San Francisco,San Francisco,10.7,0.046,81,Moderate,2023,3
+2023-03-25,Napa,Napa,47.8,0.048,123,Unhealthy for Sensitive Groups,2023,3
+2023-03-25,Riverside,Palm Springs,9.8,0.023,73,Moderate,2023,3
+2023-03-26,Napa,Napa,43.9,0.037,100,Moderate,2023,3
+2023-03-26,Santa Clara,San Jose,9.0,0.021,79,Moderate,2023,3
+2023-03-27,Riverside,Riverside,31.1,0.031,98,Moderate,2023,3
+2023-03-28,Los Angeles,Los Angeles,40.2,0.048,147,Unhealthy for Sensitive Groups,2023,3
+2023-03-28,Riverside,Riverside,14.5,0.044,69,Moderate,2023,3
+2023-03-29,Kern,Bakersfield,53.6,0.05,150,Unhealthy for Sensitive Groups,2023,3
+2023-04-02,Marin,Mill Valley,24.3,0.026,98,Moderate,2023,4
+2023-04-07,Alameda,Fremont,17.1,0.047,84,Moderate,2023,4
+2023-04-09,Alameda,Berkeley,8.0,0.051,72,Moderate,2023,4
+2023-04-10,Sonoma,Petaluma,26.8,0.028,78,Moderate,2023,4
+2023-04-10,Los Angeles,Pasadena,35.3,0.042,147,Unhealthy for Sensitive Groups,2023,4
+2023-04-10,Alameda,Oakland,9.9,0.038,65,Moderate,2023,4
+2023-04-10,Santa Clara,San Jose,45.3,0.041,107,Unhealthy for Sensitive Groups,2023,4
+2023-04-11,Marin,Mill Valley,31.4,0.035,105,Unhealthy for Sensitive Groups,2023,4
+2023-04-12,Fresno,Clovis,12.8,0.038,107,Unhealthy for Sensitive Groups,2023,4
+2023-04-14,Alameda,Berkeley,21.8,0.05,92,Moderate,2023,4
+2023-04-14,Alameda,Oakland,19.0,0.037,64,Moderate,2023,4
+2023-04-15,San Francisco,San Francisco,18.1,0.05,78,Moderate,2023,4
+2023-04-15,Santa Clara,Santa Clara,53.8,0.023,122,Unhealthy for Sensitive Groups,2023,4
+2023-04-15,San Bernardino,Ontario,22.5,0.034,103,Unhealthy for Sensitive Groups,2023,4
+2023-04-18,Riverside,Palm Springs,17.0,0.024,93,Moderate,2023,4
+2023-04-18,Sacramento,Elk Grove,17.5,0.045,85,Moderate,2023,4
+2023-04-20,Sacramento,Elk Grove,46.6,0.037,132,Unhealthy for Sensitive Groups,2023,4
+2023-04-21,San Diego,Chula Vista,21.1,0.05,71,Moderate,2023,4
+2023-04-22,Napa,Napa,42.3,0.032,120,Unhealthy for Sensitive Groups,2023,4
+2023-04-24,San Francisco,Daly City,30.7,0.04,104,Unhealthy for Sensitive Groups,2023,4
+2023-04-26,Kern,Bakersfield,24.9,0.024,141,Unhealthy for Sensitive Groups,2023,4
+2023-04-27,San Bernardino,San Bernardino,52.3,0.025,182,Unhealthy,2023,4
+2023-04-27,Sonoma,Santa Rosa,23.8,0.022,98,Moderate,2023,4
+2023-04-27,Sacramento,Sacramento,40.7,0.051,123,Unhealthy for Sensitive Groups,2023,4
+2023-04-28,Sonoma,Petaluma,35.2,0.035,102,Unhealthy for Sensitive Groups,2023,4
+2023-04-28,Napa,Napa,45.5,0.053,114,Unhealthy for Sensitive Groups,2023,4
+2023-04-29,Napa,Napa,16.2,0.022,71,Moderate,2023,4
+2023-04-29,Sonoma,Santa Rosa,45.1,0.027,133,Unhealthy for Sensitive Groups,2023,4
+2023-04-30,San Francisco,San Francisco,18.6,0.044,57,Moderate,2023,4
+2023-04-30,Monterey,Salinas,28.4,0.025,97,Moderate,2023,4
+2023-05-01,Sonoma,Petaluma,37.0,0.036,93,Moderate,2023,5
+2023-05-01,Riverside,Palm Springs,38.9,0.032,90,Moderate,2023,5
+2023-05-04,Marin,San Rafael,38.2,0.021,123,Unhealthy for Sensitive Groups,2023,5
+2023-05-06,Shasta,Redding,35.8,0.028,107,Unhealthy for Sensitive Groups,2023,5
+2023-05-07,San Francisco,Daly City,33.2,0.042,115,Unhealthy for Sensitive Groups,2023,5
+2023-05-07,Monterey,Salinas,26.3,0.034,76,Moderate,2023,5
+2023-05-08,Fresno,Clovis,49.5,0.043,169,Unhealthy,2023,5
+2023-05-11,Shasta,Redding,23.2,0.021,87,Moderate,2023,5
+2023-05-11,Riverside,Riverside,43.0,0.04,130,Unhealthy for Sensitive Groups,2023,5
+2023-05-13,Marin,San Rafael,18.1,0.049,69,Moderate,2023,5
+2023-05-13,Sonoma,Petaluma,40.5,0.05,126,Unhealthy for Sensitive Groups,2023,5
+2023-05-15,Napa,Napa,25.7,0.032,80,Moderate,2023,5
+2023-05-18,Sacramento,Elk Grove,40.9,0.046,110,Unhealthy for Sensitive Groups,2023,5
+2023-05-20,Los Angeles,Pasadena,31.0,0.027,115,Unhealthy for Sensitive Groups,2023,5
+2023-05-21,Sonoma,Petaluma,19.8,0.023,95,Moderate,2023,5
+2023-05-21,Sonoma,Santa Rosa,16.2,0.041,63,Moderate,2023,5
+2023-05-21,Santa Clara,San Jose,19.6,0.029,93,Moderate,2023,5
+2023-05-21,Santa Clara,Sunnyvale,46.9,0.043,133,Unhealthy for Sensitive Groups,2023,5
+2023-05-23,Fresno,Clovis,38.3,0.027,135,Unhealthy for Sensitive Groups,2023,5
+2023-05-23,Shasta,Redding,15.1,0.035,73,Moderate,2023,5
+2023-05-24,Kern,Bakersfield,15.2,0.036,110,Unhealthy for Sensitive Groups,2023,5
+2023-05-24,Sonoma,Petaluma,38.3,0.029,115,Unhealthy for Sensitive Groups,2023,5
+2023-05-25,Los Angeles,Pasadena,9.6,0.046,82,Moderate,2023,5
+2023-05-26,Riverside,Riverside,50.0,0.025,144,Unhealthy for Sensitive Groups,2023,5
+2023-05-26,Riverside,Palm Springs,52.1,0.054,146,Unhealthy for Sensitive Groups,2023,5
+2023-05-26,Santa Clara,Santa Clara,30.6,0.032,105,Unhealthy for Sensitive Groups,2023,5
+2023-05-28,Monterey,Monterey,49.8,0.025,110,Unhealthy for Sensitive Groups,2023,5
+2023-05-28,Monterey,Monterey,29.1,0.026,106,Unhealthy for Sensitive Groups,2023,5
+2023-05-30,Napa,Napa,49.5,0.028,141,Unhealthy for Sensitive Groups,2023,5
+2023-05-30,Napa,Napa,49.0,0.038,114,Unhealthy for Sensitive Groups,2023,5
+2023-06-01,Sonoma,Santa Rosa,24.0,0.067,81,Moderate,2023,6
+2023-06-01,Kern,Bakersfield,32.9,0.081,131,Unhealthy for Sensitive Groups,2023,6
+2023-06-03,Kern,Ridgecrest,11.6,0.043,111,Unhealthy for Sensitive Groups,2023,6
+2023-06-04,San Diego,San Diego,23.2,0.088,100,Moderate,2023,6
+2023-06-05,Sacramento,Elk Grove,24.8,0.075,103,Unhealthy for Sensitive Groups,2023,6
+2023-06-06,Sonoma,Petaluma,34.5,0.08,114,Unhealthy for Sensitive Groups,2023,6
+2023-06-06,Kern,Bakersfield,34.6,0.06,124,Unhealthy for Sensitive Groups,2023,6
+2023-06-07,Napa,Napa,31.5,0.043,102,Unhealthy for Sensitive Groups,2023,6
+2023-06-08,Napa,Napa,29.5,0.085,101,Unhealthy for Sensitive Groups,2023,6
+2023-06-08,Santa Clara,Santa Clara,22.1,0.082,67,Moderate,2023,6
+2023-06-09,Monterey,Salinas,6.6,0.057,39,Good,2023,6
+2023-06-10,Alameda,Fremont,31.8,0.075,104,Unhealthy for Sensitive Groups,2023,6
+2023-06-12,Alameda,Oakland,21.9,0.066,102,Unhealthy for Sensitive Groups,2023,6
+2023-06-14,Marin,Mill Valley,17.2,0.088,57,Moderate,2023,6
+2023-06-14,Sacramento,Sacramento,27.2,0.052,73,Moderate,2023,6
+2023-06-14,Alameda,Oakland,18.8,0.055,64,Moderate,2023,6
+2023-06-15,Monterey,Salinas,29.2,0.067,103,Unhealthy for Sensitive Groups,2023,6
+2023-06-15,Fresno,Fresno,13.4,0.083,85,Moderate,2023,6
+2023-06-16,Riverside,Palm Springs,24.8,0.075,76,Moderate,2023,6
+2023-06-16,Sacramento,Elk Grove,29.6,0.08,113,Unhealthy for Sensitive Groups,2023,6
+2023-06-16,Sacramento,Elk Grove,15.7,0.057,65,Moderate,2023,6
+2023-06-17,Los Angeles,Pasadena,13.0,0.068,98,Moderate,2023,6
+2023-06-18,Marin,San Rafael,7.1,0.072,58,Moderate,2023,6
+2023-06-19,Napa,Napa,24.2,0.065,106,Unhealthy for Sensitive Groups,2023,6
+2023-06-19,Monterey,Salinas,18.6,0.075,88,Moderate,2023,6
+2023-06-19,Los Angeles,Long Beach,17.9,0.053,96,Moderate,2023,6
+2023-06-19,Sacramento,Sacramento,26.2,0.086,74,Moderate,2023,6
+2023-06-19,Marin,Mill Valley,8.1,0.051,42,Good,2023,6
+2023-06-21,San Francisco,San Francisco,15.9,0.078,87,Moderate,2023,6
+2023-06-22,San Diego,San Diego,7.5,0.073,77,Moderate,2023,6
+2023-06-22,Alameda,Berkeley,6.6,0.058,39,Good,2023,6
+2023-06-22,Los Angeles,Pasadena,23.5,0.072,131,Unhealthy for Sensitive Groups,2023,6
+2023-06-22,San Francisco,Daly City,7.1,0.05,71,Moderate,2023,6
+2023-06-23,San Francisco,Daly City,25.5,0.065,105,Unhealthy for Sensitive Groups,2023,6
+2023-06-24,Napa,Napa,31.4,0.077,80,Moderate,2023,6
+2023-06-25,Napa,Napa,27.5,0.086,86,Moderate,2023,6
+2023-06-30,Marin,San Rafael,24.8,0.053,88,Moderate,2023,6
+2023-07-02,San Diego,San Diego,26.4,0.074,77,Moderate,2023,7
+2023-07-03,Santa Clara,Sunnyvale,20.5,0.074,95,Moderate,2023,7
+2023-07-05,Napa,Napa,11.3,0.073,56,Moderate,2023,7
+2023-07-05,Los Angeles,Long Beach,14.2,0.075,100,Moderate,2023,7
+2023-07-06,Shasta,Redding,25.4,0.068,71,Moderate,2023,7
+2023-07-06,Los Angeles,Los Angeles,28.5,0.063,114,Unhealthy for Sensitive Groups,2023,7
+2023-07-06,Fresno,Fresno,23.8,0.041,127,Unhealthy for Sensitive Groups,2023,7
+2023-07-07,Napa,Napa,7.0,0.074,53,Moderate,2023,7
+2023-07-07,Sacramento,Elk Grove,18.9,0.072,98,Moderate,2023,7
+2023-07-09,Monterey,Monterey,24.4,0.055,94,Moderate,2023,7
+2023-07-09,Kern,Ridgecrest,17.4,0.063,131,Unhealthy for Sensitive Groups,2023,7
+2023-07-09,Sacramento,Sacramento,26.1,0.083,105,Unhealthy for Sensitive Groups,2023,7
+2023-07-10,Santa Clara,Sunnyvale,25.6,0.089,75,Moderate,2023,7
+2023-07-13,San Diego,Chula Vista,10.5,0.072,72,Moderate,2023,7
+2023-07-13,San Diego,San Diego,28.9,0.084,105,Unhealthy for Sensitive Groups,2023,7
+2023-07-15,Shasta,Redding,25.7,0.064,108,Unhealthy for Sensitive Groups,2023,7
+2023-07-15,Sacramento,Elk Grove,17.8,0.042,77,Moderate,2023,7
+2023-07-16,Kern,Ridgecrest,27.5,0.084,133,Unhealthy for Sensitive Groups,2023,7
+2023-07-16,Marin,Mill Valley,29.9,0.065,98,Moderate,2023,7
+2023-07-17,Sonoma,Petaluma,10.5,0.047,74,Moderate,2023,7
+2023-07-17,Shasta,Redding,34.4,0.08,114,Unhealthy for Sensitive Groups,2023,7
+2023-07-17,San Bernardino,San Bernardino,22.3,0.06,138,Unhealthy for Sensitive Groups,2023,7
+2023-07-21,Sacramento,Elk Grove,17.9,0.061,86,Moderate,2023,7
+2023-07-21,Los Angeles,Long Beach,12.0,0.084,100,Moderate,2023,7
+2023-07-21,Santa Clara,Sunnyvale,32.2,0.08,89,Moderate,2023,7
+2023-07-22,Sonoma,Santa Rosa,28.3,0.059,91,Moderate,2023,7
+2023-07-23,Sacramento,Elk Grove,6.7,0.063,53,Moderate,2023,7
+2023-07-23,Marin,San Rafael,18.5,0.088,63,Moderate,2023,7
+2023-07-24,Sacramento,Elk Grove,29.4,0.088,104,Unhealthy for Sensitive Groups,2023,7
+2023-07-24,Sonoma,Petaluma,24.9,0.058,71,Moderate,2023,7
+2023-07-24,Shasta,Redding,12.8,0.078,77,Moderate,2023,7
+2023-07-24,San Bernardino,Ontario,25.7,0.075,127,Unhealthy for Sensitive Groups,2023,7
+2023-07-26,San Bernardino,Ontario,30.2,0.084,131,Unhealthy for Sensitive Groups,2023,7
+2023-07-26,Sacramento,Elk Grove,5.2,0.045,46,Good,2023,7
+2023-07-26,Kern,Ridgecrest,12.3,0.042,122,Unhealthy for Sensitive Groups,2023,7
+2023-07-28,Shasta,Redding,18.4,0.046,90,Moderate,2023,7
+2023-07-29,San Francisco,San Francisco,29.6,0.044,110,Unhealthy for Sensitive Groups,2023,7
+2023-07-30,Monterey,Monterey,12.0,0.045,69,Moderate,2023,7
+2023-08-02,Los Angeles,Pasadena,34.2,0.075,131,Unhealthy for Sensitive Groups,2023,8
+2023-08-06,San Francisco,San Francisco,28.1,0.053,85,Moderate,2023,8
+2023-08-06,Fresno,Clovis,21.3,0.065,104,Unhealthy for Sensitive Groups,2023,8
+2023-08-07,San Francisco,San Francisco,24.2,0.089,69,Moderate,2023,8
+2023-08-07,San Bernardino,Ontario,33.7,0.064,140,Unhealthy for Sensitive Groups,2023,8
+2023-08-08,Fresno,Fresno,34.4,0.089,129,Unhealthy for Sensitive Groups,2023,8
+2023-08-09,Santa Clara,San Jose,31.5,0.066,117,Unhealthy for Sensitive Groups,2023,8
+2023-08-10,Fresno,Clovis,33.9,0.043,145,Unhealthy for Sensitive Groups,2023,8
+2023-08-10,San Bernardino,Ontario,28.7,0.081,141,Unhealthy for Sensitive Groups,2023,8
+2023-08-15,Napa,Napa,9.1,0.048,72,Moderate,2023,8
+2023-08-15,Sonoma,Petaluma,7.7,0.048,42,Good,2023,8
+2023-08-18,Marin,San Rafael,11.8,0.05,73,Moderate,2023,8
+2023-08-18,Riverside,Riverside,10.2,0.08,59,Moderate,2023,8
+2023-08-18,San Bernardino,Ontario,26.2,0.064,122,Unhealthy for Sensitive Groups,2023,8
+2023-08-19,Riverside,Riverside,25.6,0.048,99,Moderate,2023,8
+2023-08-20,Sonoma,Petaluma,12.7,0.049,70,Moderate,2023,8
+2023-08-20,San Bernardino,Ontario,29.4,0.078,123,Unhealthy for Sensitive Groups,2023,8
+2023-08-21,San Diego,Chula Vista,9.4,0.052,84,Moderate,2023,8
+2023-08-22,Shasta,Redding,17.2,0.047,57,Moderate,2023,8
+2023-08-23,Santa Clara,Santa Clara,16.2,0.085,82,Moderate,2023,8
+2023-08-23,Santa Clara,Sunnyvale,13.4,0.088,51,Moderate,2023,8
+2023-08-23,Alameda,Fremont,7.1,0.055,69,Moderate,2023,8
+2023-08-28,Shasta,Redding,22.2,0.067,65,Moderate,2023,8
+2023-08-29,Santa Clara,Santa Clara,27.0,0.08,80,Moderate,2023,8
+2023-08-30,Marin,Mill Valley,34.2,0.04,111,Unhealthy for Sensitive Groups,2023,8
+2023-08-31,Sacramento,Elk Grove,16.4,0.069,58,Moderate,2023,8
+2023-09-01,Fresno,Clovis,28.3,0.058,121,Unhealthy for Sensitive Groups,2023,9
+2023-09-01,San Francisco,Daly City,12.7,0.071,87,Moderate,2023,9
+2023-09-04,Los Angeles,Los Angeles,19.7,0.084,99,Moderate,2023,9
+2023-09-06,Los Angeles,Pasadena,31.8,0.051,150,Unhealthy for Sensitive Groups,2023,9
+2023-09-06,Sacramento,Elk Grove,27.9,0.072,82,Moderate,2023,9
+2023-09-07,Shasta,Redding,9.1,0.076,76,Moderate,2023,9
+2023-09-08,Sonoma,Santa Rosa,8.8,0.059,60,Moderate,2023,9
+2023-09-08,Los Angeles,Pasadena,34.4,0.079,153,Unhealthy,2023,9
+2023-09-10,Napa,Napa,21.5,0.072,64,Moderate,2023,9
+2023-09-10,Napa,Napa,31.9,0.049,115,Unhealthy for Sensitive Groups,2023,9
+2023-09-11,San Francisco,San Francisco,17.9,0.061,85,Moderate,2023,9
+2023-09-11,Riverside,Palm Springs,10.5,0.068,70,Moderate,2023,9
+2023-09-12,Kern,Ridgecrest,19.6,0.04,129,Unhealthy for Sensitive Groups,2023,9
+2023-09-12,San Francisco,Daly City,8.9,0.07,43,Good,2023,9
+2023-09-12,San Bernardino,San Bernardino,24.4,0.083,105,Unhealthy for Sensitive Groups,2023,9
+2023-09-14,San Bernardino,Ontario,10.6,0.089,100,Moderate,2023,9
+2023-09-15,San Francisco,Daly City,13.9,0.062,77,Moderate,2023,9
+2023-09-15,Riverside,Palm Springs,13.0,0.072,73,Moderate,2023,9
+2023-09-15,Napa,Napa,9.5,0.067,68,Moderate,2023,9
+2023-09-15,San Francisco,San Francisco,27.5,0.078,100,Moderate,2023,9
+2023-09-15,Riverside,Riverside,33.9,0.077,109,Unhealthy for Sensitive Groups,2023,9
+2023-09-16,San Bernardino,Ontario,16.1,0.065,110,Unhealthy for Sensitive Groups,2023,9
+2023-09-16,Alameda,Oakland,12.3,0.052,67,Moderate,2023,9
+2023-09-16,San Diego,Chula Vista,19.7,0.054,89,Moderate,2023,9
+2023-09-17,Marin,San Rafael,15.1,0.078,60,Moderate,2023,9
+2023-09-17,San Francisco,Daly City,26.8,0.064,94,Moderate,2023,9
+2023-09-17,San Diego,Chula Vista,19.9,0.065,93,Moderate,2023,9
+2023-09-18,Los Angeles,Long Beach,33.9,0.052,131,Unhealthy for Sensitive Groups,2023,9
+2023-09-18,Fresno,Fresno,34.5,0.057,145,Unhealthy for Sensitive Groups,2023,9
+2023-09-19,Monterey,Salinas,30.6,0.073,81,Moderate,2023,9
+2023-09-20,Kern,Ridgecrest,30.4,0.076,129,Unhealthy for Sensitive Groups,2023,9
+2023-09-20,San Diego,San Diego,15.0,0.058,65,Moderate,2023,9
+2023-09-24,Shasta,Redding,9.1,0.067,74,Moderate,2023,9
+2023-09-27,San Bernardino,Ontario,17.3,0.06,108,Unhealthy for Sensitive Groups,2023,9
+2023-09-27,Alameda,Berkeley,23.1,0.06,95,Moderate,2023,9
+2023-09-27,San Bernardino,Ontario,32.5,0.075,126,Unhealthy for Sensitive Groups,2023,9
+2023-09-29,Sacramento,Elk Grove,20.9,0.068,81,Moderate,2023,9
+2023-10-01,Santa Clara,Sunnyvale,39.9,0.034,99,Moderate,2023,10
+2023-10-02,Los Angeles,Long Beach,22.3,0.045,134,Unhealthy for Sensitive Groups,2023,10
+2023-10-03,Sonoma,Santa Rosa,49.0,0.038,142,Unhealthy for Sensitive Groups,2023,10
+2023-10-06,Alameda,Fremont,25.9,0.038,94,Moderate,2023,10
+2023-10-06,San Francisco,San Francisco,45.6,0.05,133,Unhealthy for Sensitive Groups,2023,10
+2023-10-07,Monterey,Salinas,24.8,0.031,77,Moderate,2023,10
+2023-10-07,Shasta,Redding,38.9,0.023,96,Moderate,2023,10
+2023-10-08,Shasta,Redding,14.3,0.024,70,Moderate,2023,10
+2023-10-09,San Francisco,San Francisco,22.6,0.048,72,Moderate,2023,10
+2023-10-10,Fresno,Clovis,19.4,0.052,120,Unhealthy for Sensitive Groups,2023,10
+2023-10-11,Marin,San Rafael,38.7,0.043,91,Moderate,2023,10
+2023-10-12,Kern,Bakersfield,9.7,0.028,79,Moderate,2023,10
+2023-10-12,Sacramento,Sacramento,31.1,0.024,104,Unhealthy for Sensitive Groups,2023,10
+2023-10-14,San Francisco,San Francisco,48.5,0.034,138,Unhealthy for Sensitive Groups,2023,10
+2023-10-15,Riverside,Palm Springs,18.0,0.037,67,Moderate,2023,10
+2023-10-17,Sonoma,Santa Rosa,42.8,0.039,131,Unhealthy for Sensitive Groups,2023,10
+2023-10-18,Monterey,Monterey,45.6,0.053,113,Unhealthy for Sensitive Groups,2023,10
+2023-10-18,Napa,Napa,41.0,0.048,117,Unhealthy for Sensitive Groups,2023,10
+2023-10-18,San Francisco,Daly City,39.6,0.023,121,Unhealthy for Sensitive Groups,2023,10
+2023-10-18,San Diego,Chula Vista,12.4,0.032,66,Moderate,2023,10
+2023-10-20,Alameda,Fremont,53.5,0.039,148,Unhealthy for Sensitive Groups,2023,10
+2023-10-22,Napa,Napa,36.1,0.048,105,Unhealthy for Sensitive Groups,2023,10
+2023-10-23,Santa Clara,Santa Clara,23.4,0.031,104,Unhealthy for Sensitive Groups,2023,10
+2023-10-23,Santa Clara,Sunnyvale,47.6,0.052,107,Unhealthy for Sensitive Groups,2023,10
+2023-10-23,Kern,Bakersfield,28.0,0.051,126,Unhealthy for Sensitive Groups,2023,10
+2023-10-24,Sonoma,Santa Rosa,50.3,0.043,119,Unhealthy for Sensitive Groups,2023,10
+2023-10-24,Alameda,Oakland,39.4,0.028,95,Moderate,2023,10
+2023-10-28,Monterey,Monterey,49.6,0.046,125,Unhealthy for Sensitive Groups,2023,10
+2023-10-28,Alameda,Berkeley,49.8,0.055,119,Unhealthy for Sensitive Groups,2023,10
+2023-10-29,San Diego,San Diego,49.6,0.033,111,Unhealthy for Sensitive Groups,2023,10
+2023-10-29,Kern,Ridgecrest,43.5,0.031,150,Unhealthy for Sensitive Groups,2023,10
+2023-10-30,Santa Clara,San Jose,53.3,0.051,117,Unhealthy for Sensitive Groups,2023,10
+2023-10-30,Monterey,Monterey,33.9,0.05,101,Unhealthy for Sensitive Groups,2023,10
+2023-10-31,San Diego,Chula Vista,41.2,0.037,100,Moderate,2023,10
+2023-11-02,Los Angeles,Long Beach,24.5,0.042,116,Unhealthy for Sensitive Groups,2023,11
+2023-11-02,Alameda,Oakland,35.1,0.025,95,Moderate,2023,11
+2023-11-04,Kern,Bakersfield,25.9,0.025,122,Unhealthy for Sensitive Groups,2023,11
+2023-11-09,Riverside,Riverside,51.3,0.053,136,Unhealthy for Sensitive Groups,2023,11
+2023-11-09,Marin,Mill Valley,23.3,0.036,79,Moderate,2023,11
+2023-11-09,Sacramento,Elk Grove,38.3,0.021,104,Unhealthy for Sensitive Groups,2023,11
+2023-11-09,Kern,Bakersfield,12.7,0.049,99,Moderate,2023,11
+2023-11-10,Napa,Napa,36.0,0.033,89,Moderate,2023,11
+2023-11-10,Marin,San Rafael,18.6,0.024,65,Moderate,2023,11
+2023-11-10,Kern,Bakersfield,11.1,0.031,102,Unhealthy for Sensitive Groups,2023,11
+2023-11-12,Riverside,Palm Springs,8.4,0.044,66,Moderate,2023,11
+2023-11-13,Fresno,Clovis,48.0,0.048,147,Unhealthy for Sensitive Groups,2023,11
+2023-11-14,Shasta,Redding,13.5,0.052,68,Moderate,2023,11
+2023-11-15,San Francisco,Daly City,11.8,0.046,80,Moderate,2023,11
+2023-11-15,San Francisco,Daly City,23.6,0.021,92,Moderate,2023,11
+2023-11-15,San Francisco,Daly City,43.9,0.024,96,Moderate,2023,11
+2023-11-18,Sonoma,Petaluma,14.0,0.025,68,Moderate,2023,11
+2023-11-19,Alameda,Fremont,26.7,0.023,91,Moderate,2023,11
+2023-11-20,Napa,Napa,39.2,0.052,112,Unhealthy for Sensitive Groups,2023,11
+2023-11-20,Marin,San Rafael,39.9,0.042,124,Unhealthy for Sensitive Groups,2023,11
+2023-11-21,Alameda,Berkeley,31.3,0.043,101,Unhealthy for Sensitive Groups,2023,11
+2023-11-22,San Diego,Chula Vista,15.2,0.027,78,Moderate,2023,11
+2023-11-22,Riverside,Riverside,22.1,0.021,83,Moderate,2023,11
+2023-11-22,Fresno,Clovis,28.8,0.033,138,Unhealthy for Sensitive Groups,2023,11
+2023-11-23,Marin,San Rafael,18.0,0.037,67,Moderate,2023,11
+2023-11-24,Riverside,Riverside,40.8,0.021,128,Unhealthy for Sensitive Groups,2023,11
+2023-11-25,Santa Clara,Santa Clara,8.9,0.051,79,Moderate,2023,11
+2023-11-25,Shasta,Redding,16.7,0.03,59,Moderate,2023,11
+2023-11-26,San Francisco,San Francisco,42.1,0.054,103,Unhealthy for Sensitive Groups,2023,11
+2023-11-27,Fresno,Clovis,53.0,0.055,179,Unhealthy,2023,11
+2023-11-27,Sacramento,Elk Grove,53.5,0.03,146,Unhealthy for Sensitive Groups,2023,11
+2023-11-27,Sonoma,Santa Rosa,28.5,0.052,108,Unhealthy for Sensitive Groups,2023,11
+2023-11-27,Santa Clara,Sunnyvale,54.2,0.037,118,Unhealthy for Sensitive Groups,2023,11
+2023-11-28,Riverside,Riverside,18.6,0.044,62,Moderate,2023,11
+2023-11-29,Marin,San Rafael,19.2,0.033,84,Moderate,2023,11
+2023-11-29,Kern,Ridgecrest,24.2,0.048,126,Unhealthy for Sensitive Groups,2023,11
+2023-11-29,Monterey,Monterey,39.3,0.025,126,Unhealthy for Sensitive Groups,2023,11
+2023-11-30,Napa,Napa,52.5,0.039,121,Unhealthy for Sensitive Groups,2023,11
+2023-12-03,San Bernardino,San Bernardino,31.5,0.055,138,Unhealthy for Sensitive Groups,2023,12
+2023-12-05,Kern,Bakersfield,27.0,0.043,139,Unhealthy for Sensitive Groups,2023,12
+2023-12-06,Sonoma,Santa Rosa,48.2,0.034,110,Unhealthy for Sensitive Groups,2023,12
+2023-12-07,Fresno,Fresno,48.7,0.029,158,Unhealthy,2023,12
+2023-12-07,Los Angeles,Los Angeles,38.5,0.021,162,Unhealthy,2023,12
+2023-12-07,Alameda,Oakland,13.0,0.04,79,Moderate,2023,12
+2023-12-08,San Bernardino,Ontario,13.0,0.051,115,Unhealthy for Sensitive Groups,2023,12
+2023-12-08,Monterey,Salinas,37.2,0.052,91,Moderate,2023,12
+2023-12-09,Sonoma,Petaluma,33.1,0.032,112,Unhealthy for Sensitive Groups,2023,12
+2023-12-10,Kern,Bakersfield,12.1,0.033,96,Moderate,2023,12
+2023-12-11,Shasta,Redding,40.9,0.053,127,Unhealthy for Sensitive Groups,2023,12
+2023-12-12,Fresno,Clovis,29.0,0.055,126,Unhealthy for Sensitive Groups,2023,12
+2023-12-12,Santa Clara,Santa Clara,44.9,0.034,120,Unhealthy for Sensitive Groups,2023,12
+2023-12-13,Kern,Bakersfield,11.3,0.043,99,Moderate,2023,12
+2023-12-14,Napa,Napa,21.5,0.045,67,Moderate,2023,12
+2023-12-15,Marin,Mill Valley,48.3,0.045,119,Unhealthy for Sensitive Groups,2023,12
+2023-12-15,Alameda,Oakland,49.5,0.029,112,Unhealthy for Sensitive Groups,2023,12
+2023-12-16,Marin,San Rafael,14.5,0.027,71,Moderate,2023,12
+2023-12-17,Marin,San Rafael,10.4,0.053,74,Moderate,2023,12
+2023-12-18,Sacramento,Sacramento,38.6,0.051,113,Unhealthy for Sensitive Groups,2023,12
+2023-12-18,Monterey,Salinas,29.5,0.035,96,Moderate,2023,12
+2023-12-19,Monterey,Salinas,15.2,0.026,85,Moderate,2023,12
+2023-12-21,Monterey,Monterey,53.0,0.023,147,Unhealthy for Sensitive Groups,2023,12
+2023-12-22,Fresno,Fresno,28.5,0.038,141,Unhealthy for Sensitive Groups,2023,12
+2023-12-23,San Diego,San Diego,43.0,0.02,127,Unhealthy for Sensitive Groups,2023,12
+2023-12-23,San Bernardino,Ontario,18.7,0.053,110,Unhealthy for Sensitive Groups,2023,12
+2023-12-24,Monterey,Monterey,15.4,0.039,88,Moderate,2023,12
+2023-12-24,Monterey,Salinas,11.1,0.039,65,Moderate,2023,12
+2023-12-27,San Bernardino,San Bernardino,47.8,0.05,154,Unhealthy,2023,12
+2023-12-28,Marin,San Rafael,41.3,0.045,102,Unhealthy for Sensitive Groups,2023,12
+2023-12-28,Sacramento,Elk Grove,44.8,0.025,121,Unhealthy for Sensitive Groups,2023,12
+2023-12-28,Marin,Mill Valley,42.6,0.039,106,Unhealthy for Sensitive Groups,2023,12
+2023-12-28,Monterey,Salinas,53.3,0.022,120,Unhealthy for Sensitive Groups,2023,12
+2023-12-28,San Francisco,San Francisco,28.0,0.034,77,Moderate,2023,12
+2023-12-29,Sacramento,Elk Grove,38.5,0.026,111,Unhealthy for Sensitive Groups,2023,12
+2023-12-29,Marin,San Rafael,31.6,0.034,111,Unhealthy for Sensitive Groups,2023,12
+2023-12-30,Fresno,Clovis,53.5,0.042,172,Unhealthy,2023,12
+2023-12-30,Riverside,Riverside,33.2,0.055,115,Unhealthy for Sensitive Groups,2023,12
+2023-12-31,Monterey,Monterey,26.0,0.035,107,Unhealthy for Sensitive Groups,2023,12
+2024-01-01,San Bernardino,San Bernardino,52.7,0.025,161,Unhealthy,2024,1
+2024-01-02,Monterey,Monterey,25.8,0.046,74,Moderate,2024,1
+2024-01-03,Sonoma,Santa Rosa,25.5,0.043,100,Moderate,2024,1
+2024-01-05,San Bernardino,Ontario,52.9,0.037,181,Unhealthy,2024,1
+2024-01-05,San Francisco,Daly City,9.4,0.053,64,Moderate,2024,1
+2024-01-06,San Francisco,Daly City,36.6,0.051,88,Moderate,2024,1
+2024-01-08,Monterey,Monterey,35.4,0.023,115,Unhealthy for Sensitive Groups,2024,1
+2024-01-08,Kern,Bakersfield,31.5,0.053,152,Unhealthy,2024,1
+2024-01-11,Shasta,Redding,18.9,0.028,67,Moderate,2024,1
+2024-01-12,Santa Clara,Santa Clara,42.8,0.024,128,Unhealthy for Sensitive Groups,2024,1
+2024-01-16,Napa,Napa,28.6,0.034,87,Moderate,2024,1
+2024-01-16,San Diego,Chula Vista,11.0,0.054,70,Moderate,2024,1
+2024-01-17,Kern,Bakersfield,10.4,0.037,113,Unhealthy for Sensitive Groups,2024,1
+2024-01-17,Fresno,Fresno,17.3,0.035,128,Unhealthy for Sensitive Groups,2024,1
+2024-01-18,Napa,Napa,30.9,0.051,103,Unhealthy for Sensitive Groups,2024,1
+2024-01-19,Riverside,Palm Springs,18.0,0.046,83,Moderate,2024,1
+2024-01-21,Fresno,Clovis,38.2,0.037,132,Unhealthy for Sensitive Groups,2024,1
+2024-01-21,Marin,Mill Valley,22.1,0.031,85,Moderate,2024,1
+2024-01-22,San Francisco,Daly City,40.4,0.053,108,Unhealthy for Sensitive Groups,2024,1
+2024-01-22,Alameda,Fremont,29.4,0.043,113,Unhealthy for Sensitive Groups,2024,1
+2024-01-22,Napa,Napa,15.9,0.035,59,Moderate,2024,1
+2024-01-23,Kern,Bakersfield,26.1,0.054,143,Unhealthy for Sensitive Groups,2024,1
+2024-01-24,Napa,Napa,50.4,0.052,120,Unhealthy for Sensitive Groups,2024,1
+2024-01-25,Sacramento,Sacramento,12.6,0.027,80,Moderate,2024,1
+2024-01-26,San Diego,Chula Vista,38.0,0.027,109,Unhealthy for Sensitive Groups,2024,1
+2024-01-27,San Diego,San Diego,44.7,0.048,113,Unhealthy for Sensitive Groups,2024,1
+2024-01-28,San Francisco,Daly City,45.2,0.038,107,Unhealthy for Sensitive Groups,2024,1
+2024-01-28,Sonoma,Petaluma,44.9,0.029,137,Unhealthy for Sensitive Groups,2024,1
+2024-01-29,Monterey,Monterey,29.7,0.045,102,Unhealthy for Sensitive Groups,2024,1
+2024-01-30,San Diego,San Diego,40.5,0.024,107,Unhealthy for Sensitive Groups,2024,1
+2024-02-03,Fresno,Fresno,29.6,0.024,133,Unhealthy for Sensitive Groups,2024,2
+2024-02-03,Fresno,Clovis,52.8,0.028,159,Unhealthy,2024,2
+2024-02-07,Sonoma,Petaluma,53.7,0.049,119,Unhealthy for Sensitive Groups,2024,2
+2024-02-10,Napa,Napa,17.1,0.044,77,Moderate,2024,2
+2024-02-10,Alameda,Fremont,35.0,0.05,92,Moderate,2024,2
+2024-02-11,San Diego,Chula Vista,49.7,0.023,108,Unhealthy for Sensitive Groups,2024,2
+2024-02-11,Sonoma,Petaluma,8.1,0.026,81,Moderate,2024,2
+2024-02-12,San Bernardino,San Bernardino,11.3,0.031,94,Moderate,2024,2
+2024-02-12,Monterey,Monterey,26.1,0.041,78,Moderate,2024,2
+2024-02-15,Shasta,Redding,19.6,0.037,82,Moderate,2024,2
+2024-02-16,Kern,Bakersfield,42.4,0.053,130,Unhealthy for Sensitive Groups,2024,2
+2024-02-18,Santa Clara,Sunnyvale,35.2,0.046,100,Moderate,2024,2
+2024-02-19,Santa Clara,San Jose,36.9,0.027,122,Unhealthy for Sensitive Groups,2024,2
+2024-02-19,Monterey,Salinas,52.1,0.04,121,Unhealthy for Sensitive Groups,2024,2
+2024-02-19,Santa Clara,Santa Clara,8.4,0.037,60,Moderate,2024,2
+2024-02-20,Fresno,Fresno,28.1,0.029,112,Unhealthy for Sensitive Groups,2024,2
+2024-02-21,San Diego,San Diego,30.8,0.045,109,Unhealthy for Sensitive Groups,2024,2
+2024-02-23,Sacramento,Sacramento,51.8,0.04,138,Unhealthy for Sensitive Groups,2024,2
+2024-02-25,Los Angeles,Los Angeles,10.5,0.039,90,Moderate,2024,2
+2024-02-25,Los Angeles,Los Angeles,39.1,0.026,134,Unhealthy for Sensitive Groups,2024,2
+2024-02-26,San Francisco,San Francisco,37.8,0.021,119,Unhealthy for Sensitive Groups,2024,2
+2024-02-26,Shasta,Redding,30.8,0.038,99,Moderate,2024,2
+2024-02-26,Monterey,Monterey,35.2,0.052,84,Moderate,2024,2
+2024-02-26,Kern,Bakersfield,45.2,0.044,167,Unhealthy,2024,2
+2024-02-29,Santa Clara,Santa Clara,42.2,0.051,99,Moderate,2024,2
+2024-02-29,San Francisco,San Francisco,38.4,0.034,119,Unhealthy for Sensitive Groups,2024,2
+2024-03-01,Alameda,Oakland,33.2,0.047,90,Moderate,2024,3
+2024-03-01,Santa Clara,Sunnyvale,11.2,0.053,59,Moderate,2024,3
+2024-03-03,Napa,Napa,11.3,0.053,70,Moderate,2024,3
+2024-03-04,Alameda,Oakland,49.0,0.035,124,Unhealthy for Sensitive Groups,2024,3
+2024-03-05,Los Angeles,Long Beach,30.2,0.052,134,Unhealthy for Sensitive Groups,2024,3
+2024-03-05,Shasta,Redding,13.2,0.021,78,Moderate,2024,3
+2024-03-06,Fresno,Clovis,46.3,0.044,151,Unhealthy,2024,3
+2024-03-07,Santa Clara,Sunnyvale,24.0,0.032,76,Moderate,2024,3
+2024-03-07,Los Angeles,Los Angeles,54.0,0.035,180,Unhealthy,2024,3
+2024-03-08,Fresno,Fresno,40.1,0.052,156,Unhealthy,2024,3
+2024-03-09,Monterey,Monterey,40.2,0.021,111,Unhealthy for Sensitive Groups,2024,3
+2024-03-10,Alameda,Berkeley,8.8,0.048,65,Moderate,2024,3
+2024-03-11,Kern,Bakersfield,22.7,0.022,129,Unhealthy for Sensitive Groups,2024,3
+2024-03-11,San Diego,San Diego,26.4,0.043,84,Moderate,2024,3
+2024-03-11,Napa,Napa,35.6,0.054,109,Unhealthy for Sensitive Groups,2024,3
+2024-03-11,Marin,Mill Valley,24.9,0.035,83,Moderate,2024,3
+2024-03-12,Riverside,Riverside,32.8,0.053,109,Unhealthy for Sensitive Groups,2024,3
+2024-03-13,Alameda,Fremont,29.8,0.036,79,Moderate,2024,3
+2024-03-15,San Francisco,Daly City,43.3,0.052,100,Moderate,2024,3
+2024-03-19,San Diego,Chula Vista,26.4,0.032,77,Moderate,2024,3
+2024-03-20,Riverside,Palm Springs,43.2,0.036,128,Unhealthy for Sensitive Groups,2024,3
+2024-03-20,Kern,Bakersfield,46.6,0.049,138,Unhealthy for Sensitive Groups,2024,3
+2024-03-20,Los Angeles,Los Angeles,40.7,0.023,148,Unhealthy for Sensitive Groups,2024,3
+2024-03-22,Fresno,Fresno,38.4,0.03,125,Unhealthy for Sensitive Groups,2024,3
+2024-03-24,San Bernardino,San Bernardino,48.6,0.022,169,Unhealthy,2024,3
+2024-03-25,Sacramento,Sacramento,37.0,0.044,102,Unhealthy for Sensitive Groups,2024,3
+2024-03-25,Fresno,Fresno,12.5,0.024,121,Unhealthy for Sensitive Groups,2024,3
+2024-03-25,Alameda,Fremont,27.5,0.042,86,Moderate,2024,3
+2024-03-27,Sonoma,Santa Rosa,43.9,0.04,100,Moderate,2024,3
+2024-03-28,Riverside,Riverside,53.3,0.031,112,Unhealthy for Sensitive Groups,2024,3
+2024-03-28,Monterey,Monterey,43.1,0.022,98,Moderate,2024,3
+2024-03-28,Fresno,Clovis,45.1,0.043,157,Unhealthy,2024,3
+2024-03-29,Napa,Napa,35.7,0.039,107,Unhealthy for Sensitive Groups,2024,3
+2024-03-29,San Francisco,San Francisco,38.6,0.024,106,Unhealthy for Sensitive Groups,2024,3
+2024-03-29,Kern,Bakersfield,50.8,0.027,153,Unhealthy,2024,3
+2024-03-30,Shasta,Redding,47.2,0.027,100,Moderate,2024,3
+2024-03-30,Monterey,Monterey,32.2,0.036,89,Moderate,2024,3
+2024-03-31,Napa,Napa,24.0,0.047,95,Moderate,2024,3
+2024-03-31,Napa,Napa,28.3,0.027,74,Moderate,2024,3
+2024-03-31,Santa Clara,Santa Clara,38.8,0.037,120,Unhealthy for Sensitive Groups,2024,3
+2024-04-02,Sonoma,Santa Rosa,21.2,0.052,83,Moderate,2024,4
+2024-04-02,San Diego,San Diego,40.1,0.029,130,Unhealthy for Sensitive Groups,2024,4
+2024-04-03,Sonoma,Santa Rosa,41.2,0.036,91,Moderate,2024,4
+2024-04-03,Santa Clara,San Jose,50.6,0.031,139,Unhealthy for Sensitive Groups,2024,4
+2024-04-05,Monterey,Salinas,10.4,0.029,53,Moderate,2024,4
+2024-04-06,Marin,Mill Valley,44.0,0.043,107,Unhealthy for Sensitive Groups,2024,4
+2024-04-06,Napa,Napa,52.4,0.045,117,Unhealthy for Sensitive Groups,2024,4
+2024-04-07,Riverside,Riverside,28.2,0.042,104,Unhealthy for Sensitive Groups,2024,4
+2024-04-08,Marin,San Rafael,47.6,0.034,110,Unhealthy for Sensitive Groups,2024,4
+2024-04-09,Napa,Napa,19.6,0.046,64,Moderate,2024,4
+2024-04-10,San Bernardino,Ontario,26.5,0.023,108,Unhealthy for Sensitive Groups,2024,4
+2024-04-11,Alameda,Fremont,33.5,0.036,100,Moderate,2024,4
+2024-04-11,Alameda,Berkeley,11.6,0.025,70,Moderate,2024,4
+2024-04-13,Sonoma,Petaluma,27.0,0.022,73,Moderate,2024,4
+2024-04-13,Sonoma,Petaluma,52.7,0.039,149,Unhealthy for Sensitive Groups,2024,4
+2024-04-13,Kern,Ridgecrest,12.5,0.036,90,Moderate,2024,4
+2024-04-14,Kern,Bakersfield,48.3,0.054,167,Unhealthy,2024,4
+2024-04-15,Kern,Bakersfield,39.6,0.029,126,Unhealthy for Sensitive Groups,2024,4
+2024-04-15,San Diego,San Diego,12.4,0.046,82,Moderate,2024,4
+2024-04-16,San Francisco,Daly City,51.6,0.033,108,Unhealthy for Sensitive Groups,2024,4
+2024-04-17,Fresno,Fresno,28.2,0.03,121,Unhealthy for Sensitive Groups,2024,4
+2024-04-17,San Diego,Chula Vista,33.9,0.041,100,Moderate,2024,4
+2024-04-18,San Diego,Chula Vista,30.9,0.028,84,Moderate,2024,4
+2024-04-18,Shasta,Redding,21.2,0.045,91,Moderate,2024,4
+2024-04-19,San Bernardino,Ontario,8.3,0.044,98,Moderate,2024,4
+2024-04-19,Los Angeles,Pasadena,34.8,0.035,121,Unhealthy for Sensitive Groups,2024,4
+2024-04-20,Alameda,Fremont,37.1,0.037,108,Unhealthy for Sensitive Groups,2024,4
+2024-04-20,San Bernardino,San Bernardino,40.2,0.022,146,Unhealthy for Sensitive Groups,2024,4
+2024-04-23,Alameda,Fremont,36.9,0.041,105,Unhealthy for Sensitive Groups,2024,4
+2024-04-24,Kern,Ridgecrest,35.7,0.052,153,Unhealthy,2024,4
+2024-04-26,Napa,Napa,49.3,0.029,112,Unhealthy for Sensitive Groups,2024,4
+2024-04-27,Los Angeles,Los Angeles,12.3,0.045,107,Unhealthy for Sensitive Groups,2024,4
+2024-04-28,San Diego,Chula Vista,21.6,0.027,93,Moderate,2024,4
+2024-04-28,Santa Clara,Sunnyvale,25.2,0.044,75,Moderate,2024,4
+2024-04-29,San Diego,San Diego,35.3,0.046,90,Moderate,2024,4
+2024-04-30,Los Angeles,Los Angeles,25.7,0.027,118,Unhealthy for Sensitive Groups,2024,4
+2024-05-02,Fresno,Fresno,21.1,0.042,121,Unhealthy for Sensitive Groups,2024,5
+2024-05-02,Marin,Mill Valley,45.8,0.03,116,Unhealthy for Sensitive Groups,2024,5
+2024-05-02,Santa Clara,Sunnyvale,39.7,0.028,126,Unhealthy for Sensitive Groups,2024,5
+2024-05-03,San Francisco,San Francisco,40.7,0.038,109,Unhealthy for Sensitive Groups,2024,5
+2024-05-07,Kern,Bakersfield,32.6,0.036,141,Unhealthy for Sensitive Groups,2024,5
+2024-05-07,Riverside,Riverside,46.2,0.027,136,Unhealthy for Sensitive Groups,2024,5
+2024-05-07,Sacramento,Elk Grove,40.5,0.048,95,Moderate,2024,5
+2024-05-08,Napa,Napa,42.1,0.027,121,Unhealthy for Sensitive Groups,2024,5
+2024-05-08,Santa Clara,Santa Clara,16.2,0.054,87,Moderate,2024,5
+2024-05-08,Santa Clara,Sunnyvale,10.0,0.046,69,Moderate,2024,5
+2024-05-09,Sonoma,Petaluma,52.2,0.041,111,Unhealthy for Sensitive Groups,2024,5
+2024-05-10,San Francisco,Daly City,29.0,0.051,82,Moderate,2024,5
+2024-05-13,San Francisco,San Francisco,35.5,0.051,117,Unhealthy for Sensitive Groups,2024,5
+2024-05-14,Kern,Ridgecrest,52.2,0.021,162,Unhealthy,2024,5
+2024-05-14,Sacramento,Elk Grove,24.9,0.021,75,Moderate,2024,5
+2024-05-15,Alameda,Oakland,22.8,0.02,64,Moderate,2024,5
+2024-05-16,Santa Clara,San Jose,10.6,0.047,67,Moderate,2024,5
+2024-05-16,Marin,San Rafael,26.8,0.022,97,Moderate,2024,5
+2024-05-17,Santa Clara,San Jose,48.0,0.051,103,Unhealthy for Sensitive Groups,2024,5
+2024-05-17,San Diego,San Diego,21.4,0.031,94,Moderate,2024,5
+2024-05-17,Fresno,Fresno,11.5,0.047,106,Unhealthy for Sensitive Groups,2024,5
+2024-05-18,San Diego,San Diego,53.0,0.021,110,Unhealthy for Sensitive Groups,2024,5
+2024-05-19,Kern,Bakersfield,52.0,0.03,144,Unhealthy for Sensitive Groups,2024,5
+2024-05-21,Sacramento,Elk Grove,51.7,0.048,122,Unhealthy for Sensitive Groups,2024,5
+2024-05-21,Fresno,Clovis,11.6,0.029,97,Moderate,2024,5
+2024-05-21,Sonoma,Petaluma,8.9,0.05,48,Good,2024,5
+2024-05-26,Kern,Bakersfield,17.7,0.027,94,Moderate,2024,5
+2024-05-27,San Bernardino,Ontario,30.9,0.029,147,Unhealthy for Sensitive Groups,2024,5
+2024-05-27,Shasta,Redding,11.2,0.027,76,Moderate,2024,5
+2024-05-28,San Diego,Chula Vista,35.3,0.043,111,Unhealthy for Sensitive Groups,2024,5
+2024-05-28,Alameda,Oakland,18.4,0.046,84,Moderate,2024,5
+2024-05-28,San Diego,Chula Vista,23.9,0.039,68,Moderate,2024,5
+2024-05-28,San Bernardino,San Bernardino,21.0,0.028,103,Unhealthy for Sensitive Groups,2024,5
+2024-05-30,Alameda,Berkeley,13.1,0.02,73,Moderate,2024,5
+2024-05-31,Fresno,Fresno,41.0,0.033,128,Unhealthy for Sensitive Groups,2024,5
+2024-05-31,Sacramento,Elk Grove,18.7,0.048,84,Moderate,2024,5
+2024-05-31,Santa Clara,Santa Clara,49.6,0.032,117,Unhealthy for Sensitive Groups,2024,5
+2024-06-01,Marin,Mill Valley,19.9,0.087,77,Moderate,2024,6
+2024-06-02,Kern,Ridgecrest,15.3,0.074,90,Moderate,2024,6
+2024-06-03,Napa,Napa,32.0,0.04,87,Moderate,2024,6
+2024-06-03,Marin,Mill Valley,25.9,0.087,107,Unhealthy for Sensitive Groups,2024,6
+2024-06-04,Sonoma,Petaluma,16.3,0.062,92,Moderate,2024,6
+2024-06-04,San Francisco,Daly City,12.3,0.088,85,Moderate,2024,6
+2024-06-05,Los Angeles,Long Beach,17.9,0.064,94,Moderate,2024,6
+2024-06-06,Los Angeles,Pasadena,19.5,0.042,99,Moderate,2024,6
+2024-06-07,San Bernardino,San Bernardino,34.1,0.075,150,Unhealthy for Sensitive Groups,2024,6
+2024-06-07,Santa Clara,Santa Clara,22.5,0.042,77,Moderate,2024,6
+2024-06-08,San Diego,San Diego,5.1,0.053,77,Moderate,2024,6
+2024-06-08,Monterey,Salinas,24.2,0.04,78,Moderate,2024,6
+2024-06-09,Sonoma,Petaluma,24.2,0.064,86,Moderate,2024,6
+2024-06-10,Monterey,Monterey,25.4,0.07,92,Moderate,2024,6
+2024-06-10,Santa Clara,Santa Clara,29.6,0.089,105,Unhealthy for Sensitive Groups,2024,6
+2024-06-10,Monterey,Monterey,34.0,0.088,87,Moderate,2024,6
+2024-06-14,Marin,Mill Valley,26.3,0.081,86,Moderate,2024,6
+2024-06-14,Fresno,Fresno,22.8,0.059,126,Unhealthy for Sensitive Groups,2024,6
+2024-06-18,Napa,Napa,34.5,0.079,103,Unhealthy for Sensitive Groups,2024,6
+2024-06-18,Napa,Napa,17.9,0.041,72,Moderate,2024,6
+2024-06-22,San Francisco,Daly City,12.4,0.044,65,Moderate,2024,6
+2024-06-22,Santa Clara,Sunnyvale,13.8,0.048,88,Moderate,2024,6
+2024-06-23,Sacramento,Elk Grove,10.2,0.073,46,Good,2024,6
+2024-06-25,Kern,Bakersfield,31.2,0.049,131,Unhealthy for Sensitive Groups,2024,6
+2024-06-25,Sonoma,Santa Rosa,23.5,0.061,67,Moderate,2024,6
+2024-06-25,Riverside,Riverside,20.8,0.042,66,Moderate,2024,6
+2024-06-25,Napa,Napa,22.0,0.085,91,Moderate,2024,6
+2024-06-25,Marin,Mill Valley,13.5,0.044,73,Moderate,2024,6
+2024-06-26,Marin,San Rafael,29.3,0.084,74,Moderate,2024,6
+2024-06-28,Marin,Mill Valley,16.8,0.082,75,Moderate,2024,6
+2024-07-01,Santa Clara,San Jose,19.5,0.078,81,Moderate,2024,7
+2024-07-02,Riverside,Riverside,34.4,0.063,101,Unhealthy for Sensitive Groups,2024,7
+2024-07-05,Sacramento,Sacramento,20.5,0.042,85,Moderate,2024,7
+2024-07-05,Sonoma,Petaluma,14.1,0.046,51,Moderate,2024,7
+2024-07-09,Fresno,Clovis,13.9,0.084,92,Moderate,2024,7
+2024-07-09,Marin,Mill Valley,8.0,0.063,67,Moderate,2024,7
+2024-07-10,Riverside,Riverside,21.0,0.056,98,Moderate,2024,7
+2024-07-12,Kern,Ridgecrest,14.5,0.061,86,Moderate,2024,7
+2024-07-12,Riverside,Palm Springs,10.4,0.07,63,Moderate,2024,7
+2024-07-13,Monterey,Salinas,12.0,0.053,66,Moderate,2024,7
+2024-07-13,Shasta,Redding,31.2,0.088,103,Unhealthy for Sensitive Groups,2024,7
+2024-07-14,San Diego,Chula Vista,28.5,0.085,84,Moderate,2024,7
+2024-07-15,Shasta,Redding,8.9,0.085,64,Moderate,2024,7
+2024-07-16,Alameda,Fremont,15.8,0.079,86,Moderate,2024,7
+2024-07-17,Fresno,Fresno,26.3,0.041,125,Unhealthy for Sensitive Groups,2024,7
+2024-07-18,Riverside,Riverside,32.0,0.057,83,Moderate,2024,7
+2024-07-20,San Bernardino,Ontario,6.9,0.053,99,Moderate,2024,7
+2024-07-22,Kern,Ridgecrest,7.2,0.09,87,Moderate,2024,7
+2024-07-22,Sacramento,Elk Grove,26.0,0.06,103,Unhealthy for Sensitive Groups,2024,7
+2024-07-23,Los Angeles,Pasadena,25.9,0.062,114,Unhealthy for Sensitive Groups,2024,7
+2024-07-25,Monterey,Monterey,8.0,0.053,57,Moderate,2024,7
+2024-07-25,San Francisco,Daly City,9.3,0.077,68,Moderate,2024,7
+2024-07-27,Los Angeles,Pasadena,27.7,0.047,124,Unhealthy for Sensitive Groups,2024,7
+2024-07-28,Fresno,Clovis,5.5,0.057,80,Moderate,2024,7
+2024-07-28,Fresno,Fresno,32.5,0.069,149,Unhealthy for Sensitive Groups,2024,7
+2024-07-28,Alameda,Berkeley,13.3,0.07,61,Moderate,2024,7
+2024-07-28,Napa,Napa,9.9,0.057,53,Moderate,2024,7
+2024-07-28,Kern,Ridgecrest,14.6,0.045,110,Unhealthy for Sensitive Groups,2024,7
+2024-07-29,San Francisco,Daly City,7.1,0.078,48,Good,2024,7
+2024-07-29,San Diego,San Diego,5.5,0.089,39,Good,2024,7
+2024-07-29,San Diego,San Diego,23.4,0.055,79,Moderate,2024,7
+2024-07-29,Alameda,Oakland,33.3,0.082,110,Unhealthy for Sensitive Groups,2024,7
+2024-07-30,San Francisco,San Francisco,18.5,0.057,58,Moderate,2024,7
+2024-07-30,Santa Clara,Sunnyvale,5.1,0.051,41,Good,2024,7
+2024-07-30,San Bernardino,San Bernardino,18.3,0.056,105,Unhealthy for Sensitive Groups,2024,7
+2024-07-30,Marin,San Rafael,25.8,0.064,93,Moderate,2024,7
+2024-07-31,Los Angeles,Pasadena,21.6,0.087,103,Unhealthy for Sensitive Groups,2024,7
+2024-08-01,Marin,San Rafael,29.5,0.046,112,Unhealthy for Sensitive Groups,2024,8
+2024-08-04,Alameda,Fremont,24.4,0.047,72,Moderate,2024,8
+2024-08-04,San Diego,San Diego,27.2,0.04,105,Unhealthy for Sensitive Groups,2024,8
+2024-08-04,San Francisco,San Francisco,5.5,0.074,56,Moderate,2024,8
+2024-08-05,Napa,Napa,33.6,0.064,104,Unhealthy for Sensitive Groups,2024,8
+2024-08-07,Los Angeles,Long Beach,28.8,0.063,118,Unhealthy for Sensitive Groups,2024,8
+2024-08-11,Los Angeles,Long Beach,19.7,0.062,117,Unhealthy for Sensitive Groups,2024,8
+2024-08-11,Santa Clara,Santa Clara,10.4,0.055,51,Moderate,2024,8
+2024-08-17,Riverside,Palm Springs,34.7,0.074,89,Moderate,2024,8
+2024-08-17,Alameda,Berkeley,6.6,0.051,68,Moderate,2024,8
+2024-08-18,Riverside,Palm Springs,26.9,0.053,85,Moderate,2024,8
+2024-08-19,Shasta,Redding,9.3,0.043,62,Moderate,2024,8
+2024-08-19,Monterey,Salinas,9.5,0.045,74,Moderate,2024,8
+2024-08-20,Marin,Mill Valley,17.8,0.056,81,Moderate,2024,8
+2024-08-20,Alameda,Berkeley,30.3,0.08,92,Moderate,2024,8
+2024-08-21,Napa,Napa,25.2,0.046,80,Moderate,2024,8
+2024-08-21,Alameda,Berkeley,23.0,0.059,64,Moderate,2024,8
+2024-08-22,San Diego,San Diego,21.2,0.087,78,Moderate,2024,8
+2024-08-22,San Diego,San Diego,11.7,0.077,54,Moderate,2024,8
+2024-08-23,Fresno,Clovis,13.5,0.067,93,Moderate,2024,8
+2024-08-24,San Francisco,San Francisco,21.4,0.065,98,Moderate,2024,8
+2024-08-25,San Francisco,Daly City,23.9,0.084,88,Moderate,2024,8
+2024-08-25,San Francisco,Daly City,13.3,0.04,57,Moderate,2024,8
+2024-08-26,Alameda,Berkeley,24.0,0.08,101,Unhealthy for Sensitive Groups,2024,8
+2024-08-26,San Diego,Chula Vista,11.8,0.072,70,Moderate,2024,8
+2024-08-27,Sacramento,Sacramento,17.3,0.047,92,Moderate,2024,8
+2024-08-27,Sonoma,Santa Rosa,7.0,0.074,51,Moderate,2024,8
+2024-08-29,Napa,Napa,25.8,0.081,94,Moderate,2024,8
+2024-08-29,San Diego,Chula Vista,20.7,0.05,87,Moderate,2024,8
+2024-08-30,San Francisco,San Francisco,7.6,0.062,64,Moderate,2024,8
+2024-08-30,Sacramento,Elk Grove,25.7,0.058,95,Moderate,2024,8
+2024-08-30,Los Angeles,Long Beach,13.6,0.072,90,Moderate,2024,8
+2024-08-31,San Diego,San Diego,16.5,0.068,56,Moderate,2024,8
+2024-08-31,Fresno,Fresno,28.2,0.076,139,Unhealthy for Sensitive Groups,2024,8
+2024-08-31,San Bernardino,San Bernardino,29.5,0.062,116,Unhealthy for Sensitive Groups,2024,8
+2024-09-01,Shasta,Redding,32.1,0.054,92,Moderate,2024,9
+2024-09-03,San Diego,Chula Vista,15.1,0.074,82,Moderate,2024,9
+2024-09-04,San Diego,San Diego,22.9,0.056,68,Moderate,2024,9
+2024-09-05,San Bernardino,San Bernardino,16.1,0.068,116,Unhealthy for Sensitive Groups,2024,9
+2024-09-05,Sacramento,Sacramento,5.1,0.041,56,Moderate,2024,9
+2024-09-05,San Francisco,Daly City,27.3,0.069,106,Unhealthy for Sensitive Groups,2024,9
+2024-09-05,San Diego,San Diego,12.5,0.071,57,Moderate,2024,9
+2024-09-05,Marin,Mill Valley,22.6,0.065,92,Moderate,2024,9
+2024-09-07,Marin,Mill Valley,8.1,0.067,69,Moderate,2024,9
+2024-09-09,Sacramento,Sacramento,34.6,0.084,112,Unhealthy for Sensitive Groups,2024,9
+2024-09-10,Shasta,Redding,21.6,0.087,75,Moderate,2024,9
+2024-09-11,Sacramento,Sacramento,19.9,0.09,83,Moderate,2024,9
+2024-09-12,Marin,Mill Valley,11.2,0.045,47,Good,2024,9
+2024-09-14,San Diego,San Diego,5.6,0.048,46,Good,2024,9
+2024-09-15,Sacramento,Elk Grove,31.4,0.076,97,Moderate,2024,9
+2024-09-15,Fresno,Clovis,25.4,0.09,143,Unhealthy for Sensitive Groups,2024,9
+2024-09-16,Napa,Napa,24.1,0.078,99,Moderate,2024,9
+2024-09-17,Marin,San Rafael,30.5,0.051,91,Moderate,2024,9
+2024-09-18,San Diego,San Diego,29.1,0.087,96,Moderate,2024,9
+2024-09-19,Sacramento,Sacramento,13.4,0.081,84,Moderate,2024,9
+2024-09-19,San Francisco,San Francisco,16.2,0.071,76,Moderate,2024,9
+2024-09-21,Sonoma,Petaluma,32.7,0.042,80,Moderate,2024,9
+2024-09-21,Alameda,Fremont,26.3,0.055,108,Unhealthy for Sensitive Groups,2024,9
+2024-09-22,San Diego,Chula Vista,28.0,0.043,74,Moderate,2024,9
+2024-09-22,Los Angeles,Los Angeles,12.9,0.045,92,Moderate,2024,9
+2024-09-23,Napa,Napa,21.5,0.055,70,Moderate,2024,9
+2024-09-25,Monterey,Salinas,18.0,0.086,74,Moderate,2024,9
+2024-09-26,Napa,Napa,21.8,0.078,101,Unhealthy for Sensitive Groups,2024,9
+2024-09-27,Alameda,Berkeley,18.7,0.049,77,Moderate,2024,9
+2024-09-27,Santa Clara,Sunnyvale,7.7,0.044,56,Moderate,2024,9
+2024-09-28,Monterey,Monterey,17.4,0.081,66,Moderate,2024,9
+2024-09-30,Shasta,Redding,16.1,0.067,66,Moderate,2024,9
+2024-09-30,San Bernardino,San Bernardino,22.8,0.061,119,Unhealthy for Sensitive Groups,2024,9
+2024-10-01,Fresno,Fresno,13.1,0.025,100,Moderate,2024,10
+2024-10-02,Santa Clara,Santa Clara,22.9,0.038,103,Unhealthy for Sensitive Groups,2024,10
+2024-10-04,Los Angeles,Los Angeles,36.6,0.047,121,Unhealthy for Sensitive Groups,2024,10
+2024-10-05,Shasta,Redding,31.8,0.021,114,Unhealthy for Sensitive Groups,2024,10
+2024-10-10,Shasta,Redding,24.4,0.029,95,Moderate,2024,10
+2024-10-11,San Francisco,San Francisco,17.8,0.034,81,Moderate,2024,10
+2024-10-12,San Bernardino,Ontario,41.3,0.027,156,Unhealthy,2024,10
+2024-10-12,Riverside,Palm Springs,50.6,0.028,125,Unhealthy for Sensitive Groups,2024,10
+2024-10-13,Santa Clara,San Jose,11.2,0.025,53,Moderate,2024,10
+2024-10-13,Los Angeles,Los Angeles,12.9,0.033,120,Unhealthy for Sensitive Groups,2024,10
+2024-10-14,Los Angeles,Los Angeles,9.5,0.04,117,Unhealthy for Sensitive Groups,2024,10
+2024-10-15,Sacramento,Sacramento,9.1,0.045,59,Moderate,2024,10
+2024-10-15,Kern,Bakersfield,33.2,0.048,134,Unhealthy for Sensitive Groups,2024,10
+2024-10-17,San Diego,San Diego,43.4,0.046,111,Unhealthy for Sensitive Groups,2024,10
+2024-10-19,San Bernardino,Ontario,25.9,0.025,112,Unhealthy for Sensitive Groups,2024,10
+2024-10-19,Alameda,Fremont,35.1,0.044,91,Moderate,2024,10
+2024-10-19,San Francisco,San Francisco,30.1,0.024,104,Unhealthy for Sensitive Groups,2024,10
+2024-10-26,San Francisco,San Francisco,23.5,0.038,82,Moderate,2024,10
+2024-10-26,Fresno,Fresno,49.8,0.052,179,Unhealthy,2024,10
+2024-10-26,Santa Clara,San Jose,32.8,0.033,84,Moderate,2024,10
+2024-10-27,Kern,Ridgecrest,18.2,0.051,100,Moderate,2024,10
+2024-10-29,Sonoma,Petaluma,41.4,0.042,102,Unhealthy for Sensitive Groups,2024,10
+2024-10-30,San Francisco,Daly City,42.9,0.035,123,Unhealthy for Sensitive Groups,2024,10
+2024-10-30,Fresno,Clovis,21.0,0.043,115,Unhealthy for Sensitive Groups,2024,10
+2024-10-30,Napa,Napa,51.9,0.025,116,Unhealthy for Sensitive Groups,2024,10
+2024-10-31,Shasta,Redding,22.7,0.035,89,Moderate,2024,10
+2024-10-31,Los Angeles,Long Beach,51.9,0.032,153,Unhealthy,2024,10
+2024-11-01,Kern,Bakersfield,14.5,0.044,119,Unhealthy for Sensitive Groups,2024,11
+2024-11-02,Sacramento,Sacramento,10.3,0.043,65,Moderate,2024,11
+2024-11-03,Kern,Ridgecrest,26.1,0.03,128,Unhealthy for Sensitive Groups,2024,11
+2024-11-03,Shasta,Redding,39.3,0.054,103,Unhealthy for Sensitive Groups,2024,11
+2024-11-04,San Diego,San Diego,11.3,0.047,72,Moderate,2024,11
+2024-11-04,Monterey,Salinas,53.6,0.031,138,Unhealthy for Sensitive Groups,2024,11
+2024-11-05,San Bernardino,San Bernardino,44.7,0.047,132,Unhealthy for Sensitive Groups,2024,11
+2024-11-06,Napa,Napa,32.2,0.055,112,Unhealthy for Sensitive Groups,2024,11
+2024-11-06,Napa,Napa,46.5,0.033,139,Unhealthy for Sensitive Groups,2024,11
+2024-11-07,Marin,Mill Valley,15.0,0.039,74,Moderate,2024,11
+2024-11-07,Santa Clara,San Jose,50.4,0.048,141,Unhealthy for Sensitive Groups,2024,11
+2024-11-07,Napa,Napa,26.7,0.028,83,Moderate,2024,11
+2024-11-07,Sonoma,Santa Rosa,44.5,0.05,121,Unhealthy for Sensitive Groups,2024,11
+2024-11-08,San Francisco,Daly City,21.3,0.05,81,Moderate,2024,11
+2024-11-08,Alameda,Fremont,45.8,0.05,117,Unhealthy for Sensitive Groups,2024,11
+2024-11-09,San Francisco,San Francisco,12.7,0.03,89,Moderate,2024,11
+2024-11-11,Los Angeles,Long Beach,49.5,0.034,163,Unhealthy,2024,11
+2024-11-12,Los Angeles,Pasadena,10.5,0.051,82,Moderate,2024,11
+2024-11-13,Monterey,Monterey,15.9,0.048,74,Moderate,2024,11
+2024-11-14,Shasta,Redding,47.1,0.03,121,Unhealthy for Sensitive Groups,2024,11
+2024-11-15,Marin,Mill Valley,15.8,0.046,73,Moderate,2024,11
+2024-11-16,Sacramento,Elk Grove,35.1,0.024,111,Unhealthy for Sensitive Groups,2024,11
+2024-11-17,Alameda,Oakland,10.1,0.037,64,Moderate,2024,11
+2024-11-19,Marin,Mill Valley,27.7,0.027,87,Moderate,2024,11
+2024-11-20,San Francisco,Daly City,18.5,0.04,95,Moderate,2024,11
+2024-11-22,Napa,Napa,19.8,0.042,82,Moderate,2024,11
+2024-11-23,San Bernardino,Ontario,8.6,0.045,114,Unhealthy for Sensitive Groups,2024,11
+2024-11-23,Riverside,Palm Springs,42.6,0.029,130,Unhealthy for Sensitive Groups,2024,11
+2024-11-26,Los Angeles,Pasadena,34.1,0.024,116,Unhealthy for Sensitive Groups,2024,11
+2024-11-27,Sacramento,Sacramento,47.1,0.049,115,Unhealthy for Sensitive Groups,2024,11
+2024-11-29,Sacramento,Elk Grove,25.7,0.049,104,Unhealthy for Sensitive Groups,2024,11
+2024-11-30,Sonoma,Petaluma,51.2,0.024,116,Unhealthy for Sensitive Groups,2024,11
+2024-12-02,Marin,Mill Valley,27.3,0.033,101,Unhealthy for Sensitive Groups,2024,12
+2024-12-02,Monterey,Salinas,47.8,0.048,134,Unhealthy for Sensitive Groups,2024,12
+2024-12-02,Shasta,Redding,44.8,0.038,104,Unhealthy for Sensitive Groups,2024,12
+2024-12-03,Alameda,Oakland,47.0,0.039,137,Unhealthy for Sensitive Groups,2024,12
+2024-12-03,San Bernardino,Ontario,41.4,0.024,135,Unhealthy for Sensitive Groups,2024,12
+2024-12-04,Monterey,Monterey,41.8,0.043,110,Unhealthy for Sensitive Groups,2024,12
+2024-12-05,Riverside,Palm Springs,22.5,0.021,88,Moderate,2024,12
+2024-12-09,Napa,Napa,22.2,0.021,84,Moderate,2024,12
+2024-12-09,Fresno,Fresno,32.6,0.047,125,Unhealthy for Sensitive Groups,2024,12
+2024-12-10,Shasta,Redding,10.2,0.054,65,Moderate,2024,12
+2024-12-11,San Diego,San Diego,38.5,0.026,104,Unhealthy for Sensitive Groups,2024,12
+2024-12-11,Los Angeles,Los Angeles,33.7,0.042,150,Unhealthy for Sensitive Groups,2024,12
+2024-12-12,Kern,Bakersfield,29.4,0.029,119,Unhealthy for Sensitive Groups,2024,12
+2024-12-13,Sonoma,Santa Rosa,8.9,0.05,82,Moderate,2024,12
+2024-12-13,Sonoma,Petaluma,12.9,0.048,84,Moderate,2024,12
+2024-12-18,Sacramento,Elk Grove,25.9,0.027,70,Moderate,2024,12
+2024-12-19,Riverside,Palm Springs,37.6,0.027,110,Unhealthy for Sensitive Groups,2024,12
+2024-12-22,San Diego,San Diego,35.3,0.046,82,Moderate,2024,12
+2024-12-23,San Bernardino,Ontario,10.4,0.033,109,Unhealthy for Sensitive Groups,2024,12
+2024-12-24,Los Angeles,Long Beach,14.1,0.028,90,Moderate,2024,12
+2024-12-26,Riverside,Palm Springs,11.7,0.041,76,Moderate,2024,12
+2024-12-26,Fresno,Clovis,35.4,0.028,137,Unhealthy for Sensitive Groups,2024,12
+2024-12-26,Riverside,Riverside,9.6,0.038,81,Moderate,2024,12
+2024-12-27,Napa,Napa,31.9,0.027,106,Unhealthy for Sensitive Groups,2024,12
+2024-12-27,Marin,Mill Valley,54.4,0.038,132,Unhealthy for Sensitive Groups,2024,12
+2024-12-28,Riverside,Riverside,28.5,0.028,111,Unhealthy for Sensitive Groups,2024,12
+2024-12-28,Los Angeles,Long Beach,42.0,0.034,128,Unhealthy for Sensitive Groups,2024,12
+2024-12-29,Monterey,Monterey,34.9,0.022,98,Moderate,2024,12
