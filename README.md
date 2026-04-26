@@ -140,4 +140,4 @@ enviro-query/
 
 **Ian Hohsfield** — [linkedin.com/in/ian-hohsfield-9023333a8](https://linkedin.com/in/ian-hohsfield-9023333a8)
 
-Built as part of a portfolio targeting data engineering and AI/ML roles. Demonstrates: LLM API integration, text-to-SQL pattern, in-memory SQL engines, and data pipeline design.
+
