@@ -234,7 +234,7 @@ Example output format:
 {{"sql": "SELECT county, AVG(aqi) as avg_aqi FROM air_quality GROUP BY county ORDER BY avg_aqi DESC LIMIT 10", "explanation": "This finds the 10 counties with the highest average Air Quality Index."}}"""
 
     response = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-5",
         max_tokens=1000,
         system=system_prompt,
         messages=[{"role": "user", "content": question}]
