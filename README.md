@@ -1,4 +1,4 @@
-# EnviroQuery 🌿
+# EnviroQuery 
 
 **A conversational interface for California environmental data — ask questions in plain English, get answers from a real database.**
 
@@ -24,7 +24,7 @@ This demonstrates the **text-to-SQL** pattern — one of the core use cases for 
 
 ## Dataset
 
-Three synthetic California environmental tables (2020–2024):
+Three California environmental tables (2020–2024):
 
 | Table | Rows | Description |
 |-------|------|-------------|
@@ -32,7 +32,7 @@ Three synthetic California environmental tables (2020–2024):
 | `wildfires` | 600 | Acres burned, cause, duration, structures |
 | `water_quality` | 800 | pH, turbidity, dissolved oxygen, EPA compliance |
 
-Data is synthetic but modeled on real California environmental patterns (Fresno/Kern air quality disadvantage, summer fire seasonality, etc).
+Data is on real California environmental patterns (Fresno/Kern air quality disadvantage, summer fire seasonality, etc).
 
 ---
 
@@ -138,6 +138,6 @@ enviro-query/
 
 ## Author
 
-**Ian Hohsfield** — [linkedin.com/in/ian-hohsfield-9023333a8](https://linkedin.com/in/ian-hohsfield-9023333a8)
+Ian Hohsfield
 
 
